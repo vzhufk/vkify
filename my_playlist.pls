@@ -1,0 +1,2139 @@
+[playlist]
+File1=https://cs9-2v4.vkuseraudio.net/p6/e6ad232f6afa31.mp3?extra=YN42HXy1khaWdOOqwL0jbvXkw0FsydzuVpBYeCQEHyY-ToMPOdPUr1iFYWgOLrkbFuo4saM__W9R73zg_NELhDOpjwcCY10Qnrq3o3zh5IKkmFzBt90mQW0EEXv2wHk2ToLVdgJUlAVHtuQ
+Title1=Avenged Sevenfold - Hail to the King (Radio Edit)
+Length1=272
+File2=https://cs9-8v4.vkuseraudio.net/p4/118cb66c4b00a6.mp3?extra=9grf-JP2-5sDy-Kp5NHuVDwUOf8XVB0FN1oC-ifYj_Lk6S2cSGuGdDpCM6jCuAiK4ujKGypBGh5S_oeW2bodjhVSa3G_KGR6cw08XdG-feC5S8qFoKJSCy-s6-01CNKnY5tYhdTm8sp7xkk
+Title2=Gojira - Stranded (2016)
+Length2=272
+File3=https://psv4.vkuseraudio.net/c611719/u371745454/audios/134a619e45b3.mp3?extra=UGIHg2N9uw9PT84V6mUvwtcW46Fx_e0gPZlDMBEFmxAqK-26xHVrkmAM4gw5WfpNhK2D2nbILuBKTXmDm7Hgb4h5Go22JE82Okw8CRzYBdYcN9UUUqwidNEhVCB1X0_NQusWixj_nEbTwe4
+Title3=Gojira - Only Pain
+Length3=240
+File4=https://psv4.vkuseraudio.net/c521514/u56343468/audios/3831e1a1fe4b.mp3?extra=dZpRICjB0Otk2RJ2OQXbA-BQQS-jBkQs8EFwO8AApqlcWus4B68usMiVvswC03A_iwaxnuscZXtgt0dWRSSh8sCwCe6djDKKU-xy9n5nQGuZZ_dx005LTw-LBQxx9XkJlqyFAra-pL699A4
+Title4=Merlin Menson - The Nobodies (Acoustic)
+Length4=215
+File5=https://psv4.vkuseraudio.net/c613127/u46805954/audios/bca936ba3a69.mp3?extra=IF79af0cztR5_gX0_PLAeLRVfrfmXYuV1HMNQCayDeGVZVh_sj8BG0l8fRDzgJIIHZjV9inpgYNtKB_Hs9Twl6bvuEKDmzVFEq48OqDrrOVf_TpxGl49khPWN-eFGBmxrBgXTPEs53U0f-E
+Title5=Jinjer - Just Another (King of Everything 2016)
+Length5=254
+File6=https://cs9-5v4.vkuseraudio.net/p24/2ed7fd2ff46bd6.mp3?extra=HV16O_6TSb9coLjqqcPTuRaWelDyUr7bt6KQ9sXGTiF4JDBwOa5X9ea6VsakbQTpwMbmGQck6W7WYrKeWBbRLiQ7eHzLkv4dr10ClosVzmHxId969jXsHpfmwfUhWQ9KAFcxcZ2JdKqeuv0
+Title6=Disturbed - Rise
+Length6=237
+File7=https://psv4.vkuseraudio.net/c1751/u5867859/audios/a762eaa5fe9e.mp3?extra=K-k_PIrk9bIMWl0YFMe5sdnPnEK3gRqI2p5tb3T9m81jN6x5dpfluGFAwkxU9vZXwc3an-tLwBOfa9aaF2g1uLN5QRF5umdYUv39jWBg0q0uluoAUGOX2AGuDjtGZg_i5vsNrFdpXFvOA7U
+Title7=Apocalyptica - Hall of the Mauntain King
+Length7=209
+File8=https://psv4.vkuseraudio.net/c613816/u345591846/audios/aba5fdbbff26.mp3?extra=QF1ozPU2JoXy7K7vBD7EXS3yaPFS8UY6aCZLtgzwi9wB5hIsttaBvO18IbJg4bigcYsG0_9SsTP9LmDdRKGqTPsY06kYdoYu1Al5qW7gmVGimuWOTpwEQcqIL2d4FyPhLpp8A_23ksbwnuc
+Title8=Five Finger Death Punch - You&#039;re Not My Kind
+Length8=187
+File9=
+Title9=Five Finger Death Punch - Wrong Side Of Heaven
+Length9=281
+File10=https://cs9-17v4.vkuseraudio.net/p15/1131ded6faa5d3.mp3?extra=5C2aceu9quhbkwlnNcJHQV3qtmp9YgJv0wi9bKQ9iF5zc-b7YTgWtJSgwffDZMd-sgxsxtmaI9HImdc0FE4AeXLUY5hfDv3YHkTk3UdzF5fKnacK8d6exXwx3puX-WoDfhNYOiaAlPer3cc
+Title10=Five Finger Death Punch - My Heart Lied
+Length10=215
+File11=https://psv4.vkuseraudio.net/c613816/u345591846/audios/aba5fdbbff26.mp3?extra=QF1ozPU2JoXy7K7vBD7DXS3yaPFS8UY6aCZLtgzwi9wB5hIsttaBvO18IbJg4bigcYsG0_9SsTP9LmDdRKGqTPsY06kYdoYu1Al5qW7gmVGimuWOTpwEQcqIL2d4FyOxcph5VaazmZbyneY
+Title11=Five Finger Death Punch - You&#039;re Not My Kind
+Length11=187
+File12=https://psv4.vkuseraudio.net/c6127/u146366502/audios/d3acdd099ef0.mp3?extra=M6Ga0PukTdDB3cGYqxGfNfnOViYGX28vGqNyK7TIwDfSh11qtXsOLzthxLXXy7VBqxjfz8EOqZ-L5SPomamJ-gFYoWn0Z9IY-tiGxUBYLQ7XYP-dPhxFkU2peDYftSpWk4Y8vys4lQ3QGJo
+Title12=Jerry Martin - Shape Shifter
+Length12=455
+File13=https://cs9-7v4.vkuseraudio.net/p14/a6bdf033467b80.mp3?extra=o0OuOT5xnzajqVhB2eF1ENPKhLPlEXdf6e-jwFoFX5n5i1zRI6B9_AR84mrkcpf3Qjl4We_IImqQIsNT-QtkYKDeM-TKAHxSWczKsJSne7Ag5cDyeXFhfywuVKYPFNdU93d5Rgm5Y0JNdVk
+Title13=VOSMOY - Little Song
+Length13=274
+File14=https://cs9-12v4.vkuseraudio.net/p4/fc48bb2ff9c9c1.mp3?extra=Sj94Akb7mo8rWZ71OqsyXMXEkCXLYEFXbGcXkTXtr7U5su6UKYBQBhhGwI9TT3A9_AzXki34m6QOb2OR1V3mIOOiY1ftr7uu2gethmgfGN_V-yUyRCpVnE9IV8EVTBoM0kj_pM_IKyzq3BA
+Title14=Kansas - Dust in the Wind
+Length14=208
+File15=https://psv4.vkuseraudio.net/c5121/u104559952/audios/a5607083c095.mp3?extra=QXSwl1enVzC7OolN8LS4eZ9eRp8T3a02FZrucWHcAjSUsQGiAeONTGHLLWMl3Wa64wNTJTfOzlSUvFSat11gU4lqLlJ26ZuinJ3PIxwjQBpZHeG9iZC97l1DKITqDfEvnUtb6EPYyWhDNzg
+Title15=Nine Inch Nails - 34 Ghost IV
+Length15=352
+File16=https://cs9-3v4.vkuseraudio.net/p24/a73d165d3f84bc.mp3?extra=9D_DI2c6SVTeB7zPhKvKBs6CQPBxqYLza0luEb90kinHc8hmIDMVzKlzpg_d0o0SDRRCyfmqZKNTwFlA6OZhj2ZGMmFDsdXy9Eb-h4pgGZ0meo4XVwIkYCwx7lAy8KT9PVION84RMDt460k
+Title16=Disturbed - The Sound of Silence
+Length16=248
+File17=https://psv4.vkuseraudio.net/c1027/u807594/audios/0845c6416911.mp3?extra=8nR4srKY_Pmu7wUc-f-WzIY5M33kdKQ4sEn30KnjlZFTNwH0iIcJN3ucLhPQwr9e4LwMuNRjrA7L52X94acswiFs3h89mVUxVBCn1H88fZSvB_jwVII7FCPJW8jOI8g82YRVJpd4_smKbYo
+Title17=Akeboshi - Wind
+Length17=221
+File18=https://psv4.vkuseraudio.net/c4970/u16022389/audios/3bafaf71382a.mp3?extra=oCjbUrWf3J3TtnKYk7c5MCUREmyM79_I6A5gnwultNOsEvjdSh_ZVBbmAgOxSmAVX82eGkRVLTvcSm5yAw5Vp-W-AG9ltXQCka8Fyci803PpqtDXYs-uyFf0JkljwG1NG0RJp2Wn3RKjQb0
+Title18=Foster The People - Pumped Up Kicks
+Length18=253
+File19=https://cs9-11v4.vkuseraudio.net/p13/8d5839152124ac.mp3?extra=YOS2IOED9C_ZMRR9ixMEfjoba6_0To9TXW3l-qrIdKSyFNZBLoYGgMNNcMyvBXlf84qLbg2WW8sw4kgrZ1BIY2hhIpBecAi-9so0PpA9Rgoi43qBKF6Job1ejKu77WXT0xVtRtkWBBVZgck
+Title19=Creedence Clearwater Revival - Susie Q
+Length19=515
+File20=https://cs9-14v4.vkuseraudio.net/p18/7cae3ca8fd3ab6.mp3?extra=L2gtOUC0QrTmFWw1AljzD2AW3cTwcKJwvpKSjvsF0VByIdMpiCYMvqY8VPF5Wld8XyeV2m7WbbxdhXVEMRma1M5ZpKOMviH044BKnRuKe_HYq3AtDU9HgiC-b-TT9xEzCkyVlHZ_On50TgE
+Title20=The Wipers - D-7
+Length20=248
+File21=https://cs9-13v4.vkuseraudio.net/p5/3e64a8b5033d64.mp3?extra=kVcv8pgPuGgg6ABwlP0MYN-bMaeqPBPNAv_8drpZrRjkW2dr5tDlxFs0636GMp43Rh5q-tmo4G4RBfmN0dq95NYmvxd7BEVgQfR1s-dbKeq6d7of-mS2EFB0_8kXVhiodI6UZnvBUB_Bb-0
+Title21=Johann Sebastian Bach - Air on the G String
+Length21=359
+File22=https://cs9-1v4.vkuseraudio.net/p24/ae32ad90eef31f.mp3?extra=gf3q0E0xNfMyGATT_vEizvykf38rBej12c-ldq76hyD3z459Dcch9qGd6O7vHqykm71A_GD8ehEuCotmeb7mu_njKN0Q6JkMiin3fNDoRbxmLv4G6x2_GimwuqMP94nvFKU28f1MoPwReaY
+Title22=Radiohead - True Love Waits
+Length22=285
+File23=https://cs9-4v4.vkuseraudio.net/p6/57d37a0461c415.mp3?extra=JoTujkKawDQfi3YARe4a1RAcNQJ6wItNPDKhUjBgmS75V4Db5qZ85mbf2Q5q6DDKg2VKrfUl5ySXNtwetNhE2wj-cyeUbxSe1kgcoAGTxEE2bQ_JM7eEu6wCu1BIqdmJPHQvf3K2srY7DLA
+Title23=Bag Raiders - Shooting Stars
+Length23=235
+File24=https://psv4.vkuseraudio.net/c4756/u263547/audios/24f0d28a76c0.mp3?extra=UlI9RWP7N07idDjwQAJtF_WTUVLuJl_Nh4S8RMPF4OODiNZo4kpxT215j8uCu3jaJHgKo8iBcvKU-T3V2T8R7SAmpMQQPUtHR-eRXfRi2i11BqZE0Jf0yu2ao0wDLKBpbHUeO4m6NxTKI50
+Title24=The Doors - Albinoni&#039;s Adagio in G Minor
+Length24=272
+File25=https://cs9-8v4.vkuseraudio.net/p16/ce82179242d7a1.mp3?extra=CvWrUvvnA_WnB5IZ6-8d9UZRXB-rXKpw-E6lNsKI__19LEMVSiQ76fVx1Z51guaKmIiDOted6U_5sBneyW5Rtg2bXax6hRi1YPWNCSPk9jiIHjUfxAzIQM0wmDlLOTWCKOkW5Zupk4gmqb8
+Title25=Weezer - Buddy Holly
+Length25=159
+File26=https://cs9-5v4.vkuseraudio.net/p18/75c2b0d3f2654f.mp3?extra=D-xIhsbvWSx-pm1r8VL0SnETXI5_16UGrJAfMXnPhy8-uH1WQ-cI95YEF1PL8dS_eCKl5AHAe97JUwPaWoszxhPqrZIwPS0j-QaTbetm4gRR4z56M4SIM8OOc0MQ-fn-UNH81hwotyfG96Y
+Title26=Daughter - Landfill
+Length26=263
+File27=https://cs9-1v4.vkuseraudio.net/p17/9d210af31fd1a4.mp3?extra=jqEDMkRh9uG37SwU_wFu8jzost4agVH6WaYjoazNdLkl3ax14Arlm_i7Xu5Y8xGl18GehX5fkOEop3ZciwGyA_5WMzacRwpQkt9SZWbRwMop7UsYxy6fkcfg_BJduIJFAJPA1mwNKe-voT0
+Title27=Death Cab For Cutie - I Will Follow You Into the Dark
+Length27=189
+File28=https://cs9-14v4.vkuseraudio.net/p9/5b4067ebdeea83.mp3?extra=XFyaHuAswAI-ZBOBS2Exgiw6C8UDK63zUFufZeRGWytthQaimySsvtH3WXolmQwDWjTOFYgECSiQ3CZblIEtrqzEUtcoRQdks7HL9T2bdEht-_6ztA5gR07VzhC_pARN2o8H2iOFISosTAw
+Title28=Haley Reinhart - I Can&#039;t Help Falling In Love With You
+Length28=173
+File29=https://psv4.vkuseraudio.net/c613121/u171072800/audios/8ee4a144e247.mp3?extra=UmMJGWUv4i_ShWz6k8shzSVQBWm-u2uS-9fTWYkTOrYKHbafUQ19PoGvP28a3keq3vct2uNREqPRS-8Too7uBCBWVqz_iIKSvy-5F6jh7JBH2xEXM7a3Owk8kH2HGRlG3E0wTAWl-0hnv2M
+Title29=Isaac Gracie - Terrified
+Length29=255
+File30=https://psv4.vkuseraudio.net/c6173/u68310579/audios/82dde3ba5b26.mp3?extra=zXGcot35yd2Rg8YU5rDP6kupyVYNFUkJJEXr4B3pR_f3N4WsJRHZft3I_Lp-9dfoBRYEeZtzgiaCb5YgUt2kkV0HXSJxbUteaqD90bQX8mUUn6dqii8Fpn2mz0ORuMNaUMWjGr2rU-G6kvI
+Title30=Bush - Swallowed
+Length30=291
+File31=https://cs9-2v4.vkuseraudio.net/p6/0899a1665ae3b5.mp3?extra=S-XBOFXIEnBbhZO3oilA0kX7d-NhT4STkSyxP0TymeJ-Z1cH0YgSuyhr7fPrNUncHzkv5dY5w2CCx7MOXW1Wp-E0hRupZvsm8q7CLvg74rpduiWX7B34qHtTPl6-Ou7GOjXrG25M4LhvwGQ
+Title31=Arctic Monkeys - I.D.S.T.
+Length31=111
+File32=https://cs9-1v4.vkuseraudio.net/p4/2aec2b663dd1fb.mp3?extra=bFU_2BEaaB8jQBp1sYPsZCZy9pv6_7IHk4BnwhkzYqsGgICgAtzXkvbBK3fM1d00x2d32Upauwm8qOQuAv3dKPCuzBrAaSbl9-kVp1unwO9EtdgTMzZLH1qwbezoJpsEoTc9sXcINUCFPeM
+Title32=Michael C. Hall - Lazarus
+Length32=221
+File33=https://psv4.vkuseraudio.net/c611218/u113238987/audios/f9c54ecbde99.mp3?extra=k1R0eAzIngWyocQBCBlFnRbk06jarDglkjrIfh2JlXvAhKklHvckyE12WBmVrmJbfsXCVIan3Aagd6NO1J7P73PcBDVVFLpljqYEmGlauB3_JWq1r7kLYUIa7aUlT0-_sbXF_4UYOcalFXU
+Title33=Kodaline - The One
+Length33=232
+File34=https://cs9-4v4.vkuseraudio.net/p1/ff92a4e484861b.mp3?extra=ALThHdqS4csiOrCyAi6gBhJZ1iDd98VA2gae6o-J0b9LxRcgQjogn17B4lqOlHiMmlHmKx36fcVOBlF9FXfAq7UH9uao2XcGJjWGDwZyKZ4aDKTgWM18i71KH4XynQGwV7fB9LN_q-iVbkQ
+Title34=Andy Hull and Robert McDowell feat. Paul Dano and Daniel Radcliffe - Swiss Army Man (Soundtrack Preview) [OST Человек &ndash; швейцарский нож]
+Length34=314
+File35=https://cs9-2v4.vkuseraudio.net/p22/36fb235199955a.mp3?extra=KxSpKC4t9iou8NC0Ydv7bNdBLqvRLzliVSoJWTnQOdW2dOhsPlHXE8Na1fAR-zBpe8srX-ScBK8x4IY-q4RG-hBg46YbDpmSiHqDur93-eJZJziwoWyxcPGyPbabX05xxYa2FrlDGkUCMaA
+Title35=Andy Hull and Robert McDowell - A Better Way
+Length35=188
+File36=https://psv4.vkuseraudio.net/c4521/u2672082/audios/7f26ebbff786.mp3?extra=yg1BtmMGpBi5zl5gJbUlybRmlyKoPaI6SHbUFm_zQHKhu9AKwvnCUZTi5SP0KXJZpvwQOcvku6CQvgBxyTnavDJQrBCsi_zS__fJMlbP7WyT90XM3pP0SPdH7WCMQQqVa63AGr0dBt8zpEc
+Title36=Tom Waits - I Hope That I dont fall in love with you
+Length36=233
+File37=
+Title37=Dead by Sunrise - Across The Line
+Length37=190
+File38=https://cs9-8v4.vkuseraudio.net/p1/81f524a9e0a9b0.mp3?extra=bEtxQPvsukyNBfJ4uCam9OvlAIokEwI2KA2yz3R4-GEd936X8ecDfwE_-kuuO_SrqL8QhLLD-4s8zbte3PSnSuSeVnxmhrcIXIgO8Nnn8GlYyZVg5IOmeZWT_1jAODp3jvH0-d0C3rrk7Mg
+Title38=The Turtles - Elenore
+Length38=150
+File39=
+Title39=The Hollies - Sorry Suzanne
+Length39=181
+File40=https://psv4.vkuseraudio.net/c5092/u112813450/audios/e863e61b27b9.mp3?extra=zq2NKApE7c0269VqPEsIq3GeRmGh3vO4c4GHA2NfdXcmhbhLASIzvnt8KMRHdcID6_kGnsiydRqBR_I_WrKMekxBtD-ClzMoqJili1sE6cJClTdqtHVJskvWTHQF4SiB6pUA8q0a_OoCt1o
+Title40=Dead By Sunrise - Condemned
+Length40=152
+File41=https://psv4.vkuseraudio.net/c613620/u117564891/audios/8f03f6e5e82c.mp3?extra=TP6QHQsQGZOn02C5RqhHGmX2ugW-hfH7Tn5I2CNrgYG1RveiNmMluk3x8a_ZzxtYmMaMEthffhYVU2ahdaQ41r3ybW39Rtcx6AiKykTqD7LqPW50qR7jUlSY-mIy1oaxtCjaUxSp1Uslw5g
+Title41=The White Stripes - In The Cold Cold Night
+Length41=178
+File42=https://cs9-4v4.vkuseraudio.net/p5/4d0eab94404cf7.mp3?extra=DzAwvn8eotHXZd7KkmlmtZ6S85T5Xc5Dum7Ra9TCxkYap-bWDK2hMDAw27tVz4dyoobke6ULPcJBhTjsJAJ0rcBanIXEVXhM9Q2vJ7TgXI5358_tIfTba-P99_dQQEE6lUzo81_je7Q97lE
+Title42=Jungle Book - The Bare Necessities
+Length42=291
+File43=https://cs9-13v4.vkuseraudio.net/p8/edffce9eaa16f7.mp3?extra=xeFrCxudRyZuKMFYVygHYn8nKzplOtQVUyLPgTLNSwV8uzpr9elv8QTLsJq7sFOaL4NFGHLteWN8AZxqbQQzu-98pK3kpB7Ja_v4lp6_p5hcBItwVkJzjRsE7-v_vBHLL18oytZNc0TeXls
+Title43=David Bowie - Space Oddity
+Length43=325
+File44=
+Title44=Metallica - Seek and Destroy
+Length44=416
+File45=https://cs9-12v4.vkuseraudio.net/p10/d5f366c8013a36.mp3?extra=0S0gGlF-jj8LF-wP2b6ZLWy19GMaq6pJO9US0bkuXvlDPvbuOR422YqtPcKis6yXnRq_oeITBZJLMLat0XS2xHIavVb1oRQ1a_db8CR_P7XkprLuwriZFKzGhz4ulPPF1NU83V2Uhii_j6E
+Title45=MGMT - Kids (Original)
+Length45=302
+File46=https://psv4.vkuseraudio.net/c536203/u191712829/audios/df2de1c69453.mp3?extra=A6Hs9nuLztmMnMB2p0LYDG7Qd9NxoDqwi4_xNa2skkP7kqDpW5Ex0G6j5I0to5jK4a5kK8YCs4V01W_OhHmkgCsA8WCcSYnT2hZxvR0KoiAYSp-fkP0-Tawh-yYCsWkxxdAG6Uw3avifoGs
+Title46=Godspeed You! Black Emperor - Random Luvly Moncton Blue(s)/Dadmomdaddy
+Length46=484
+File47=https://cs9-2v4.vkuseraudio.net/p10/b4cf75a54c7603.mp3?extra=56L-CGymO30YWmgs10pI0DLwZtVp0H0p2cr0kAqZtNSUwFYcEoNJcH9zN7FBo2FEqrYghktr5JG5TgbkZ00UVHBFjuMlF3BDEVOqlrXtMHsqdkCh9kpAaRkyCZj4zbT7bVlq2FJTh-nkE4Y
+Title47=The Stone Roses - Made Of Stone
+Length47=255
+File48=https://cs9-7v4.vkuseraudio.net/p24/38869ef137d8ef.mp3?extra=tx4MT3D9cezFjKixKt4ZIQX9lmvJ4RUXHtNolf_Pk9vZO2QSxaS-vHXqcuPt14DLk-Q8xOLEG5Pwc34BkAXLxvvmSMxLsttkDW8PVZgDndhnpNnKM6vSHLiuF2tLQzS4FqTBGpuWud3CHyY
+Title48=Linkin Park - The Catalist
+Length48=342
+File49=https://cs9-5v4.vkuseraudio.net/p23/9eed7eb3e90ea0.mp3?extra=tdUZ5j3chrJINh1IVPK-WAO5kdd3fyK6cc3a6ZN3QsnyxtPMRZMXhQQh-oJCzpFko-W2qpsNC5R-cEntCYv0DCem-9CIAa-OFwmGTF5NvXkMKZKsuU7uvCUAF-e97PBchqrbSFA3l8itgb0
+Title49=Oasis - Married With Children
+Length49=191
+File50=https://cs9-1v4.vkuseraudio.net/p4/31aa350d09cfb2.mp3?extra=vot_gvLpn0ebfqObmiceWFjCHfMJxlzWelQrN3MEWyUD3_QnMatGZzPZQr_pJLe5y7oCYxvd7UXmkUv642e50VQIGbzsqVdeErjhSuvdI-h1dQ0OQZRiQgxYhf1r75wh3M523WyRV5nbP0w
+Title50=Princess Chelsea - The Cigarette Duet
+Length50=218
+File51=https://cs9-2v4.vkuseraudio.net/p17/6f460d1ee02269.mp3?extra=lm9FZrnX0AsG55rmH7sDlX5uVRVUY5oGb6DtK-xofi0doMqBMlDftgba0UhDot4D5YOikmZ16BuhXuAU88qOhvYa4G_EuV01E0DIKDbuRKx1BJwD5Pbn7mAbVdrcJUVWmNnhjwuY9G11r3E
+Title51=Sam Cooke - Wonderful World
+Length51=128
+File52=https://cs9-2v4.vkuseraudio.net/p1/73168d21d6b9d2.mp3?extra=LJH-oWaBiOlnYORG69A4FxWBG6zb895UeRG4X1bSWMqSCgA_V0LjGTbUcOTSFns_8A4XhVY6-NUBpRHW3VX_ICdO0n3ued-Tf7F-bzlfmY0n_I_TZDl2yGeLgU_VpNS_YgQlMyaq27RL0dw
+Title52=Nine Inch Nails - Right Where It Belongs V.2
+Length52=304
+File53=https://psv4.vkuseraudio.net/c521108/u131242840/audios/a47c2846814c.mp3?extra=YfZF3MSYz7iGl29jERu0UWCx9fDV2k291pNaoNCfg7issxJ5S7s6my2s2kd_uW0l--ZSUN29NV3NmAIACzSRO6xCTRoIZnV25zSuIWgDAIdb6GNIc70ony_L0K03b7R7c9aMzcfplG8JcRg
+Title53=Nine Inch Nails - The Becoming (Still Version)
+Length53=270
+File54=https://psv4.vkuseraudio.net/c4703/u60289244/audios/40a1cd03ca5c.mp3?extra=UB1u22fiWA8-o3VyjWLdEh0DyHP-gHMi-5pLGV4lXPXB2GvaeaxLbb_eBVcDVg9Rg0ivACugjFsjhAH2XZwvAvNFHnUXXVOXncHnhjdK8oGyVJhk_18gEaXA1gN1XZ_jgVdhpJ3mxkmwf4U
+Title54=The Red Hot Chili Peppers - Tearjerker
+Length54=259
+File55=https://psv4.vkuseraudio.net/c4650/u60254970/audios/bfed0cd758a3.mp3?extra=mq0BtSjQfxoBJX7CHZWUca3-KxSIAGGzL_kj89QE0Tex2u-ohP-hw_0MNOXPmLnIxIIddcF2U-X1eVZqbHoR7In0xhLP_KvmskdUVktbZlccx5ZcJMpddfcM9J6_YfHXB4zn3r36HlBJS4A
+Title55=Red Hot Chili Peppers - I Could Die for You
+Length55=194
+File56=https://psv4.vkuseraudio.net/c536611/u56164993/audios/86c78836572b.mp3?extra=6idoWISV5iSOguJ6pUmRN15DhCohqN082d9OjqoSs-P_7gFM9ELwr4sjtWmjbEx2Rh2xGjz7RPZtuR0mJjtRBt4racxpuiVc2nUSH_b6pptwQDV7CzeJz1_IkuDenbwejZgKty9NpNnQv9o
+Title56=Red Hot Chili Peppers - This Valvet Glove
+Length56=225
+File57=https://cs9-5v4.vkuseraudio.net/p7/ccf992385adee3.mp3?extra=LSQc4xaK2Yt45UDfqncNNucMAQpoGMnuQzcpXwwdotfYBhVUaM4UOK5fWVQpoqxSCeMXTguxpxQkrZlRuBMxmWQwvFNB78W5C3x9cGM-L7nLPTekLdHIOY41jDJp_Trh1fzggAIcZ-PrJfs
+Title57=Bruno Mars - When I Was Your Man
+Length57=211
+File58=https://cs9-13v4.vkuseraudio.net/p14/f807f35296507a.mp3?extra=vC_qqk2XgX6tZTscdNqga8QksMIOIHlJh5QltmvBHQY-Ku0gnlu9UwCmT-Qor5Ma_GGWbidEMVQDiaMoIKxPdCDWgAHcrBPskVNTczzQDii5yMqqyaFcXq4oUmfVdINYjKLvJQvNUa-AEJo
+Title58=Blur - It Could Be You
+Length58=194
+File59=https://cs9-3v4.vkuseraudio.net/p12/2914008c204dec.mp3?extra=YoHNIChioreNSUNeSwAcnun8GRSgh5WmevlAe2Wkvg0oIPA-wksiqR1mAb3P1FsBByIlQwWfBv1ptUAogf0KnapkZn9THe314I8hh1lNmbQLdOEcUxywepcIxGGPAl5cxcDoYQX5aBjcs6c
+Title59=Skyrim - Dovakin
+Length59=89
+File60=https://cs9-7v4.vkuseraudio.net/p17/6c0079eb9ab041.mp3?extra=XyY_5SSbOUeIV2UjT5LA9nb934CMtyEl2Nvzb2Bjvut9M8CDwpfAp6aP7wSNh3m90Aog6mSYVbdCjSSDawJWFe2hxidOdzrHpG22XIsvIgcXf07qYc7T4Gi0zwEKRc5pZU2mDNUVYpP0GVs
+Title60=Siouxsie and the Banshees - Christine
+Length60=181
+File61=https://cs9-2v4.vkuseraudio.net/p23/ddb9f7b673022e.mp3?extra=vjcqw1M8lQxiHfW-Fl29XM-XuAQ8RljyLWD3ziM85XAjKwAmYk4p_ElfgY1ywe4EpX7cZ1HfZUgB8yKt7JB4j2pJA3h9jVhUL4p1VgB4HOftz-M6N1zcAUoapYOqSeKjxr3YUZpARRKE5rA
+Title61=Moby - Mistake (Radio Edit)
+Length61=224
+File62=https://cs9-13v4.vkuseraudio.net/p1/0fe403ab8cffd4.mp3?extra=i7fgs3CXsZyrawxhHm5EzaX1CjjW_H-DMf1bKue7yzuTRIT2adwhbBwZHyWs0aJKQwYK8xEjUj5jQtFMLEfLvNPxc7x2wr1-S7RSsaXo-pYqqS1TQTrP6S1k3S24IeMxHSqBG0ibLwrSm7w
+Title62=Smokie &amp; Chris Norman - Living Next Door To Alice
+Length62=205
+File63=https://psv4.vkuseraudio.net/c4294/u29504964/audios/3569d76136e6.mp3?extra=i07xn7xIpA5HzPs5hHl7NKHOlkyxc4aqdLWR6u3wQwLanQPShEfajjYpJIFDjO24p9WQC7sEHi2Qv-oD04S8LSUHKI6tWVtWqk2Pf32w595DwXdhrjwIXwM11LFtPzP59LvJWjiXqU7KLSU
+Title63=Element Eighty - Price To Pay
+Length63=222
+File64=https://cs9-8v4.vkuseraudio.net/p17/9fb61bb4e0025e.mp3?extra=jcb5gCmYG12ea_8b88h8EhIS0XRNdxSFl89w1t-MSKtb2wcgAOSFjMyzFCu_AhatKUSlbmYQp04__aPef9gy3uy1SJdJIAUh9mTqhksPAAz0qxvlKVw1Fs9J1dnDnckJpl7kS3ofvBd4uYA
+Title64=Nine Inch Nails - Sin
+Length64=245
+File65=https://psv4.vkuseraudio.net/c613821/u1423633/audios/b6cf552d7b08.mp3?extra=_T2zBjX8HcyUgmP-hZlxWff0ozD4hjzfqVSAuqxz0VN6vb6t1J4BCgT4iNm_QJZMxZ8gevzZw5ufajHVv4_elfCF9OdSu0Ndej3dDKMiVE974YJUW7Sgd9bOJQWC5X82ZtRzneph2R6MfeY
+Title65=Nine Inch Nails - Wish
+Length65=223
+File66=https://psv4.vkuseraudio.net/c1444/u365107/audios/8064e830b746.mp3?extra=9g5LfQ1RqoWeJ8lexm3wfhyWT43qOKAJjIRuc0JVoN0jY8wvySPIgf98d0SGTNatvE5fQ9lW4Cof37yKs_oWpyK2lB6JktYDnE92fQ1hJo_XHOZr27LXJXHkJl42C7I_UqNVpTLx1h0jouU
+Title66=Nine Inch Nails - The Art of Self Destruction, Part One
+Length66=341
+File67=https://psv4.vkuseraudio.net/c536603/u28118393/audios/7ce793fba397.mp3?extra=zfQasCenTdhSSkc1qX1QEknFL3Ly9AphXHHR7pMNknqgcpFM-Sz3EaCN4FwmZoCIEMcBG6tqX5cOyt0LNrcnDj9HTlj1_FLHxrp6AjLn3CHdasep1N0ityrElJ1f_NrgPzk1pOjFdUGf8hE
+Title67=Nine Inch Nails - Find My Way
+Length67=315
+File68=https://psv4.vkuseraudio.net/c553/u27407928/audios/b91df465e52d.mp3?extra=Kq7OkjBut5GcmCw_Xof2cp542TF96dtfgUvbU9yqYvoDxYVcvWy3AC4ni-7eb-dBLKcJrFn-vevO_ZT-tL9dyTgjJszizhZz5lZB6G73G_TVZIBWbKA8ktO5Y5VrrXMR1hzEQIZpqy6QpGA
+Title68=Nine Inch Nails - Physical (You&#039;re So)
+Length68=329
+File69=https://cs9-11v4.vkuseraudio.net/p16/5c3b8e2957f0bd.mp3?extra=0wtrlTtRubbDhG-SyssZDjD8HvqYdd1pPdA6ZjEL2sINsqqvYD9Jz4hFZEZbu0aBRX5K2pryCKpgavxvI9kyMXuVWQG1ACR2HQByHlPpa1kMDSDQV3Lyvi4_99ASzCvCrriA-9lrbdC6sEk
+Title69=Nine Inch Nails - Hurt
+Length69=373
+File70=https://psv4.vkuseraudio.net/c1073/u4247023/audios/80cd641a353f.mp3?extra=b_JoHUIZeGVKoCtvvkxy61WKXvh8QS54pcRMq6IzBGUmHOOd610tDWTedtQ3hf3GbHkdx945tpjDmomU-jvdpZYUa3xgncobleAZayqxWJKzcqgnPB3tU5zLps19P4bfXxMqxcsGMZ6qjzI
+Title70=Nirvana - If You Must
+Length70=240
+File71=https://cs9-14v4.vkuseraudio.net/p7/d6f628f593c65f.mp3?extra=u69vQ7CGB_LHToR3kcfiMIfxorTMPGW5_LxSDi7eNFH3dikZtHAuB7YqNwnQhnwriiau4M2_1rGlLFeRBofyBIuUp0DeCH7VfSEln1lkiA6u8l_b1wmcZf-RgaywjGEvkXZhcrGSZZ7H8UY
+Title71=Bloodborne Soundtrack OST - Cleric Beast
+Length71=192
+File72=https://cs9-13v4.vkuseraudio.net/p22/d2020e7cf3f046.mp3?extra=gOttQo1YDelweHe6nl9xObQeOctOfWYEc2bID1HbTqFzcLTFhq-eXHYFhQ5KZLRDgaeQqAqSWpsaONa_C3Seqc-e6iVIepax1n09iIB3GL-k7-YDnqAMGVO71CXs6R1A1YkdE15mAbVkSjg
+Title72=Mr.Kitty - After Dark
+Length72=257
+File73=https://cs9-3v4.vkuseraudio.net/p17/b0a41a006cbace.mp3?extra=roBcdhnjwm-Fo7QK8omMg8Lv1UPxumJ9Aiq-ADAIbkR8T6swawsaPhEmzhPQHGWwo0d7RknmXuXVhRYgrkC5bj8CmJCPHQIUVVcZnjmeJpLX_Cq6Gwbj9fvWNpTj0RLUl1b4o-WsqFAVKHs
+Title73=Jon Henrik Fj&auml;llgren - Daniels Jojk
+Length73=183
+File74=https://cs9-12v4.vkuseraudio.net/p17/77570ff1f2d4a1.mp3?extra=L6LiH4LsNePH6IrgZqdv9CJu5ob6Zrtp98AfFo_h1D_2z-249Puyr6yhw3cjpPpN_RiglX5nOPPawOiUY4AQV9SCkLuIgSXnyUhSC_vhs3ci_F3bVbXBydLTHt65Z5lOxYU4jkxCJj_99ao
+Title74=Nirvana - Return Of The Rat
+Length74=189
+File75=
+Title75=Pink Floyd - The Final Cut
+Length75=285
+File76=
+Title76=Syd Barrett - Baby Lemonade
+Length76=251
+File77=https://psv4.vkuseraudio.net/c611121/u93550978/audios/e4ea407d463c.mp3?extra=d00H3VXqO-v2TS-MaLEbGaBAnf4W0969QArlTzFFAv2jbNXyLrS6R8cXPtFOyECTbQiT25Nwo7iCU9JlWbLj5hkJ1d5TxRh1owR9_t7V_VASqSn-TBJhL-KBUKMKPBRrLzR2wX1K9_vs9so
+Title77=San4os96 - Intro
+Length77=134
+File78=https://cs9-11v4.vkuseraudio.net/p18/87a7475f1c7209.mp3?extra=C0qD1ECosTidnKw3kjNidjy0Q5U9EODwhf6qBQG8jaRt39XkZju5vaP-RulXJdZQNRVLrxWWYP1oePmiod8YZwgozyPGQr752sGd0jQbHWuIu_9enPaMDE_y1tlW_w8RSLfvIoxM9__SkUI
+Title78=Elvis Presley - Love Me Tender
+Length78=168
+File79=https://cs9-1v4.vkuseraudio.net/p14/a766573fe9bca9.mp3?extra=tdYyOAaiN_H7RJrBHbUoMtlyGO9MWeG41y_o0VMYpqxv-SjrVbdXK9prVuxlJ6hwMK0zyyLYYUvOpebdS2jverzL6HZDeCOyJ-qtTH3UnOe1OOhjf8CzR5Jt_av0FHTvvNZciKccD8ni0HI
+Title79=Elvis Presley - You Are Always On My Mind
+Length79=217
+File80=https://cs9-14v4.vkuseraudio.net/p19/dbec6ca4b57afc.mp3?extra=wIRobSKLyA93VT9K3CXXLe2C9OcBkeXhoiHbEjkXppBTdIRVMLbNPk1fcSlhcWoWe7eKBnE1ISRtyobUQacFVIWNEi-lntTBiD_jJYiwi6kJ68Ttbk91d6Y572Ft5XSZZi8_gP4Of5fuejY
+Title80=Elvis Presley - It&#039;s Impossible
+Length80=173
+File81=
+Title81=Elvis Presley - I Cant Help Falling In Love With You
+Length81=180
+File82=https://psv4.vkuseraudio.net/c613719/u26495538/audios/0d31f2135cfd.mp3?extra=Oo9f6Gb3JwD7AtO-2I9vDnKlZn9FP1F3zyuSJ7jzC2koNMtk7mAb6V21zSjOHOVGj4XQKuWoRTxrl-jyscHY_btEoEHFMHOvkXf2AhTR7nQ39ZhuRSiVYOdPum6Gf2VoR9xvG1L461ylfW4
+Title82=R&iuml;c&iuml;nn - Uma
+Length82=326
+File83=https://cs9-18v4.vkuseraudio.net/p3/4b04ccec17fdf9.mp3?extra=ceRyY3mvBZ-DKYLlz3gihL9WOxDBfpIVNG9oc9hkh9trCeU5HkX1ahsIPNj_VtwCAFlIjOhnrlSVQFk__Hs2ROo2rcNYTwfpTs-MS7YfPLdTByCjhxSq9sLabpxtKi-EUtnShkXvqzo8NNQ
+Title83=Enigma - Sadeness (Part I)
+Length83=454
+File84=
+Title84=Кино - Печаль
+Length84=300
+File85=https://cs9-3v4.vkuseraudio.net/p21/3c9505c2e6836d.mp3?extra=VhKjdgUTGa4loTyLX36eHVp57coxOOrn8VuIF4uchsiVLEagomNR3FTNbDKbXaVO4mZoNjHguGtiWWEZm6YrMp_pivt86btw5ZP2ZfiqIJWdCpJHpHcwO2JWuY7Qh31WqC0gUs-_-uy9ZgQ
+Title85=System Of A Down - Aerials
+Length85=241
+File86=https://cs9-6v4.vkuseraudio.net/p9/d3dee0086d9ad6.mp3?extra=Oxhxx1WHd85q9-EKsvVOn4mgsSEgydZfxtVmzft9BHj11QVenvGnhiGGvJWe9X7oxHRD15-Q8slk9J60era2vLrEN31GPBXwZXtNZt82FbkE1TDs1IpvLJFxIljdi2gdO4r4mmOzzK2H6S0
+Title86=Nightcore - Rockefeller Street
+Length86=147
+File87=
+Title87=The Beatles - I&#039;m So Tired
+Length87=123
+File88=https://cs9-12v4.vkuseraudio.net/p12/651cba0e3ecc9b.mp3?extra=BtY1VV5RiO84P4Yp4J2BsAIwPjsfnvgOBSO05UdiVbbvVkQY_0fWEsuJAYWYu6n7uFzvlkfTxxws-DYQeJxtUJHqqSUiNoiwjuhlSViFwW6DnDWhs4TX7ntNqGSg5L-FpNovh6ltkC1wJyY
+Title88=Shiyugosha - Alone
+Length88=194
+File89=https://cs9-4v4.vkuseraudio.net/p4/7973a215b982c7.mp3?extra=W8FgyMfFdFEVhy8G1h41EUkKvLG-2MDWwg7X7Y1Ib2FMbPJQtDDtyzhTdOMmr-atM1kQmYfw4ghcC6N5DyWGYcSvXBYnKZVKIlmSpu0PSktMmHTqTm-i1Epmz7ivX0PsXcb_nRVdjDhGrCk
+Title89=Dead by Sunrise - Give Me Your Name
+Length89=296
+File90=https://psv4.vkuseraudio.net/c422123/u258769505/audios/9e8d96c3dabc.mp3?extra=KRVL---vHG7Z46eOsZ92jI5ql3BdOE5JvhAURA88ikYH8EYXYOhUogXX7zKnjY6evM8EljXqDewm3YOy7wMQB6enlR6oSM9arjl_GTvnuVPQ_j7HPExOBtDw4PKE6YchM3oGkc546MNvjLQ
+Title90=Apocalyptica - Inquisition Symphony
+Length90=297
+File91=https://cs9-2v4.vkuseraudio.net/p23/142dc8018ebf2f.mp3?extra=m58LSfT6hT8yXlN0f-qQstbtOjQi5EpPFrCC8ZIfAfqeYfFVFrjOKKHCPaTrrK30p6L0X9Fn7hRmpH0IGJ_FdLyCb0aWefsq8J5seyRK12ye4jmwKRGHX-IJ0zjtZN-9iUVZWI6wa0I-png
+Title91=Black Sabbath - Country Girl
+Length91=242
+File92=https://psv4.vkuseraudio.net/c6132/u7712529/audios/06a26aa67f49.mp3?extra=0Ydpsz4Zfbj9JasmDO3I6v4-vW0RtUVh4yMt7WllJKlh659NFmDbPH0hFwMNvNiw0pWAkb4fuFy90B88Z814GnUnScQ_AKvoFw1FeL7OFhDPF4KkefoR5s_ol5IzznUinJzpQYgy0rZiLcI
+Title92=Babyshambles - Maybelline
+Length92=194
+File93=https://cs9-12v4.vkuseraudio.net/p12/01d7531569fd59.mp3?extra=GTAWn_BU9fdCmHzpn64xz26iEpb4yYP8-qdA8ZEnxKhwL8BieoHXnCtuBHJquRpgPlei7Q7jM4MGywPMdfmYKf9ckmUTbIp6w_saWKZjJPEPUwIp-YUPVE2zcD8sxi3aXMQcC3xlVkngN0k
+Title93=Of Monsters And Men - From Finner
+Length93=224
+File94=
+Title94=Chevelle - Fell Into Your Shoes
+Length94=307
+File95=https://psv4.vkuseraudio.net/c5089/u50699723/audios/94a69f89c172.mp3?extra=kMuxkPlIsfxYoy2CvBsS8ptn8BdixX6HXrLnR6k3RAtnFY6fZc1IJidq-BRo4DYqEsowo1Qd371dmD8Y_lkv5D7EeK-VLYbB5VMg_b6IxlzaXwqjqdNCZKR1f0w8hEz1UUmulDB-77fdGhI
+Title95=Oasis - Dont Look Back In Anger
+Length95=293
+File96=https://psv4.vkuseraudio.net/c4812/u60663004/audios/6dbede770db4.mp3?extra=yDsU6Qjd2Z1uD9Yt5TzjYk_p4OV0lT29N1lzVPFGvm4ONB7GHNWspT2PysAayOcrKzZAbvbcCnUGakX21EFyyiPlEROmX1W8PA4za99cmadF-mlFH88QsBnR_w33rwIjUnaNH5RUrbPyIB4
+Title96=Foo Fighters - I Should Have Known
+Length96=255
+File97=
+Title97=Devendra Banhart - My Dearest Friend
+Length97=153
+File98=https://cs9-8v4.vkuseraudio.net/p6/5b74d6b3686f40.mp3?extra=PNr__8_L7MJYlgJ6Llhnd-t0gsHF6CncrB6OKtA-snPrSVvUUaJP2VD2BZjr2V5j8J1S9RJb-SkSoxFlPNwScOJ8vYRKwao3qfFO5fhS4ofDh6zTzP7ZyeWerx_tqT3sL-b4MY_hbwbYphw
+Title98=Babyshambles - Carry On Up The Morning
+Length98=178
+File99=https://cs9-6v4.vkuseraudio.net/p7/776cb1e595a364.mp3?extra=E65P0tTsSARuapqLRJfW8_JD-26-FCK_UkvWm2R6jb-wAi-ywpmFMTkdSI5Ir0UpMyLbtvvfzebXc3MiD6-2UxpcQRaTqYFZ487t2CCZ82yvMzMUQAOFwqsSIlvBblNjMWlMQNDvaV_fDR8
+Title99=Shocking Blue - Send Me A Postcard
+Length99=159
+File100=https://cs9-9v4.vkuseraudio.net/p10/e155baaafcbca4.mp3?extra=78yQSOpZ-MB6eMxYZwdifpvkkm10gbNfW9JqU3IbHpxgo71uIT62SqcMGWLFbsQDzrAMKO8r-Sh3QJTIAgjru35fP2O8CWMktFJIQelKSxX5s-9I8VCJg4rWEuPYsJTqH9EnhMoTz4Vszcw
+Title100=Johnny Cash - Sixteen Tons
+Length100=163
+File101=https://cs9-12v4.vkuseraudio.net/p13/380f653100c711.mp3?extra=HpFP_oA--2iTSwY69E2l7Thzv76HApACzZhDkBSYfuyQCOg7zN1TMgRSopKdsKMkoKEpZC1k2abqOtx0y054ForsVrhRHu47ag-W8mkbxGn-4fnvaxpatu3VZBTPehppKmBu33W0sc4MCOs
+Title101=Soundgarden - Black Hole Sun
+Length101=320
+File102=https://psv4.vkuseraudio.net/c4911/u100396574/audios/93be70aba497.mp3?extra=3BCueSOuHtb4EF3zk7x1MAYgHy0is50g7DLXxaPto4upMOh2CN60cNaSHYO5CvZAb3fvJ5nNGSkE1DZV5J0rBV26aetxtXVW9uJPJBLOgCVugtU7IBfYAMAOszHtDss_10NYF-5eEaZ4pvI
+Title102=Soundgarden - Outshined
+Length102=310
+File103=https://cs9-13v4.vkuseraudio.net/p9/7275a71a7ce490.mp3?extra=zo9wDWygy3t-7b97UXpwKBYE8846PcnXlBZS_3c_bRnxyaoP9I_heYOkCRExrEoaNvBc8SN-STdQ5B9iuHSvjWcyshS_AbGzwO1gwKKfA_p_hWSKcnNcWO6ANrFBLwyFykZFgceFn9ybvCk
+Title103=Alex Turner - Hiding Tonight
+Length103=186
+File104=https://cs9-11v4.vkuseraudio.net/p21/82fc2759461838.mp3?extra=FdIv8VMrp3eTiOLOLp3wnodhL8-YKvRBkmNL5uyd3iGxD2Z7Q7fMpNwM5-RgdxdhFn9xSagowDSKBD5K5-9l0f1M_4tu7ZzmcqtNELsPbT-B9hhq7_GnY3GJdfxpXWbxD5GdMXB8_EuVA50
+Title104=Neil Young - My My, Hey Hey
+Length104=227
+File105=https://psv4.vkuseraudio.net/c613820/u213400033/audios/0782fa6aea05.mp3?extra=X3LLyiuiWpGBZVamN5kcqL-CCFC6CW-nutIU5YV4S5eiJSuFj9bLa53G407sc82Yr82vbJ5jcbSZrxej5uZbHftt-KTAb927gsE7xqrNOtToQxTy_9UeQztzRdVM4YzZmS_bNQ3f1wgEkxQ
+Title105=OMF - Duality by Slipknot
+Length105=182
+File106=https://cs9-7v4.vkuseraudio.net/p8/eff53852cb20e2.mp3?extra=HbfGj1tLM3w9hYFkIgUubHzScxDIz37UtHBCORaWf024HRp2ifpCD5zJh06pBmcPwcOgKmIOyWSYfHw8K1uih1MHBF3paRENXCtAmW1NIq2uXWCeDEwNbuPFnGIgDASBbGjXHS5Qkxl1-5M
+Title106=The Kooks - One Last Time
+Length106=158
+File107=https://cs9-2v4.vkuseraudio.net/p20/abd5dc8a392fbb.mp3?extra=0npV0462QWAiM-T77izMI2ckvXlTZ3SKECBBcfv54znhC9cKat6385PrlH32u8Xhar150V_6GkPEXDvDtZeX_TBUDcOHTifMr7JHtRZcLDT7sSKwOTs4XY-8pUEAmJhZoBDrG8ID76EO7YA
+Title107=Sonic Youth - Sunday
+Length107=292
+File108=https://cs9-18v4.vkuseraudio.net/p3/d7d44bd2348805.mp3?extra=DGI9VvT-ZjuKHHaXNp5dWomcAHJGFHNyAiQm0jSk_0Ic2PfycK76fpa6KCfGhxYETBhyN-XxyhnUNV9Rf8vGCU6rJIkpludNAFvN5KDQZreIWg8NSVCzojW1O9PI5IcjM-my1JoGQiftVP8
+Title108=The Drums - Down By The Water
+Length108=206
+File109=https://cs9-13v4.vkuseraudio.net/p2/99665e7228fa3a.mp3?extra=6WHDb52kq3YGhiIW5igF_ZrA_39rNy5qD4FsreHVRmkiRucIq27ltaKod1N1vPJNnbMbuGBL-S9HRlME1b5iwu--ytU41Qx5ELUcK_hcUfdVyxKcXjmKNmVHOdHFVOhG1x749WmZDcBpiek
+Title109=Red Hot Chili Peppers - Dosed
+Length109=312
+File110=https://cs9-4v4.vkuseraudio.net/p18/eb5a9b09628549.mp3?extra=FnlazTyftmbUFDBHAigM5dn8zud4O4EyaIL_bS4tsOMuXLqEZ8OVI8RQl73xYql6BNar-b4cSG_u_Fzd_HBpFPsXw_oAoVhrKupCwbSu75Fd94cQ2uk8cXHXGc03tZcuBPLp1j_FpV5OTM4
+Title110=Blur - Battery In Your Leg
+Length110=199
+File111=https://cs9-19v4.vkuseraudio.net/p24/f7bd66dd714f5f.mp3?extra=CFXSaldnU6tKZpAmpi3MRMuIFbOA9q0l982sWmAPxcsFgOW5a0714VkwPPJeJc6hZD2KUbAGSsnTEddKarvtXpYJafp4QS4ancCfbK3PuPgd0yn5qPvrwvmIdHnXSrlpW6IffMlI5XzaBIM
+Title111=Wild Nothing - Shadow
+Length111=255
+File112=https://psv4.vkuseraudio.net/c4290/u10191859/audios/acd0ffc36ec0.mp3?extra=7BPppbF5zYazU8UozggZ1LIBmYL_JKid1oCKla2hAXghc0Co3lt1E8JOQlCEXa4eQWDYXKKjBbIDYMBZK_rwhreJood1O40zrt8IzeXllYxpk2A6TtlB2Wu-GLIjd0OARsiCRGSNsJ4QE5Q
+Title112=Candlebox - Miss You
+Length112=307
+File113=https://cs9-7v4.vkuseraudio.net/p7/088d01395d5daa.mp3?extra=nMsoM5UZEKQm8j0dZ7Y4bFm-Hz3b7wUzhy0kDilqwLPl-7l6Z7FkvS2r57EvH_XN_2tJ-IUzpPGhIbUnSmLX9UppX_hmlFzx4ZT4olI3f_yw4KnFWxHY-bn9qjSKpQXloqt57xVZjdSaKg4
+Title113=Rise Against - Savior
+Length113=242
+File114=https://cs9-13v4.vkuseraudio.net/p19/be24c203337de6.mp3?extra=NCIfMSNQvdFq4j4WX28HEhvHGY6U5uie4MJZAGkCuZF8CtG-juyPdtLHocRJ4abWEoa8RgLMmZM3ubT_EUQrZiNv_c9hBtu49rdlQjFnnL59WlGe1iOaV5lqh1VF98ALyPhjHx0iISQNE5Y
+Title114=The Vines - Get Free
+Length114=126
+File115=https://cs9-11v4.vkuseraudio.net/p17/ef0d40829774dc.mp3?extra=DL7rFThpNEDkq0jA49KC8YeC2PKy12OPP03istqOhkut1kDr3NR2ukUXNMJ2g0huNpuIV1dC81EapyfmL6XO_jNuydFtZJnNOnM1BL9N7kNsDKHzhOy6jDQ-Ggus3BwQ2WYyEK6Hw-F8fqY
+Title115=The Moog - Survive
+Length115=167
+File116=https://cs9-13v4.vkuseraudio.net/p9/56ed8ff83bddba.mp3?extra=J8hCMCtCrQ03iV5NovOChmIm60TrEy3Tf_6GA1bakvBQAU70onv0pQkL4HZn4_IJkZsM3bmTp8A6e6xRbDzh3Vs4HQLhEtPzzNxZcts5bH27vsLuT17lbvsIVENWjwSC916zd1sGCwqiE5I
+Title116=Metallica - One
+Length116=446
+File117=
+Title117=Metallica - Muster of Puppets
+Length117=515
+File118=
+Title118=Plain White T&#039;s - Hey There Delilah
+Length118=232
+File119=https://cs9-4v4.vkuseraudio.net/p2/0c0f926d047fdb.mp3?extra=o8HKte4akwKCr-uSX_nCLV_o8wLKnED4zhE40oyAJ-_0bQ65pBhEYBqYNFLaunKPZ53jqk0kK2Xm4GWD7iiEBPlCM9H4Ladja7SfCoykemVygkRWqvRQlxildn69KclnwUnbgvhlhMzMSdE
+Title119=Bush - Letting the Cables Sleep
+Length119=276
+File120=https://psv4.vkuseraudio.net/c6173/u68310579/audios/501b1db520b2.mp3?extra=w_3PEzCxHqkJ549TOsuwsiXSxDGUe4t2ELvcap_sXUrLLJ2JbA-UPsGMRltxwAsKkrajkvOfMy9fL4XIMVUbXKVoY2X79CfugcoWbRTQ4HPin51O8kH8qfqLbn-HEJ3JyHpYdjPBMa6czhA
+Title120=Bush - Glycerine
+Length120=268
+File121=https://psv4.vkuseraudio.net/c4627/u5887878/audios/53db679b5156.mp3?extra=TOWCJ7e0Aww8K3LIkOP_HRgPu6Bt-5ulBzXfRoRvvmDm0GYlhPLvuyVV2tujAIWS4s_Z7PYtrMesseoTojsvYzHDg9pYI5Ra5IZc_52P516GbmMRSLcHEtIT8wImsL2JO6pUz1JHG8mDXhY
+Title121=Bush - Mouth
+Length121=255
+File122=https://cs9-14v4.vkuseraudio.net/p7/4b37378eeecb8d.mp3?extra=CX5yI72TjZhFsnbhy3yM35xHt_aKgK0epovo4vQfdp-yIIo75ElwY8V8btP91zcbESoL2CUFmxfz0sdCyVgiL1ui9MY0EKn_zoim8Y_OViTCn5vct6qQWMeDI2NhIgXqT3pQ_HTwqPVVQvU
+Title122=Bush - Everything Zen
+Length122=278
+File123=https://cs9-5v4.vkuseraudio.net/p6/3e7b680a04ab37.mp3?extra=xG43VyuIiQ0ewZMGA5fWP-Bd6Dks__gBH2jXPPovZ1lX0s2FM6yStwLa2OPy1PmSdBtrsDlIRPG_mYC7cjH59GUOwrpCuWUDy39krNfiiMgEFthQzgys7TNy2iK7JiU-zWyOG6RtnS4wnHw
+Title123=Bush - Into The Blue
+Length123=260
+File124=
+Title124=Candlebox - You
+Length124=296
+File125=https://psv4.vkuseraudio.net/c536202/u2365890/audios/49efd4e1f082.mp3?extra=WRGJZ175adaIb6-s6wVnYNn4hP53NpJpENra6dzzSeHT0N5TvQd1gdWtubYP3-rJ2oSHiX7MryXr7tjAp7sC1Kob3NGAj5acwLbaL6-1du9ynQKu9yS1v6frDTavAVzDy_QLgwI8ChFAuKk
+Title125=Sebadoh - I Will
+Length125=237
+File126=https://psv4.vkuseraudio.net/c536616/u204622422/audios/255ee6fa9ef9.mp3?extra=gig8SHCtyyUf9_sV4oVPB9aeeIBPkggMQEKakD2A_fZ85WLSPrfwafoTEJjSlMLb4BzoR6zP6PvM2af_HFpX0PwAee14a1Wr4v2b3yRiMubZPDclNj7InkRliWF6oQFJCtTICYU4QtIjuqM
+Title126=Kurt Cobain - Excuse
+Length126=281
+File127=https://cs9-2v4.vkuseraudio.net/p17/c8490b7ac09816.mp3?extra=dhgjiSENdsazVJEa28qRnRQ6VmOV0vLKIqv_LC_wPvkV_n4hZ08pGVgSmtGt8b_lJl72EjHbeOfHmqh2fgturKUeDeLFhTnvPKOBPtazkcyiio5F3lVIh4W49J_4-lkgZ7JgA3THHgHbrcM
+Title127=Kurt Cobain - She Only Lies [Montage Of Heck - The Home Recordings, 2015]
+Length127=167
+File128=https://psv4.vkuseraudio.net/c536415/u14753017/audios/bad24a999ea5.mp3?extra=Ah5V4GrSpJGQwfOQ7BBFso-BWVcf3U5ig_YZGEqY6CZMrs4ukAr5PEjhkrSM0ODCvv4xcIvc6r_x8IdWUBaGf9kSqFPr2VbWRncITxrogxtPy4YWeXjTsBfZ9qTP83K2WSANFc-76s-Gue0
+Title128=The Kooks - Keep Your Head Up
+Length128=209
+File129=https://cs9-8v4.vkuseraudio.net/p19/0408d0bb30f338.mp3?extra=YJFF9i_Lx0Bnu1em0Bo9KwgQXlyOLiqlvIiHPF2rLOr6GtNjP9tD5mQagpqv2FSLZoK0QCMsBlV2xijTys80q5Y5G78YnrvdghqwNTL8Dh414-PtlL5HgOI6dYYfC3uX3KjeUaCcTyMGvmg
+Title129=Metallica - Loverman
+Length129=471
+File130=
+Title130=Takanashi Yasuharu / Yaiba - グレンとユーキマル
+Length130=233
+File131=https://psv4.vkuseraudio.net/c611518/u45128/audios/84fb2a18303e.mp3?extra=MGP7bMMzVbOXM_g_zp9dxKAhtgi8H2PxKeFSJ8rSIssBDXzZk3HkkzWa2SpkRZzpP8vxNLY8bE93xuGrDY6sfRWheUxlDQTFUNt1e8TQKLg3FnAURyNIeB7AeMfd4Ar9BvBaYI2rbtZiKbw
+Title131=Les Mis&eacute;rables - Do You Hear the People Sing?
+Length131=123
+File132=https://psv4.vkuseraudio.net/c1709/u499671/audios/6ba7f2459f24.mp3?extra=vnNeBKGIhTSJbPfFcCYJ6VV_sS81xxB2ir6b31383Naf4k_UOhM7XJjvEREjhEyKuFjwBXaEaLxMuzhv9IgqNMzffjYd-2KVdYlXby11QRLclTNOzybkUF8Ts1pqMVAqTQH5Hdheo9lmYEo
+Title132=Metallica - Sweet Amber
+Length132=326
+File133=https://psv4.vkuseraudio.net/c521511/u38028922/audios/9ef2a774617d.mp3?extra=u6u9X2TtKgs6OyH-WqiiUoTMwTh2n7Z7qBDkMH3rsDrF-CBZb0eHPfkHDFGUo3pfUpmx4Kkc_W-w8uoF36g5JpnJFZrjHKIHtSXasmdCFyIFdCguNOfAiDFxNhPhbuQh3jwnCN98yTBUlT8
+Title133=Laurent Dury, Dorothee Rascle - Metropolitan
+Length133=116
+File134=
+Title134=Rob Dugan - Clubbed To Death (The Matrix - OST / Матрица - Саундтрек)
+Length134=447
+File135=https://cs9-7v4.vkuseraudio.net/p11/70d02791aabeac.mp3?extra=yFK1do9jPJtYSBMi_q9JrAb18WMcwmvI9hbpcLBaI86Ih3PwRAqGlwzxXXGUHlPyz73RCeBBc6JruGcPChYHA_ymvC63szzSoAtNX10w6YWP1qXnnf3qmQ6mcXigTbytWQFua7QF48NqurA
+Title135=Grey Daze - Drag
+Length135=235
+File136=https://cs9-4v4.vkuseraudio.net/p23/c87b579e565627.mp3?extra=6Qe3bpURiaUj2D9fjy9uYrm1RM14tGWbFQP5pft53OfgA4a5gTqQPRxJRfd6eQ3jN3qX2_VBd5gX0PoEhgqxrMBjTgkSCP9-inGb7g4Oa7kn3BKFZLr5ceiG4UFIfq8gf7sKFvcFunyWYhk
+Title136=Alice In Chains - Heaven Beside You
+Length136=330
+File137=https://cs9-5v4.vkuseraudio.net/p21/ecf23ad9830b7f.mp3?extra=t7a1SLAOELyy5n2KnvZZxmYHXJcG5xM4Yk7NtUuV7L6WmNjsIrkOEUa5XLVMMAuwGExxI_vYQAEOhFycUyCABXzRajBXB5nH8kUSg_9rrv9naady_YXszR2kVz9Nc7MomKTlUdC-5XfJzNw
+Title137=Alice In Chains - Would?
+Length137=198
+File138=https://cs9-11v4.vkuseraudio.net/p13/c1647f3ba12036.mp3?extra=louvL_2uLVZg4iYDHIf-M5lBfBUoddpzAYnAYnrh6jE-wxCbjcOBG7R1Tx3fOkokAvXONNhM7UWcBO_dJ4ehkm9QtDsUHIulVyYXgDRxiG_Tdvchyc1ouDEM2CbD1N0WmsLwG1-yguA3VCo
+Title138=Alice in Chains - Dirt
+Length138=316
+File139=https://psv4.vkuseraudio.net/c422829/u31488077/audios/bbfcecb23115.mp3?extra=NKeyIoAytaFDMoEOWHzZOQJjJp5S7_toUMouUlpHC8niZ03VDgAwD-lOtorBKSkGhtNbv1pCkYxcTHTAxuTpkq4kpsvpyaAWfPcd4_xkcIbW3Nmj5MkoSFEi208zE2KgVSzCCnr5sWVLhtM
+Title139=Papa Roach - Blood (Empty Promises)
+Length139=175
+File140=https://psv4.vkuseraudio.net/c4527/u33725418/audios/17fafa36e1bf.mp3?extra=szH_IC_MB8zQnIeeD6whhQMJTApn72myhgFVnjvV3zZIZFbzEfSvmvN9FY0a4D2ucwXUsKaItRZ5z07Yvpdq0o6E5qZVZMZY0hm6QCa0eEzyt_Jej2XwtpJZSNsNEEh8ywcArNfJjXXwJ5I
+Title140=Cocoon - Tell me
+Length140=170
+File141=https://cs9-7v4.vkuseraudio.net/p2/0a6c951e2df3d3.mp3?extra=qHOrQBTsKkBk2TLFYNLBkHy2mYYJTQKs2H6yhKFsaQvJ3rD9zq6S8slkYqOfzSet_wOIvWg1ymFLNoYOJhovqut6H2zNJXEEoOQBJqRwcoZ_ohpxTsAUmWyGXC5E03uZe7-38LfAhEWUlTw
+Title141=Bob Marley - Three Little Birds
+Length141=180
+File142=https://psv4.vkuseraudio.net/c1553/u357794/audios/e80624cc86f2.mp3?extra=OEyeQvKA04oLh89S4yGfJbQ-SGY8dyqiaOpf54l5ZiZCbCyLc9xr4scyfRoQpgejXuGotLfXqVrvbco0R_7f-xq_1rF8OjrwwDRF4vbOFt6mjX9QdcLz_JnOmNYUNHn0_afipQ2lpCuOjio
+Title142=The Who - The Ox
+Length142=237
+File143=https://cs9-3v4.vkuseraudio.net/p13/786d170c528e1e.mp3?extra=Fgzowr0Yr4PDgGHIcrGypFXPRqpHmwDfaG4aOf9E-_vXvgZ_IYAM5DJgurao179s5j-FEJXsSMwt3IaiRezBARZ4tYTKxPwLMRRTye5EW4o-qWHKCTnW-DWAX7FiokIr0nPa73xcwqUOgyE
+Title143=Of Monsters and Men - Lakehouse
+Length143=342
+File144=https://cs9-4v4.vkuseraudio.net/p21/0f0eeec91def45.mp3?extra=aTREnG9mPqcoTvuFtIzi3obqoVU5jQ6GxLGDLGoUJbxdNHkrs6_NwsQgPpMTgKubx7GT91TSOfkYAePvzpuXoXY-MfofPoF1YfbsI4p3W-GXSoNVg9o7kwxR7DPoEoaVmAyYRxgyuRc7Ff8
+Title144=SPT - Everybody Knows Shit&#039;s Fucked (Acoustic)
+Length144=120
+File145=https://cs9-11v4.vkuseraudio.net/p6/afe94151863fd7.mp3?extra=klfREe11XZv4OxgbxnYEQQoTu7w6RfprgQb4ntgDTkimzpYj4GH_ODcYAoK2w2OaA7hdnFH6_3-BMcehHBRb4Wdel6QNBq6hGB36BU7NtkUYda8t0eIIPEttmSQ9e_vr918Txcq88Vq-YTE
+Title145=Animal ДжаZ - Ложь
+Length145=365
+File146=https://psv4.vkuseraudio.net/c1255/u6174838/audios/a5a80aedaa1a.mp3?extra=im-MWM7cN47rzNxv0yO_84aPV7S7lPz8fhR6iPxG8zfUbDMtXaWABtIT9MhYp8oAYtXo9VkqazmAWhCY5mRTrxsIlS9XF0n7RgoBT6813B7uSDrXZqn8SQC04AQTlkafY_TzXMdXGeT4yMI
+Title146=Nirvana - Serve The Servants (Solo Acoustic, 1993)
+Length146=96
+File147=https://cs9-11v4.vkuseraudio.net/p11/f3f274e130f8c2.mp3?extra=ytraHcN2NlT4y_EajBYnZ-NwSOTArVOjGAUqP527_CseC4D48R78BVZqT8DjlK8ZHzCE0rRp7R6JFVET3GQDvrqcbeBW1Spej9KRcIqUPobvL3aoiaM2p8ZWn5SW_zxGYBVWUWr7jYHJuRY
+Title147=Hans Zimmer - Why Do We Fall?
+Length147=122
+File148=https://psv4.vkuseraudio.net/c422321/u85424658/audios/83c412511a5b.mp3?extra=8CgcBzNuK8_n2VjsOSSbOlsT-0Th1fwnL00johG_Xv4tNje21id58yx-YQc0t_ZZS-1T4LC8WS31YAJbKQ0WfqSfWDkDEEqtHTB6eMsGnd0fGg_ItMDnIs31hywNcs7CyKb0J5b9KfitXkA
+Title148=Zero People - Одиноки дважды
+Length148=235
+File149=https://psv4.vkuseraudio.net/c536503/u940762/audios/fb61d9e7dd28.mp3?extra=iEzDrmIv_Vq3771y389AnaumE4trBFqay55h_jKJ_5CezOdrFrhsJmZtYXsoTbyKjGXyDS6_NKGeDU_NDrsWQo1QQ1NeGxhE0K6r6FR_WRfvg_DdJbz6hPTwj-SfDnnxbDQnP4dkiF8841M
+Title149=Lena Meyer-Landrut - Mr. Arrow Key
+Length149=213
+File150=https://psv4.vkuseraudio.net/c611826/u58674204/audios/d4b72ab96d46.mp3?extra=YkWgmcIhu-NXp5C9iFJeY_c6HNsRP4K7GyfRD5Nx00x74KnWCxWmz4UCkqh3CWVT-9ybF0XrnPiC3_7JACLUsjKIBVQwWY0veTpDpaXJHoB2njxTiENh_JHCNNm9MPiPs2jqCUWwImgNc68
+Title150=The Strokes - Chances (Capital Children&#039;s Choir cover)
+Length150=226
+File151=https://cs9-7v4.vkuseraudio.net/p4/a8b865d0b87aa2.mp3?extra=COB4B-tl_2I6YT3d4FUcsfJD3NM9nrAnFLPeUWPatPggJxiJLmRvpZvHs654nFM324ps0lbbKq9UbsMvGx3vqeqCyGvy162qzZxgJ9xNNtdpg-zBcKOkgLVS_HXN7YsHd3Ew21tpVYw1iGw
+Title151=The Who - Won&#039;t Get Fooled Again
+Length151=513
+File152=https://cs9-11v4.vkuseraudio.net/p13/607cfa2e0808ac.mp3?extra=rs5zbTR5fPRV1tdqDA1pkDGnGNhusa7S2cogrYVrOaj8FWRpstJTFSTIG9peSakmLlBaw3E_MDia5Gh9C2BotXkkqM81OPQ--Cy7y88XEk8viy5EGs7FNugQgM5Sgv89At8tf2HBJluqpEw
+Title152=The Kills - Black Balloon
+Length152=226
+File153=https://cs9-3v4.vkuseraudio.net/p2/249bdbc2904721.mp3?extra=nsuMpoj0NbEn5phiCTw6kchsjNVqHRHbdSiaCh_ludPjbltxwiHzhDB3lSxrjuDYQ2b1HHLTE17RChpsc33_MCE13Ye-DEVhUuAQHXLuRtwD95WRV6TlAjRYIqRQymrkKrU-UKY4marZtJA
+Title153=Arctic Monkeys - Catapult
+Length153=209
+File154=https://cs9-3v4.vkuseraudio.net/p17/0b97c8593d9c55.mp3?extra=kyc8qDJfqXW65zGcXrk38_7LKWNTmk7hbZrCJQvfj7phBo27Xeqou9IBCEQvYotHgoYstvOXNCzHX2sGpVLfOJY-Inw0C1Qoq9nDpwrlDUmTUoHk3MkR3GHsRpKNV-6Mn19dGghQcaEuujw
+Title154=Animal ДжаZ - Поджигай!
+Length154=269
+File155=https://cs9-12v4.vkuseraudio.net/p12/84db781e26eee8.mp3?extra=1XbSg5syDJIzMa1dB4BYTzMv2p1mWIXpwHjIc8G4Kgc6UkDsFiwBM9HcmirwaaifC9i6LCLvc2TqKKHpuJua46kuAD0HDiODSLIVw0APab9lGIc7NnqLoBN5NPs_7TlGiBA1Frw9CWboaw0
+Title155=Zero People - Жди Меня
+Length155=314
+File156=https://cs9-19v4.vkuseraudio.net/p4/a937350dca2e7a.mp3?extra=I_s-YMzK5NqccaCIXJBVeQxWXYxaS_TTs56gYoZI_JuglrTVUbSTyve-ANqoXmke6iz2gne8tX_42Ci_N_ROPnSYeOMFdTlw34XiRFdPHBUtNahsTz8PII6LKZUiU4S8n5Hk2Gri-QGwCZE
+Title156=Animal ДжаZ - Любовь
+Length156=219
+File157=https://cs9-5v4.vkuseraudio.net/p19/07531f4533a62d.mp3?extra=GJ0aMHJxwBc7c9cGBFAhJWKwQY6TtIW8J8kiw201KhgrP6kMS7-zESEw8Vos5fhTuaSZ10gmbtwXBnmysIt5XWk1xch3PyAcW8SMud8IGpgEj4rdlSP9XpvEAPIbJStgVPfKaW_zaJFrYgc
+Title157=Led Zeppelin - D&#039;yer Mak&#039;er
+Length157=264
+File158=https://psv4.vkuseraudio.net/c4704/u23474108/audios/d338b1d2c745.mp3?extra=d4LMt1MlOOyDsJZPfO4v1PGAhCPkxRcGTsv85aaKPUXMIYrfv8wTvkmG5BhT8bwhdgG5CHRrIHHRgqligOip1SZNLuGXg-TTFaLIvei4JmfDPbNQTbnPLZlftVsM-KGbYQbTbkZP9s8NoJU
+Title158=Def Leppard - To Be Alive
+Length158=232
+File159=https://cs9-3v4.vkuseraudio.net/p20/b365654d2786f3.mp3?extra=dE2ltCquqZboxwTdz4vzOJ_iRZwN6EubOor6HXdUcYkDbpq182aIh6v4s6GnQmh9nXyf5vWAD5VtwB2m7J7Z9n8qSoxUWOHgPlpJEV7A2jN7vCu_-X1qqL4WIuFH5AJ_ZjrgQ-3dRcDeF5E
+Title159=The Who - Love Reign O&#039;er Me
+Length159=348
+File160=https://cs9-2v4.vkuseraudio.net/p11/a4fa7cc55065f7.mp3?extra=1mkW0IJbmBxKkSzyqnisVgKpkiLbzShLIpAmsLNyNSNH9ZhiCEEnzHw_ksCb2fwRPVXDaWuLh6uk8cLcHBHT_uehRD19V5wxfJN1hlLZo4t95NLZxbFYyH9hs0W-6jHV1Wzd_ktjQNOt_VE
+Title160=Animal ДжаZ - Инопланетянин
+Length160=314
+File161=
+Title161=The Beatles - When I&#039;m Sixty-Four
+Length161=157
+File162=
+Title162=The D&oslash; - Dust It Off
+Length162=222
+File163=https://psv4.vkuseraudio.net/c422816/u1705557/audios/e0c7318fd9fb.mp3?extra=CMNEDiSmO6U0eAuqY56ykNVAoJoHicnW8DNCYnZ3gSLVAn6sRro5RJF8GuJRVCkU0HbhM55pq4zWaneHXfXpJQqw6ovy3oF2vQhMN7HEB3W0nsNDMfJTB0RKTU-PKD2UFUZYZ6SRQm1vUPk
+Title163=Low - La La La Song
+Length163=205
+File164=
+Title164=Pink Floyd - One Of My Turns
+Length164=217
+File165=https://cs9-7v4.vkuseraudio.net/p10/ee68027dde90df.mp3?extra=iorDm6330ouOU25wCBVuWxP1Bd-o-LSBc4LJo6mB2XvuK7cq9ekmdbWfrtfimwb7iB3q0GXtHxYWjpjr5NmbkctTgmzZPu979MIYUtuWp0L5ZjMNfyo5QSK_aMHWYCxh6WbLEobxnCmASZY
+Title165=Metallica - Unforgiven
+Length165=381
+File166=https://cs9-1v4.vkuseraudio.net/p22/6e9f8a4bf9d2a8.mp3?extra=ZDE7Bw0ivPy9GZV2B9ZoTvTGYOiaTriDzrSdlk152dKBpFsO2as95aL_cMuKfppP99BTtWOXAxFucFrE3pSzwFUC83oikOzyCVeqxgFUgIbvNfd4zzFXustGPLguJPR4eONSoIt5SIhoRtQ
+Title166=Kodaline - Pray
+Length166=213
+File167=https://psv4.vkuseraudio.net/c4651/u468678/audios/f922377cc6a5.mp3?extra=OlIGcV-ux_u0Agifdq29PMwfdtUzsqej6KNrVr2uzlZSEjfvKfro0Qmji8szUGu5Dbo_me5HiyKK5nIiF1NwEoklHFdb9NQBQO4Ma86jNnCcLE-J6Q2TSeB_Sb8C8wMfbTPE1Xg3wap7Ahs
+Title167=Gorillaz - Hong Kong
+Length167=457
+File168=
+Title168=Кино - Кукушка
+Length168=344
+File169=https://psv4.vkuseraudio.net/c1698/u1724129/audios/6b522ef35780.mp3?extra=UzGBHF5IlESBBdGubzOnJt8qWV5-636Q7t9lNFo8-64UyNQPt87Z4X9fwxvBY6auiTN3Dy60YRBaPp4hkhpmdwAT7vHTPBS5IdpCBlBQRiBVLZZWPHcad5crDsjmuFryMSjtHONGw3wyJIw
+Title169=John Lennon - Instant Karma
+Length169=201
+File170=
+Title170=Pink Floyd - How I Wish You Were Here
+Length170=317
+File171=
+Title171=Pink Floyd - Goodbye Blue Sky
+Length171=169
+File172=https://cs9-4v4.vkuseraudio.net/p16/63b8fc0e038b5e.mp3?extra=-iYuq5lZdlAQSY_2pEb7Z6_x-5-krp0aYuGwbAlIvYjk_0KXdZVmwUqba2odLxyadF5pJURbntf0oHplpAHNUTQTfXJsH6UuVoq1UGP1OKR8m9C2Yzwb7fAcCkVlwjp3mPuAIrYywwNwR-k
+Title172=Low Roar - Easy Way Out
+Length172=288
+File173=
+Title173=Pink Floyd - Dogs
+Length173=1025
+File174=https://cs9-1v4.vkuseraudio.net/p4/3853015baf9bd9.mp3?extra=C6Q5xzVdwlemsc0HtjvB6-EqZ8Esx9dzc3eC79m907Foz3LYxJ92EvU6xbwVDweU4LwTj5iAhraNon7A6XhH9mqFHyfYCwcVxjJhiSLxaolpQtJh6w1OmfyLgRHGNUxsMXE8S-02GjacHm8
+Title174=Bring Me The Horizon - Can You Feel My Heart
+Length174=227
+File175=
+Title175=Pink Floyd - Animals (1977)
+Length175=2508
+File176=https://cs9-1v4.vkuseraudio.net/p23/b53cd1bb8f0ac4.mp3?extra=VGZKtXRowY9dpuVCWdsyklvYuI2P_mXdzYm7HiQWawcuWkrLv7iMK6xDDV65iZU-bu6JKZFuBqNi03EyVnuQdEA058DjDMdEyjwy87C70dVhcGfmf5OrT-GtERyoO7NOptVN41KlelEHGW0
+Title176=Gorillaz - Kids With Guns
+Length176=225
+File177=https://psv4.vkuseraudio.net/c1701/u806976/audios/ee6eb0c97d0a.mp3?extra=0w-EeLaMW3oMV4HnQO_y0UVb_QqckqdUXIJewJHWHYb99k13n7uH5O1qP48xtz5JeOdZXLHVfJpUBZFITxIMYog1Wcl_1WGNFq9bjd0spi2tT_ckTOhrlbj3WmxubA3_qRiTIiHeWAQ1CFI
+Title177=IAMX - This Will Make You Love Again
+Length177=284
+File178=https://cs9-8v4.vkuseraudio.net/p11/1379e5cfc07cfe.mp3?extra=H-9HL3xzXA1ohsrD76hqHKL4riYGJyQsN3nckqgTzO4vtSumVW7AabWOM_zTUzIZesTsHn-gBU_rp8Gcuzsh6ygGxAo783qSQKuA73YHZuXtZwHQL7vJNB-hK0RsA8WIPmCEO9iOvuLY3Kk
+Title178=Maybeshewill - He Films The Clouds Pt. 2
+Length178=402
+File179=
+Title179=КИНО - Следи за собой
+Length179=328
+File180=https://cs9-19v4.vkuseraudio.net/p19/5bc2644ef8310c.mp3?extra=kGWTkW1PElvxdDwfrkzPoxfjcIS-qDqjFNxKXYK1mw0_ayfpxcS8inyLDzEzu49GcuVzqKON-SpEvakjR_I5BYiIvDdFBJ8IAekg6lhabtqDCF89eFKYWfzBkrjAeWfVVNXvpZxg7eYAW4k
+Title180=M83 - Wait
+Length180=342
+File181=https://cs9-2v4.vkuseraudio.net/p23/c5fa9a9755e2ba.mp3?extra=BQPmYFEO_kTJvpU2fASDddrS6X-v6noSlvgZqTsCtK8VfCGTeLoamZuhmlNh4DXIPQLhVV7jEtghfLvpuNrT0wYg8yHDcQ_wBb6h_UDQViKedON3qMPofW9_PiAfOhS6wXNa54Irqn-DKVM
+Title181=Pink Floyd - The Dark Side Of The Moon
+Length181=424
+File182=https://cs9-5v4.vkuseraudio.net/p18/1d3ec6aecefc4a.mp3?extra=f0ufa_eBdUCPdVGqv2_2mrv2kVs7eaTeas5QjyB6GVys5FPJnWDu4KFXpfJuRJnqx-Kil-WtViY7InlpU5HhISx5IeijvhQ3_D2eqeM8roHcuxDeah3CBF1T2fTFKSNjAKw9eA4bpxCnm1I
+Title182=The Beach Boys - Don&#039;t worry, baby
+Length182=169
+File183=
+Title183=The National - I Need My Girl
+Length183=246
+File184=https://cs9-18v4.vkuseraudio.net/p23/a99019e51fd5ef.mp3?extra=j3wpjiUHCnUxiEbZuPA87m5_0IKCqFeFUMTCE6lXq4jbzT4Tpw3P1RTua8JrHFug8mmEuR2npNBR7-csUGAfiDNxXEaCAAqpmFgpylAoZvAZ6rtu4eYndpCwjUAnRe9Wvr6CtlMAfXNuEU8
+Title184=Pink Floyd - Atom Heart Mother
+Length184=1415
+File185=https://cs9-12v4.vkuseraudio.net/p5/5c03bbbb91924e.mp3?extra=w5ddxfiAGGQL5FAcUbxZOaTg6oWdsYQSTAydfN_A_aWF26-h_bkJGcOackPTXUIWTOiZDF8VMJIGK1WytN6OtY5mNQyaAYGkISQI0ksr7HVD-x7-2Hn9Cx7JJIsdWnaBWdilfDkgxz9u_gU
+Title185=The Doors - Unhappy Girl
+Length185=120
+File186=https://cs9-14v4.vkuseraudio.net/p20/a51e2584aa5cb4.mp3?extra=4JjU5aaof54DNAWnE4lTMoVEaFEqOegVmZ28k63_Pynz_RG1cQ0bBL-0FecJSLZPWXUg6vRrV1UThC46PZkgjLs48Zdk055sqLmQLTn3T7Tg4ctcotZJoLM-KGPBi10SQgV78zj9ui9SVxE
+Title186=The Who - Behind Blue Eyes (1971)
+Length186=223
+File187=
+Title187=Pink Floyd - If
+Length187=271
+File188=https://cs9-4v4.vkuseraudio.net/p3/7a0c5f507a74e0.mp3?extra=iitYhudLoYod5mXGGSYxYtk8zF-3ipHl7UaBmzZUgh1gSWVsF5AtWSOfhnj8baTun4-XsjMD09-xvrInBaj1vSSSDTe6KNWH_cQCwkk-9zRB1RtbBKnpP-b6Aoqy2BT3CuKkT3mDKOsCZd0
+Title188=Johnny Cash - One
+Length188=233
+File189=https://cs9-4v4.vkuseraudio.net/p23/cd2aeba44e54fd.mp3?extra=E9bIeFLeVcH96kh99ClVINxodoZEnGVP18vlqrXOvXG6x2AOkXSsBnaVWqQyxJKUG4oeSZpUYOTrEI-byqpb6bDMh478eqWgwY_sRAfoqiOyp4t_N6nZDF7daZEv_MDw6cv8Z-qx037QmGs
+Title189=Johnny Cash - Hurt
+Length189=218
+File190=https://cs9-6v4.vkuseraudio.net/p20/5f4c3ef9d2a5e0.mp3?extra=Tz6wtNuIm3EL6JUDg7GgaolzBagKS2sxchKvJGS6nL6RlcJ6BmgfhZI8KN0cx6lrSRTYcDgMqHnGG69Crzs8hW8c4NSomwEfByRIfeP3TOyl8bCNPY7hhLIOgFhudadugKzpn6aP7udLPdM
+Title190=Johnny Cash - House Of The Rising Sun
+Length190=341
+File191=https://cs9-12v4.vkuseraudio.net/p18/ccb16853913868.mp3?extra=uDU_f2ht4unltDtAmoSeeOOKWOB4nRQHuDuzjpRElv84NiIvg4XiZdqefUL5ihyelNmTxPmoSGOrCbIEWS36TiK3eaM_2eLzi-6tSEfkWkorVMTKENZIh9fqsLKc6BfsmR-R7qMpnXtTsRg
+Title191=Led Zeppelin - The Girl I Love She Got Long Black Wavy Hair
+Length191=180
+File192=https://cs9-2v4.vkuseraudio.net/p9/73be7ca207688f.mp3?extra=H6kfYklcCfbmdTseTYpRR0aGhzVD-Zjw0Eg5_XNgpcaPPPAMAfXqpfyRR5ozVFajZuoxbpnp7GhwJ4YM0hUukx4tYtQPWE6grIB1uFB8nfrM48u8ySlEGrWieUgUJR6Rt-HJD8lESOndNVM
+Title192=Led Zeppelin - Whole Lotta Love
+Length192=327
+File193=https://cs9-5v4.vkuseraudio.net/p20/3c7f4c5a67d4e5.mp3?extra=HZZUv-WnMR_yElbv79LsG2BKQDSP2lrpNxDGvPeu-te0FaYmCTUuOEmCpNkciEVJQp5D4n1zbTNvDxCRKDpf6XhvgsOwL3MED9gagbWcQbGEeOQOcwFHy-DOTQdeTMmjvwlaYkhMZN7jq6U
+Title193=Led Zeppelin - Babe I&#039;m Gonna Leave You
+Length193=400
+File194=
+Title194=George Harrison - While My Guitar Gently Weeps
+Length194=226
+File195=https://cs9-1v4.vkuseraudio.net/p13/f3f6b139ff7648.mp3?extra=lZvRwuqJ2aoFZb0hTkNhb0brJSv4NR18rKhebjjKKpd-sRT2gcyWyQHGEnJIpIXzWydBF3G6Q5NupOvIwwACDQDnBQjp68REJ-MZYiMPRt7bjaimUy_dBlzLX0y2vxgZdn50NkKLAEk7mjI
+Title195=Kasabian - Underdog
+Length195=620
+File196=https://cs9-1v4.vkuseraudio.net/p8/47876f1e473ccf.mp3?extra=xlf05_hwKVjuo-hAcgmm7S_2YGS3moBmUHj-FHsuqqdkb2lNEIjSe4iAePqIcmHJ-LpyXTPPFBnjlpx5Jo_hwDgbVkqLuCvZBGzpC15PZtpkJ9HWZPcrhNn_Ku1sSG1RAmlAx9667PzjNZE
+Title196=Element Eighty - Broken Promises
+Length196=195
+File197=https://cs9-5v4.vkuseraudio.net/p6/32d99c68ea0166.mp3?extra=HfMPUH0PbKZi_kOz_NUT7Y9D451Zrqybrzn8_XIdHvbRoRCcnD5AV4DDpNyi5Be_9O0fSoCMANtFNijaN4x5LUJs_cgB6XltHWjz16sTsvfo4neZ_rPCHBCwyesbKV0EqkNMe3GhCFnxl3I
+Title197=Serj Tankian - Lie Lie Lie
+Length197=213
+File198=https://psv4.vkuseraudio.net/c5058/u29274059/audios/8f6d302a6c7b.mp3?extra=HNwW8V0b7yI5W1rg0zwabbR__nm0T2dMC967DO7-zPClU0kCkRCx0Fuv9OVYesYdvDkUs-96-SUp687ptvZQVNurY3aSxU9QCV9Y6g0CaAewKPiRIqFPy_7AjGSEP5PKapDhwqfRDWWaGOA
+Title198=Nirvana - D7
+Length198=227
+File199=https://cs9-11v4.vkuseraudio.net/p18/0eb9e730268ceb.mp3?extra=YZPAocMGECyWQZtrN_1aqXFmnIwACLEwQBK1YxOkYeqv4sZlinNLup0990czJpb0zxt5t9nGPvwOH9mwfO3cBNnDnw-Z_xSd8OTZJwkFRyIgg-r3cdL8JF1SZsPyMJskME49sONmOvrG-m8
+Title199=Led Zeppelin - In My Time Of Dying
+Length199=665
+File200=https://cs9-18v4.vkuseraudio.net/p16/b2c50979838612.mp3?extra=E8OLP5FG09m-5k7Idxe_ynIpHm9j7g8a5wlHMVAnjgkBWeEJFUEESVhfLJHKwHTtY9w6bYSHjbOKH92P5EKxKMxH32_AmShuE5XrgtvS3KkjUAnGu9OPvtsWskkTlB08UAHVzP8MletL4Wk
+Title200=Shockwave Sound - Heart Of Atlantis
+Length200=134
+File201=https://cs9-1v4.vkuseraudio.net/p9/abb064af2f71ed.mp3?extra=asvfQRz9zY5xX-20pGFK27pv1pjgSXyIdN8DoTwTcO4VJwskpeENvl3krRV53TDycFi8EBjSm7bQobKT5a_dxFF9Ku1hb1GtuiOqR3VRpqkHC17VJXFc8vv1GCRg9ZOG6Rt-vBaGRVar2YM
+Title201=pagoda - alone
+Length201=272
+File202=https://psv4.vkuseraudio.net/c4406/u13234345/audios/1b09d15c5d6d.mp3?extra=MdCFN1bAWrWfuYlUrpMS2DDVG_5yQbsn95MlwWScfXMeqrlN4JQY0aqReQmBDShVsW2nWxrrloZH4LscLU2fowDNiPrX4IbCv7ylixvvYG9sMKS4qzONYuLMJBXvDeBy9mJ4yHvTgOFxtaM
+Title202=pagoda - death to birth
+Length202=277
+File203=
+Title203=Can - Vitamin C
+Length203=212
+File204=https://psv4.vkuseraudio.net/c611524/u65631177/audios/d36f9bba7761.mp3?extra=Nj9NINJKRumupaIIE1BGb-V7_uXmV-W5wD8WqNDn6DhQzWOB6UHwi7JVPxjzpSNBkwLB988ivEKsnAGKclvFsJE3loTtXtXRtbTvAj3xjdPvDotyFR8GkrDle92057D7TIw9BUqD308pV50
+Title204=VOSMOY - Урод
+Length204=323
+File205=https://cs9-8v4.vkuseraudio.net/p17/20ee98ee56b199.mp3?extra=Vw-iei84qcVY8gD42ckUvNXFlZQovkii3c-d6PjLfTasU_YCk7cFn-wtfS4Q9dv_SWBAXvQWXl7J6iwKdyYDwdUDHqfGs7AWEwRHxNJvhD5JXIsxJiVjUZyLN2ifrDK-6vH6Bdea-cbjpjs
+Title205=Coldplay - Fix You
+Length205=295
+File206=
+Title206=Сплин - Давайте делать паузы в словах
+Length206=245
+File207=https://cs9-11v4.vkuseraudio.net/p17/1ae328095feab2.mp3?extra=Iv4Wf0wRujEOPZqEdpTOrTSyd4iz1nrLcw9w5DZzazyro9tB5L0gcIfQj4z7-xyOSvR97jDX4wsmhXw0gU721y6syc7HYEbYu3_SieYeTO_-9XRwMSXUkL3p3C1SVuu6sQcMWfQtMH9QTxA
+Title207=Kurt Cobain - And I Love Her (Demo+)
+Length207=112
+File208=https://psv4.vkuseraudio.net/c1070/u1967487/audios/dda32ff1e487.mp3?extra=j_gVknDn5SKJrDsIdoMv7cgKvsdS_YD6PajHUybFidG2O0Mc00DdmHcIJqME2b_kGoS9vo2KqDvN7eNu_dFEHh2zLEZ8ew0BP41xo_sgy24JkyBKLAn_2bBMuHCo2Fq31lI0YGFGw41XXaY
+Title208=Arctic Monkeys - Only One Who Knows
+Length208=186
+File209=https://cs9-5v4.vkuseraudio.net/p12/5c8ba1229284c4.mp3?extra=nZCdYIdIXPwUD0alF-Vx4hdT526HyxrrP95x47OPXWXliCU_DNGKd20b9ycUpAWhedeoRDX7YRNHw-a5pXrvUxvXde4qba2QFVFGCbvKOXTmYlrgaSrGTSzNhezzKPzt1DgZfwaPVtOXcNA
+Title209=Sum 41 - Pieces
+Length209=181
+File210=https://cs9-7v4.vkuseraudio.net/p7/122dcd8fe13c25.mp3?extra=dO14co5KtMaWGiwpAGN0hqI1PxZoTVip8mTBf69XmtwBaXY5pihenPMoMmAtjE1IRr_7R-q06r8xEvEMgjGQlL7gsZpIhAIlSGuSHjHHyPSlDx07bpwyr2rGF7docHwn922Iil2IGfAwXIQ
+Title210=VOSMOY - Конечности
+Length210=238
+File211=https://cs9-17v4.vkuseraudio.net/p15/ce42f885e4f6bc.mp3?extra=-5q9DTGrz10MUWFsW3YMOt5Tq_FkCddWjsxLgznzlNwKI3iImZzYLDLDaOqjIYDqIFzjQdm8GHofKTBRDzAU68T6ne85pZEPmngmSHDv6rMb58LuguuXc_etSvwE9MfBOeN3HTJnhNkLZ6c
+Title211=VOSMOY - Loveshit
+Length211=262
+File212=https://cs9-14v4.vkuseraudio.net/p3/0393e8049c40f9.mp3?extra=d3xjDlYVnt_LbVMMG7tjm1qDr_htnDPTimuD1zkUrcg0tbAutkYWSVgKlSnna8lueUYwBpYxT66qDsxsCghc8M9vgk469RI675rl2U5_hTzb6eDEhvkRVIX9NGhIM-LftMcQV7MRIGP1uyo
+Title212=New Politics - Yeah Yeah Yeah
+Length212=183
+File213=https://cs9-3v4.vkuseraudio.net/p21/40ec1e4d218bf3.mp3?extra=w2RNwvceC9wDxRQldxE30z8f5CcIOBXnpT2AeURehjaiX-j-8m4ZVGQK1Yp_NPnSQk5fB6oEfU2ofpjnbHgRST9UlUtOGtvc_R7zSyFk8ESx8INUmdlTJ43px5lovEcrc106xMpTjXP8u0k
+Title213=Empyr - New Day
+Length213=175
+File214=https://cs9-8v4.vkuseraudio.net/p6/43eaea9d722a55.mp3?extra=vOxOP6DvS0_-7ri0Kh6Z1gJngUvz4blK9gjVghkXrEN-rYToL2vBOLN-NNUBy2We3xePHR9t3jJNtr8JPfW7_I-ehF6rker6cvxwRBLSoAoxSsqMwkgz53owrS2ysIQg8F1FbbR3YQiGvps
+Title214=The Subways - Rock&#039;n&#039;Roll Queen
+Length214=170
+File215=https://cs9-14v4.vkuseraudio.net/p19/43edc4c86f8270.mp3?extra=PNKq3k2MkdtQjHUj600SmzS2fJBrxHVgD5nwzEwRZqkjx6-6vglbdpaAs1lWuJI8XY6iE1WcMCgzroBZO5ai1PTaM6DayhNBw_R3gJ7mnncA3mqWrXkfREPf-naOX4NttZGz67ZxULWEB74
+Title215=Aviatic - Goodbye Beautiful Day
+Length215=237
+File216=https://psv4.vkuseraudio.net/c536409/u176525934/audios/b35915de1cdf.mp3?extra=XJ7phzImy9i3b-1TbOptrKgATTYik7Fo1DHoa8wbpvFIGleTfON7RvrEqVZeCd_dk072wuStquQlTPs4D91XGurcxZSGRxamy03kTOPCze3COJkhvrduNbr95yrrHTz3K4tufmYtijBezPQ
+Title216=3 Doors Down - Kryptonite
+Length216=234
+File217=https://cs9-1v4.vkuseraudio.net/p8/1f76450106479a.mp3?extra=W54EpCP5raktMKuQxzo72Em6gBMtq9xwTwoOsubxPow89KT85bpGpgyKu60swbuL4GBBfCoRchO0JHycqrSMchAEled7sEmUXQMdbAfk3mcMzItq9fYOJo_0kPcRe6CQK8fA93v_ZAUpD9M
+Title217=Nirvana - Plateau
+Length217=217
+File218=https://cs9-8v4.vkuseraudio.net/p13/9915ec9ed9fc55.mp3?extra=Ilt7hJZ7NZpomYS5-Tzj4rjFdWf2JknC4pCHWCPLHzwenBcQViR-g0hGlWch9Dpg5EG8Xc5UMHSG6NXDbUu9xWROC2-6cTvJRRTHiitD1i_4-9jPbjj1yjtGtF_EBHh8D5Pa7eQNNkDLAI0
+Title218=Placebo - Sleeping With The Ghost
+Length218=242
+File219=https://cs9-6v4.vkuseraudio.net/p1/2b8d6df59755f9.mp3?extra=CUAJQfFTRsRKtJQmnECXmrl_vhoAb4cNvYxA5M59j7QXNS7-5WLWYQy46aStrvLFtLOySozX-U6FLws0-kD8THm_tkEwyFkFvUujAXNJbk52xSmh1of1103NBu-3kJhMUDa1cLJVCVJGGiU
+Title219=Red Hot Chili Peppers - Make  You Feel Better
+Length219=231
+File220=https://cs9-12v4.vkuseraudio.net/p17/129476ba3e4a7a.mp3?extra=l7ASHIdYZAku5C8008XMVQLWHdoA6TegJr_JOs8Kp-jllaR2hD9ehsSbUyzOqCJFYwJTFeSdLkhKoaUNFyXEH77zOeEKX8kJ6rzGMVnh71DIDpg-8QvJl9W-FwG0nHqaYwdkYLEitL6qmBQ
+Title220=Red Hot Chili Peppers - She Looks to Me
+Length220=246
+File221=https://cs9-11v4.vkuseraudio.net/p2/2dee232d08a220.mp3?extra=cixwoGLFZnQ4sEzhAAu_yLQnFlkhrc9uG5HAAf8L__4NBf_6L_g655t55aM0m7ulvP1k5w6Tm2ZxyqIvGzKgzcx2O8P9DP6etX7grpGvqOdWDV_WCWsx06xuYeD8k_PssoYYrE1roxBAJQA
+Title221=Red Hot Chili Peppers - The Zephyr Song
+Length221=232
+File222=https://cs9-8v4.vkuseraudio.net/p21/76fefe69c404e2.mp3?extra=1vojCb_w0RB0pAIG78ApVIufd07T06FGWzMCZmPvY1PU3y6zcluFExxPEKzRzr5PKsWyLtKQp_6xVFMTNi_bwls6SXzgSv_XZrhpCcN2xcUIm7AnFERtBMHoAZ1DA1A0y3_deRY3ft7IZQo
+Title222=Black Sabbath - She&#039;s Gone
+Length222=298
+File223=https://psv4.vkuseraudio.net/c4816/u600309/audios/ae4362aa6395.mp3?extra=sWnm7hAnZzzn5Vwu4Qombnmj1RJkrzSwuGpH59u3UuuPjiww6E-P7RSDbFgyoa67_WLRJWyXfvtlERBdGLYXSyU8GmJZQg49farL6TjsZ-sh3kBbmJQGA7zCg8-TmupS5yi3MPErqlHwUDM
+Title223=Black Sabbath - The Devil Cried
+Length223=361
+File224=https://cs9-4v4.vkuseraudio.net/p19/eb6e6a56b1e5c8.mp3?extra=u8uGcP8tRQEv81_4a5pgYz8IjXjbB5ZxiPZ_SWFI4RqNHaGjabUaCb2Fv31GWd4c4SQJ8LueAudDsTQoAT5ivdCenvu0snfSOMyPVvoW4TSZjkc3OYEE86HULwx5Qw4jRJc-Hc937MXJmVk
+Title224=Сплин - Маяк (В.В. Маяковский)
+Length224=227
+File225=https://cs9-7v4.vkuseraudio.net/p7/d8249d73d99bec.mp3?extra=T42UXNoqi9zXOTfxMtFsNB5x4jA-h2q3Le4TsdENrOnop3fEFrGGhgIExy_aUUINWH9uUOZj1q0PZDWXTPKzVxmK9s-vdNxN4DD6uJT_k65UDAWMKOfbc3bgQdp7d--9tz9ZwB1UM0K0-JU
+Title225=Сплин - Пластмассовая жизнь
+Length225=147
+File226=https://psv4.vkuseraudio.net/c4501/u14110/audios/d8cfaf16015a.mp3?extra=fgQn3hoSl7SJ9XrrnoSW1BeTNBZKfMozJeu7lE80ww8eindrG1llvQavN3lYen2loWtZH7TUGWfsDeYJ7zWnmEAfJOUPsqTWJyIAVGQdAmOBIvv40NhsGI53JsAErArRLEBb3SrIg4ZWhaI
+Title226=Foo Fighters - Friend of a Friend
+Length226=192
+File227=https://psv4.vkuseraudio.net/c1559/u11515424/audios/00f7453e25a3.mp3?extra=vVndilv2UtFYBLbm4LJYDFFbet1g22JJkeZoFZSgwKJWylsEYz3AbEn8nBPflA9a90ObQL4ogb12VlKD5YzRGsjGYfu16oeUeAwHkoz2HwX2ywycfCT9KTIyJUbcI6OpaVa4He_TLaewBPo
+Title227=Foo Fighters - Let It Die
+Length227=245
+File228=https://cs9-5v4.vkuseraudio.net/p23/392c4a2a41939c.mp3?extra=dq19Jho_9uFc74qvDbhnaDXMjE8IYajXKosMwFZpIgmTGnAMofxB2zW9_GDAP4YkQ8lFto0H-4ao8tLDpCTc-xEMuVkIj5wsBLBFlF2MAhWljSYVRXSnZnAL6E33IV8DwPyDEVoH3pq3sB0
+Title228=Foo Fighters - Arlandria
+Length228=270
+File229=https://cs9-13v4.vkuseraudio.net/p21/636c2022764c42.mp3?extra=0h34z0VSvb3NemOfixYoGKCxHDSarKJhfA69RktJ-t_FVXaVJa1tiCcmpov8AHq4PhV6lOiQht93ugmleecCftg_psFQTmfMcd47NVgHWAJowhBriD-qZ_ZkLM5HgcB9gngoSIqvDxo7i-o
+Title229=Nirvana - Lithium
+Length229=214
+File230=https://psv4.vkuseraudio.net/c5359/u16209187/audios/7f1515499571.mp3?extra=NyxUnZHhU-i5aXHJJ9gvI6mSyOZF1G65zowCiHX2Ze_fAzkBH-RoCtbV-TFZHEuKRM6oSIx7jh8QL49Eblrsd3n_oISaSTmfoolrhYqxhg8bLx0-XEY4Aa-Phov0nfgOm7WFqYMF_uB6LlE
+Title230=Nirvana - Rape Me (Live At The Paramount 1991)
+Length230=179
+File231=https://psv4.vkuseraudio.net/c1479/u2800306/audios/af9482328bc1.mp3?extra=T829U3kU8GM4iFOYocEvROkpWjOGbNHhYa1UU2rPbTnGvQw7SaNOSflikEKFErYyO1PjQSwumF4qbS0aa5yA8WPYd6aqEy7u9QIKJktaqgs4QYQFw1aoaBGRwX8QrWyAYH9LHHXFo4HxDbA
+Title231=Foo Fighters - Come Alive
+Length231=310
+File232=https://psv4.vkuseraudio.net/c4496/u20210006/audios/924e3acba6f3.mp3?extra=_K8yAdZ0KY6aM0xXtHXgYF_DL4_pJoeAGTU8IhOIvCA5scH7gfVNiujcNzhkYsfjRahD3rGlaNDOihnNneRvTYMEN_M8UVRExPKOntccO_3ES-OttgCM9rAqtntI3dOPixhRANQMngGtMhM
+Title232=foo fighters - strange things have happened
+Length232=321
+File233=https://cs9-2v4.vkuseraudio.net/p20/fc612e105d72e1.mp3?extra=Kz568-mkxTwDQt5g9mIffE01JfA10OvKvPImzPRvuSS50YNLkgVOB-6m6SreP8NiKpXbQQIgqdnssS4hBRUqHd0B0TGH-U-KgkLs3SoVL8WU02vVQdT0-_Nv7bwiB1wrf34Hlfimzg-Ru0w
+Title233=Muse - Starlight
+Length233=239
+File234=https://cs9-6v4.vkuseraudio.net/p17/69a187d3c1f056.mp3?extra=Gn2OUNZVuhcrLPCanU0xx5yEe8DaR_tb6e6y8OWgBt1PwjRlMD-9b_-hI6vOhrs3DdrdzK--885Y0MVeik0Pag9Ec2jvPKBLTA6bkksIEb15uGu0eB2Wy2VUIXpkljiwEKe6AWk5xTeyapE
+Title234=Sex Bob-omb - Summertime
+Length234=130
+File235=https://cs9-15v4.vkuseraudio.net/p15/48357fadc70f86.mp3?extra=lkLESAXo22KQXZIDmmEH9pXYNYABsodKHrqqWkl1aJ5SyTCWhgsFaWvsvASqdJz26wM_VWwSUab3k9zxJ2flJJucIK9Wzpvo9Kl0SB7pO7e3elbdB4kIBuSPd_TBP4PyylLQhom6tnf2CRo
+Title235=Foo Fighters - All My Life
+Length235=265
+File236=https://cs9-13v4.vkuseraudio.net/p13/1e51c8d7065034.mp3?extra=pXZ4SUiDHtsrgZHopiQurBHZMxKNWXQvQgTH9bkgSl21UrRQRRqqUxWdyPtgQFuIrOcM1cCYSu9rWVegzPPBTrq6bt1FhzMyZ0kxfcQ3vyCfhqGnJ8S8NXeGGlKqeMPBa46FTDvDng2vV3k
+Title236=foo fighters - tired of you
+Length236=310
+File237=https://cs9-5v4.vkuseraudio.net/p8/ad8027f1bae3b2.mp3?extra=q9LWcQvORF7ro7V3luKXjb5AlvhnQ1U7x5KSyvslr8WyjvnNRQaC6qbNu-QGfD9aOQGfV64sI95V40VBkN-zNVyDPfpZnbyzRDXbthnoL_QO27IdkFHZxbUvjehL0n7DQ5c9Se5Rx_hdK0U
+Title237=Phuong Medley - Green Pastures
+Length237=276
+File238=https://cs9-2v4.vkuseraudio.net/p19/f1256fca41bcee.mp3?extra=H70Wt1bZXn_uiIQk0Kl3EV2_-buh2daANbvseUScb7ElYI1GxBiZ3QEQSzXMHWUkdceyRcnl8iUoSXpQhe4l1gQpbMeyALhC6qPcvoEVxz6dngELXgSH2kS8ZIR3EovwE_L378WShOWPvR8
+Title238=The Handsome Family - Far From Any Road
+Length238=181
+File239=https://psv4.vkuseraudio.net/c4355/u25556312/audios/0770a39f54a8.mp3?extra=4OffnL-kjfI-KG2VWvJN_lMBNqEQb7leyW53rbs2coHaEJ_45stG1PdS0rdJfO58bUMxShZjTuZcRJIHH_xzO4zCmiKZrmY22lOvumSYZaF3W6wLMNzS2R4u9Yz3Ee16UxmiSCD15sOdlO0
+Title239=Slayer - Darkness Of Christ
+Length239=215
+File240=https://psv4.vkuseraudio.net/c613925/u50358190/audios/626a4d009303.mp3?extra=2vya121-r5hIuz2YQ3p66tnxkYF3uqeKSj0WI1-Yyd_KoX2ZK_tfrnF0fMg2GtyDYk0fI1pg7WMYDj5UpJFfOEmuUBOyYMUQdBhGHgLme2Z7MtZlNU7oxfNMvqqru7aS7ziE-mZlq9PHFgo
+Title240=The Beginners Guide (ost) - Turn back
+Length240=78
+File241=https://psv4.vkuseraudio.net/c613917/u50358190/audios/2fa76b87d8c7.mp3?extra=EZ_45v_OS3jsYUKAQzxE9R9nIkDvc_kesEYcoEIsHplSmvXU5sKtEeyW5oq8FzOkX-tLQqQu_7LAUIvmEfA6QgUwTYqxlIOMKvxDaUYVxceKEawakbA26qsd0_dPwqQmdKp0-SjXFdqe0aY
+Title241=The Beginners Guide (ost) - Va Loop
+Length241=100
+File242=https://cs9-8v4.vkuseraudio.net/p8/67f6056c2e8e39.mp3?extra=N4OSemLWNW9NyrPt0PMZb03-cqxA037EhQIWRl9np51Y4bde10tSL3SBChKa7fLe3dkAexuFw-nNPOhZsB-OGOv--mnE7Wrvfc7fimsd-NcEI8VxFqw_16HeKRMvHgqOT-ByST9vPHiHMUU
+Title242=M83 - Midnight City
+Length242=385
+File243=https://cs9-11v4.vkuseraudio.net/p4/75be9fb05c5609.mp3?extra=m0ZpgZ1yHUQAn3XuDLGKKk9QbHVNRPQogIt3rLiA0rTDBUFtL9lSiPo03P4M2XP_07Qf0I4oeCVpCJbVNz0-bBfkLqHOswMglogmnJcTpsK3OMqGE3vd70Xepf_OpmJBwga5rE6gJ8psvmU
+Title243=UFO! - It&#039;s a trap
+Length243=190
+File244=https://cs9-3v4.vkuseraudio.net/p7/c00e62944bc1f3.mp3?extra=3A5lr1h3OZ-bpveN21ZGRohTSN50QjIgeBNNZyDQpgVP_Xf2jhcvNgvtohm1lgF3IrXzbmoeQxKoY85QgGRcQzxj4V1egUwZAA-qF9clsK18W7qgYaVML6rAKM-sNq1qRC7qwcb36XgD0Ns
+Title244=Nirvana - About A Girl (Acoustic)
+Length244=189
+File245=https://cs9-14v4.vkuseraudio.net/p5/0dfb7de59310ad.mp3?extra=MFE1rUh1PxFyCynl2WIZtIG9a8mPBzRLbN-dVX_RXS7LRtHJezHQeD7mSmmohfATRgDnhQ_98QSuqf60z5Uy739xi2muU5Mxsieib8PqZlNJscZg9VaWDZ8lCco3PkRIoDlCccv-nVbSSec
+Title245=Queen - Friends will be Friends
+Length245=244
+File246=https://cs9-14v4.vkuseraudio.net/p5/da5db05420e0c4.mp3?extra=uuNnTOgQsR265CZ06dM7TyG_cQhUDXHTtOMHjHbR1cNKqCx4SgWR2JX68WVmoKhgpp3GB0_Q6tB1J6zsntn-b_l7GVP4qEDX5cyD5P68F5KQfs42R9bLavKkxg1zj1XH1yYBj-iEtFrJbE4
+Title246=Death Note OST - Kira&#039;s theme
+Length246=117
+File247=https://cs9-5v4.vkuseraudio.net/p12/8e0f5cb04d6596.mp3?extra=lj-oT_NPkr3bFXUSzidEYZ0dT7peCkupAWhPW7y_AbNGYfgcpTZ77b_NuE89ixKtaJ3RIC7HCefxciEHnBUl3iWZFnfUA7eIqX1_MUwJMGSpxta5Q1VzHk6jaiM--ru1If0ugMlUqVSV4fE
+Title247=Pillar - For The Love of the Game
+Length247=230
+File248=https://cs9-13v4.vkuseraudio.net/p22/10c9e0bea385fd.mp3?extra=qY5Q6WzwVTGgKBl2scBWZGKa4TlZSYaDROwqqwnMYV-Qpg_4H4VyUHOU37Km9ukH1DoPpN0tRJt5UBtbm6a8kTbmGleVaADTE90ZxRdFvHZsE9JYLuikT9ek41ONQwz1HOZdSGRhkVGTHAA
+Title248=Кожаный Олень - Peace Do Lay
+Length248=235
+File249=
+Title249=Pink Floyd - Hey You
+Length249=280
+File250=https://cs9-14v4.vkuseraudio.net/p13/b733159aaac6d2.mp3?extra=GCBSfceYVIAMn7-FOUA9fEW1LwlqcOYpFApAm_aATZR3PMW4o0Z-T_OgPruefGdevlWickabnP8AF-rGR_cygK47KOUuRNeSQPkx8DuOalHAEDHuk8EJXJnrEy09UCEmoXmW4kZfgbFU71U
+Title250=Pink Floyd - I Wish You Were Here
+Length250=210
+File251=https://cs9-12v4.vkuseraudio.net/p10/19f8499a700227.mp3?extra=LjLCeE1R_WaSh4EuIoaUtYjGe_ArSPbKTw1H7cqkWeBnN7TQrQpbfPntYYw5dfAK30M_6_qY6eVzgsteLG5fOhn5to2JljIfhshRedcuCx4S3teIHYst995kS7E-orVbatinA-cMnarCaHI
+Title251=Nirvana - Seasons In The Sun
+Length251=202
+File252=https://cs9-2v4.vkuseraudio.net/p5/9135c328dcb524.mp3?extra=Kg6GMc-RB8QkDWtc9pTk0fSSbie-MnFyxGELd_tee9Trr5GnS9hfj4ckm-q06f-9AP28nHsAOs8V4amiTK9KTbrbxp11n3OrDm0Ph_biaJ0n8aqOA-q-53D-GiOMhF79cNJ_wzZoJM8_24k
+Title252=Garbage - My Favorite Game
+Length252=221
+File253=https://psv4.vkuseraudio.net/c611227/u245235120/audios/87ef15f0ad02.mp3?extra=x4eXjr43l4XfbTBaC3O-SYRcBWPIaFwT-z8op4YybJ3JQAdDeFgjhyoK6dnvTrNYXAllKf5guxM5E-0rQgitLryD0m2u5esNGAtbB9C5KvKwu6vL5GhSGnoVYYo6RD2lLb3NtxqkhLWuViQ
+Title253=Silverstein - Buried At Sea
+Length253=175
+File254=
+Title254=Oasis - The Importance of Being Idle
+Length254=221
+File255=https://cs9-16v4.vkuseraudio.net/p3/cd018ab1503591.mp3?extra=rIAZVTniYH0iKjv2WqtHpL1H-0N6ucGvu3df26glRJyHC-iywd53xlHP7o7I7ASPH7UOUudkF8Gv2lL1hKBlPbrsU8l_j9TBPEoqtNl8YHAhdvvdUnYx7a1j0s3sdkM7kzp0Vcyn-lkFB6A
+Title255=Bloodhound Gang - Fire Water Burn
+Length255=293
+File256=https://cs9-1v4.vkuseraudio.net/p12/66f87c307845a9.mp3?extra=5PQyPAP_WrKhnz6F8y63z0hoUIHAjFrMZsGe5l1-WyeGpR8_CaZtcN9AD_T5Fy8rir8ev-PIatljxLZboYNlPz2E-qb_km5nMajG_AfOYzMP_0KGfyX5XL15zr2tm80SYpEcEV7z_Mrv-Ys
+Title256=Seether - Fake It
+Length256=194
+File257=https://cs9-13v4.vkuseraudio.net/p8/e9d49e2a1b05bd.mp3?extra=GbzlSYiqExLuLGQZX_NdgYDUa24fon4Fe8tGU_0NNLeRTizM7KzNThjIt4EklbWE_ImWRqgDdfPBUwdOJRyio1vEvvZPmEWpWr1tm0FOlLEo7HnaqUVkwRw7bzSCQF3MJjaq3gWQyhVz40o
+Title257=Oasis - Bag It Up
+Length257=276
+File258=https://cs9-5v4.vkuseraudio.net/p24/6b8e8a097dc354.mp3?extra=38D1KLArdvd_hefmAu783jl0ksYPaPlOeUvd4r-sOG9rRU7XLosjaAjRmSw0rE-vZ8dPy98R65ra7VqXMdiosrksLEJ7JZ1PkvZA5l00fyfom_MkB9jtCGVX1MWHYJyavuQd9B06zegO_e8
+Title258=Simon And Garfunkel - The Sound Of Silence
+Length258=187
+File259=
+Title259=Band Of Horses - The Funeral
+Length259=322
+File260=https://cs9-5v4.vkuseraudio.net/p24/496df19bb4c28f.mp3?extra=QVRyuzkPXiBUeC__3YNuP2XvDld21y8oNyPAi45TGajPh8qDjE7yZxYCRBnp1cRok9ekAoaIIBKG7QuAV5lgoor_AtIT5wTDGCtXQiOi6hr52PvXUQjNQ2KMHneVK95w8bDJcmXgSra4tdY
+Title260=The Prodigy - Out Of Space
+Length260=298
+File261=https://cs9-3v4.vkuseraudio.net/p13/21c9fbb93a4b68.mp3?extra=RUHWXtsEfqrdgb4sY4srNU0mkXsqGYLAXFWGe_rC2NJAGeZjtGzcdNG7QKQcQGTBhOw0by8ttK6wnclPntFh9AudU26xioOiJCC-22yZZoXDig-Ff4Fl0XNjcL219hoBYFz57azbfFxz46I
+Title261=The Neighbourhood - Afraid
+Length261=251
+File262=https://cs9-2v4.vkuseraudio.net/p19/9ac4cc63050636.mp3?extra=hj5bE5elc_fyQhhS8D5aUopTD-gymp7UXlc8bMHt5topv-sKduEShFU4w18MzQIT7useBXKmsjO7hPEggCZWb8ztDdV3C-7HQOcXpPaz1z88IwoxDeXRV8mHca7DRWQpLbGLgJ0KENZ46h8
+Title262=Slipknot - Wicked Game (Acoustic)
+Length262=267
+File263=https://psv4.vkuseraudio.net/c536300/u2327017/audios/0186881c67eb.mp3?extra=0lJBDjK2pCQAOqNyn0i7DiPKAaqx5q57NKWgIFMv9R29xekMQ1mbWSRQwNTlX1qdw86QOItvD4jgSnmtQiSFGmV-7n_GcqQvNIENR0sm8dYBBE2Eb8C-oC-AJbyBw1fXlA35yY-xIJbumRE
+Title263=Archy &amp; Mehitabel - So, So
+Length263=233
+File264=
+Title264=The Clash - Janie Jones
+Length264=128
+File265=https://cs9-4v4.vkuseraudio.net/p10/bf68dbaf6ed399.mp3?extra=uc2A3TIS80p4_LiBGcX0vcaB1iktjgRbh-Qg0HUEz1FkeZFY9y5cTN_DfRZgj6wU9rElplp7SVO-oQOgu2oGG_b_loTo9VnJeunqUzKUkaJevRIWmymNFmPydeV47Zm5NDUjBF8YqcOHEWM
+Title265=Nirvana - Spank Thru
+Length265=190
+File266=https://cs9-14v4.vkuseraudio.net/p13/47a22f00ca44ea.mp3?extra=JC8PXT5xVeLsrv3jM_kxNSOIMVhHk4kBcs1nX0UVTBrx8yoXPGoIuF5nW0M7FE3AZ735zISybPFZ3qVTuV5AdP0uH_af91IRKdTs9jHbaCWkBqBxIGHf0m_KtiD4NyY7SNX7mnwp4GEqBN8
+Title266=Radiohead - Just
+Length266=234
+File267=https://cs9-12v4.vkuseraudio.net/p12/98428fe9bbc089.mp3?extra=guk4ShF2Jk_yw5lLOOdGNv9-cnKDpkL8ztsHUQFO1WxoFmEI0tVOPanvJ_FpMVPTjWAKVm3Z9NbgFWFOY5ED2iMfL7Clr2QI_r4LWV75QsSXnthfVsjLIdiunW_CM-SOkaNh6eplrTIHAN0
+Title267=Radiohead - Reckoner
+Length267=290
+File268=
+Title268=The Clash - Should I Stay Or Should I Go(OST Far Cry 4 Trailer)
+Length268=189
+File269=https://cs9-6v4.vkuseraudio.net/p17/d306cc8f270180.mp3?extra=WxMydSEnK2EcJ0tqVZ1P50HDVinJZKM4fsbTLTimxiPVvo6sGmlKZRwOGiBV3HHC9GaBHlw_l0Nrhn3ukdnmgK12jPkJjvMDQup2KVV9cFGqYRa_coKX76cYhj9eSOEUwxPWhmCRQqx9mrw
+Title269=Linkin Park - The Messenger
+Length269=181
+File270=https://cs9-2v4.vkuseraudio.net/p3/ca6bfe16e3f928.mp3?extra=Kn2YtigPd3E_MwKpGVbrxKeY7QzSfXcylNubybRdmJiaHAvTydW3UxZekBbsGXCXyrK-JbueDStk8X7DHb8WImfrWEONPlIML2WmwPQ0Ggy_lMY8vzjNAWCF1kQV-f-PplEByX5lzFzi5Nk
+Title270=Nirvana - Old Age
+Length270=260
+File271=https://psv4.vkuseraudio.net/c4256/u31991809/audios/fed2246bdae0.mp3?extra=5-kY-ij6IYbQ73UvzLRZSn6DTMDKIjMSGOgvy52sVBMAoOFNJhMZdjXNBB-hWEWPuhO7Ss-cew_Pf70_wRYo6j7jcVS7Sq4vvalm7rn6Qxq_UJumxPIgNXjgfsc5xBmgKYKejpRC4-bGkbo
+Title271=Nirvana - Don&#039;t Want It All (Demo)
+Length271=141
+File272=https://psv4.vkuseraudio.net/c4987/u5433107/audios/32433b8c8b6f.mp3?extra=vAA3G3TZ7_hjthitXkZnGbyVqx0WQrY0lt77JThFFNuCrnyRXVlh9MdPthtUJK111X7b6QTkC-yjcSa9zoenASG9XJawV01bY0LfyQ5n-XubmQAC-IgER0s-um4jqcVfNBzuZIFTsECbVdc
+Title272=Nirvana - Raunchola , Moby Dick
+Length272=384
+File273=https://cs9-6v4.vkuseraudio.net/p3/ec111511d526d5.mp3?extra=q481HZK_IXxMqDGcnX_oHsIJZnmfeyKprJvISnP0M9BSQTgC4SJaz936hVWI-IRc4gL-t8TDD38r7GETpzIz_7YZZdIJwMtRPVDJiVP22YYMTfL_upVrjUYXyWQEUmgwUUkbeA-MtuAUEfc
+Title273=Nirvana - You Know Youre Right
+Length273=218
+File274=https://psv4.vkuseraudio.net/c4601/u77566782/audios/4d4afd29063e.mp3?extra=p2j8Q3ErwWyhyp5Mwtinm7QdeQAoAkUjZkWBA81UZU__KCL9-6HOK6QSbx7wp870cr2k989XuMOYZTI9jFkDjyErOdoA-Ef1zjCSV7nxbx_SnfLzF412-6bM9VvjEwvID1l57lR--iSFNx8
+Title274=Nirvana - Oh, Me
+Length274=208
+File275=https://cs9-4v4.vkuseraudio.net/p20/6cd65120e4d07f.mp3?extra=rnJMhncmQZkVzWb5kI-xnYZs_b4sc1QRjKLIwULHXZA0x2AEgPh0SnX8C5WZHsb3n2eEo6tQdANPlbSi-QGD9Oeaw17ggwllo9fWAO3_BOXWbT_dBiNWHbvElFHWCXbrxZRTc8SXuvpmOKM
+Title275=Nirvana - Come As You Are
+Length275=219
+File276=
+Title276=Nirvana - Ain&#039;t It A Shame
+Length276=121
+File277=https://cs9-6v4.vkuseraudio.net/p4/44161753364304.mp3?extra=h9U65hIxtGcqjHARkXTEtK21Vm8oNKhWf-KSouR0yNN47Ew3TXdbvUVBNFbSl50WbAx7eM9T-LFALzVRVAzCM2IGvHHrmLyG-F5uL1AmpnFuA4JYXwI4k3bBeGI68-v2z4EnrcvQxCFhSsA
+Title277=Nirvana - Do Re Mi
+Length277=264
+File278=https://cs9-8v4.vkuseraudio.net/p19/eb481f2cbff4c6.mp3?extra=6NKmzYmAu7VBM0zGoQa9r6lohwpzztEWORjh6rKTE4OMhYkPsTm1GO01-IHbAtDMgjGLO4IpJwf42OZ603TNmOhHl1Ihd9ZgXJ3KOPJ1c9_tB-kouqS3XgU0dwHoOVwREfW_3eLJOd08wTk
+Title278=Nirvana - Rape Me
+Length278=169
+File279=https://psv4.vkuseraudio.net/c5118/u68463008/audios/647b592a85a9.mp3?extra=HlVQXMuM61vt066xBl-em-YPwCrrySMkgxEEs0m3lV8ZBBnOdOIQAhcGFA0jyxt4ruEcNbC1y2HRANY-IVLcfwnHtl5rFibTak7VJ6mUtk6GQyNgbjMH_6cubAsbEHLgQmMP8A7QoGd-UiQ
+Title279=Nirvana - Jesus Doesn&#039;t  Want Me
+Length279=277
+File280=https://cs9-12v4.vkuseraudio.net/p12/7e6b064d6c1174.mp3?extra=zW_i0y-Ht4Kj1nw0RJ3OZG46S3iK_odSLBf4gsAedSqij11NNEMID18wnG3bqeQWr1zkUbwy7Cs2_NcS-W6a5y5oe23Ap3Of3QVyLOQnu4OsSJnSRi3JbU5SA75qLN-ee56F58UKk1w0g2o
+Title280=Nirvana - I Hate Myself And Want To Die
+Length280=164
+File281=https://cs9-7v4.vkuseraudio.net/p14/18a4e60bc11054.mp3?extra=N0dL11HcxF5uu8R3kmTSaFXRNK102AcMnSisXV99h0yYXHMSllT8JlgXARNBi8gGSrd81l3P1RFLI5hQ8ANwrbpxxK7lGe47u_t0weH0NsBXIdaHQm7R5E5e37_x-kFJr60uDoH0LAQN_Ig
+Title281=Nirvana - Oh, The Guilt
+Length281=205
+File282=
+Title282=Nirvana - Opinion
+Length282=94
+File283=https://cs9-4v4.vkuseraudio.net/p23/64e8832f4c86ea.mp3?extra=Kg0VE-n6MY4pQA00aDRAUsbdoCfozA8huQTgG3gs8A8RIvfpl0Yi6Ce_HIRCoEBGk0y1MONHnuBsStP-vTnTWed-vnyklzMLrZ-9S-z8c93W2KM93V9zrbwWc7XQ3BLexxtfpFT8mlw9BvI
+Title283=Shane Alexander - Feels Like the End
+Length283=284
+File284=https://psv4.vkuseraudio.net/c4767/u8834856/audios/dd1d1d9677ad.mp3?extra=ZZV8OtPZem41e9xWsWPr_dqobG9qoQzPRvZgDJwD63XIn6AOrhCJ1LIc6BzsmM9dhkLTuOIRaV1fXglGuN6E-j0lpKLG0QsL1pzttraDbZLjx5OaQT_Kx7rYOz76fxROqSI1l20R0SBmeGc
+Title284=Coconuts - When She Smiles
+Length284=171
+File285=https://cs9-11v4.vkuseraudio.net/p5/155874dc73aa6e.mp3?extra=mhwesBJoroQsLQVBQsW4nyCjihC4ZUA8sGy4GEt7NATfvEGJO8yr8cWnll0FKi0axw6OAsafBejMWyUphqPsZfc7JqWz84GE3ZJoQ-KtWeipI8wE3cm73Cb8kRWAi5Vl8cB8l81D-BYP378
+Title285=Nirvana - The Man Who Sold The World
+Length285=261
+File286=https://psv4.vkuseraudio.net/c4654/u55878907/audios/3f88c8183b0c.mp3?extra=NqeZx71DFoHR6IZSge6Q66sFFqgLxXs4P70-TUVQLHm8tKmlC-nSDzq5t5JZPemfOGFot17bQ_TIavlByEDTX-ywJ3U8-BBWA1qRJAVlO7QVAZvEGgXGSAuMoZAfLDA8eNbZ3qVDRDNtL_4
+Title286=Three Days Grace - Wicked Game
+Length286=246
+File287=https://cs9-4v4.vkuseraudio.net/p13/c35ddd74ac8f62.mp3?extra=dSSVOrcg_Tg2iuU6AYXZXIy3HCr0tv_0FCR_30CwVfxXqpYABQdWsawKd9M-D620wDug-kV1avi-BwFsUhWV7m1J9vhWgRX_AAb-arkY696sWQVEkpG1PCMS3Yo32iDRp9ITQszSz9ghiLw
+Title287=Scorpions - Still Loving You
+Length287=386
+File288=https://cs9-11v4.vkuseraudio.net/p9/02034b112464db.mp3?extra=MMhl6HBF_A6licBgJ2ou2ox1ANrUKRak9T38PxP1oQDuU7cKRtL7-XPki7CIBYBwcNNMYUIsOEZV65D-iCF5tah5ybE9NksgSa6_hTTc4KRimKdQG1k3sYn1-wmsuKWCXFRc8P8NDINw9Dw
+Title288=Gotye feat. Kimbra - Somebody That I Used To Know Know
+Length288=244
+File289=https://cs9-11v4.vkuseraudio.net/p17/164d3c0eca4247.mp3?extra=Z9YhOUyaKjjFFZhsWkX3dFQ8FEqDKBiFsj8H-shh_qNIV8M5BUAPaW2w7tlwo-Nb6I-WF8IQ7Mb0qbd9sQsG26KuRnPcVrOZ3lm3zPRWrF5-1HJw-AEcfbUGOfp4Cs-jue4l21ajzMuOqDE
+Title289=Radiohead - Karma Police
+Length289=261
+File290=https://cs9-1v4.vkuseraudio.net/p4/569add88b1daff.mp3?extra=xBDa0vUMbGtnZ-Oa52SqzAIVDFzbHGdhkQKirAp074CAMonmXUNjX_SAdp65vIDoGXomouFseKtP19Z0tzsfVswBRPO7NDoWuEcLeX0Bgb-iKkZXdWbrnUaB9TaOuNozYQXrHJe1atoyXdc
+Title290=Radiohead - Creep
+Length290=235
+File291=https://cs9-12v4.vkuseraudio.net/p11/caf81be910a663.mp3?extra=nYQ9f2kCtg-U78dvPLCHLSlvdGjyw5NBCVlZz0CAQyX_9P7sMuXvjYUOiPZZ-4-4IsWh1oxzMAugy04oNp1EYX9TaOAHuEbS90x5TWEJybelPCZhpHizhCsAi2jMddd5CMMNVq37rbQG-Zc
+Title291=Nirvana - Frances Farmer Will Have Her Revenge On Seattle
+Length291=249
+File292=https://cs9-5v4.vkuseraudio.net/p17/51a8f6c1071ee0.mp3?extra=fs3pikwYiaFHUmO65otvSUpPZP2k7G9gi_7fZArg1Wz588a6rkJu75GjSGsjcPskDmH8OxTUjgXGx9DYbMk7OLtbWkyUB4GsDCZHFmwQCqn2NUNPpR2sTGZVw4fidlvjcVleURw3g8-MPfo
+Title292=Сплин - Романс
+Length292=209
+File293=https://cs9-5v4.vkuseraudio.net/p23/7de861d537b435.mp3?extra=T4XGZxlii-nkqn1xM9l-8eeHq4S-zh-OZp6c_txk8zIUWpZy5y9CJWsEpua9nvH-eM3r4l_T5sKaUf5XhsPJ8S3rSeATvH6-v6NuhKSGlmSwfFFPUG94wwBL_MG6aXB5UMWJ2rqjsXugru0
+Title293=Сплин - Двое не спят
+Length293=203
+File294=
+Title294=Linkin Park - Holding Company [2011 DEMO]
+Length294=302
+File295=https://psv4.vkuseraudio.net/c422529/u154781494/audios/573e188ca690.mp3?extra=DvdMB9k8QVfr7FtfwWseBj_mqLoU0XnU5rbnvwYn_XpuQzlt0_Lnxqo6YK_BPTz1q03zUarnQLUdj7iWwP2C29ZYJhkpDVYla_giu2VkSpzEsRaYzinJQIKboeFJweShext26xXC8om6mis
+Title295=Linkin Park - White Noise
+Length295=185
+File296=https://psv4.vkuseraudio.net/c1701/u10783017/audios/ff6ddc023b8a.mp3?extra=N5HfuCzCaUWEhuaPGe2du3k8fGW9aLmnhvyqBysmZU5EvaMy99u2ZRlrXTBoT7Gri6qoaUxIrVKWzJxVXQ8S_orFB74ylG14fwSJkx_RZUTnkmYjNi00DfeXTPKeiiz-EzZQP8l8CAqx_g8
+Title296=UFO - Try Me
+Length296=289
+File297=
+Title297=SoaD - Snowblind
+Length297=279
+File298=https://cs9-7v4.vkuseraudio.net/p11/941a6a4408d900.mp3?extra=EOt8suTNaapjWoAjYT0ARgG7oFZCfZ7sPtbAGwZrk7SEZWdiKjPPnrf41uMt4zJ_vqo4_vUfNivxizB7ZCKbrtVfKxlLnRHKhdLhwjOY4Ngtv0UyAXZzfauOxNg2zpT9Zu2LPy26D9tmKiM
+Title298=The Rolling Stones - Already Over Me
+Length298=324
+File299=https://psv4.vkuseraudio.net/c5068/u94042438/audios/c52bea2d6e43.mp3?extra=5Ic9bLJyJPk8pgkMBSx7JFsghnQhEvUvQxr04fuI19ZenyQggWy6nMUFzCgSPihtw3iy6SuA7_32tTh32mWiOh6sSUnTtK7rScyMUv858m-CDsyhkbA3rLuAFA05mZkAR-djAqwEHlkfbi8
+Title299=Bat For Lashes - Use Somebody
+Length299=154
+File300=https://psv4.vkuseraudio.net/c1715/u3356451/audios/db0c4cee90a8.mp3?extra=_vKLAFjPDAqHI1UPM4pIsATxrgMSgKaExp11-QCYnXzUZjgHRd36uuDAwv2wfUpot3Mc9YP7EiNOk_0si-bmhmw_wkc_QoxaOLN7X7Ud4ryCOPmPpZ9FrToL7qdEPtVXUBROYYWz8fUq3Ek
+Title300=Howie Day - She Says (OST Scrubs)
+Length300=273
+File301=https://cs9-5v4.vkuseraudio.net/p9/2184cd2c0dd1ee.mp3?extra=uv348mH2PSBHdBV57zojolXa0zrXEGYMc4TXofZqPrBOD13gpIPYVWzmNXm3nJCJhjxCieGI1o09mzZKgo_kDFNe3NMogK1DfQZYs4AGTnIm1iHvzlrTqiGoHc-5IbYLL1UCqGXgwCEpoJE
+Title301=Coldplay - Green eyes
+Length301=221
+File302=https://psv4.vkuseraudio.net/c4694/u120151023/audios/946970ea49d2.mp3?extra=sfHgt2AWwHDNz2_CQtKc-j5yWeo4c7KFtbRl5HNBQ95c0QP1YqhiriXUffPI5g6Ytk5xDQxSJOQQlPXwabgJH1yjPnuDPHKy9ewwgvbuxpcEuBxCBzmfrWNE827tgERohKZ7neoM61VTXjA
+Title302=Coldplay - In My Place
+Length302=228
+File303=https://psv4.vkuseraudio.net/c1466/u2617147/audios/b2d2dbfb2dcb.mp3?extra=YWD1UN6zHOQuXYxHX3ZZl4VazzycHjryrWJ6g1xTCduOiLHitkcnlw5HEiQbVvrwMrleo4aV1lDE4sJAfgLro-KgAMDK8Sjd2-iZi4cK1eU5oLN2oyGkOnPjPzH9jgwkZthQo5n1MI97qQ0
+Title303=Coldplay - Yes
+Length303=245
+File304=https://cs9-4v4.vkuseraudio.net/p19/d288cc15d0c6a4.mp3?extra=IS15AmRv9NhvgynMyO0wLsEw1cg7twKYj50C26EqmcpvoZBrtIOiCfCDD4bm2xAioW3Gb6cKZlfnXKqcuQYamyUyhagzhWQ_vvs9Uyem3-7N0WaW0Ec5z7TYavIRz9uNjEids4igjfQuaVs
+Title304=Coldplay - Violet Hill
+Length304=222
+File305=https://cs9-16v4.vkuseraudio.net/p15/23ac75cf706ab0.mp3?extra=EzVhY9Emz1oK-rQ5QGsXIrQkouP9aR04EjD2Kz2sj3HacWiiONm_8XLgo4pwNU23Ma79qL24pBfSBlcbyTscsWgvZeFFgNaN2rfl7iFAh31IMptjp30q6NTSirguTr8TI9obKMi5c0-UUmw
+Title305=Coldplay - X&amp;Y
+Length305=270
+File306=https://cs9-8v4.vkuseraudio.net/p17/20ee98ee56b199.mp3?extra=Vw-iei84rsZR9AD628IbvNXFlZQovkii3c-d6PjLfTasU_YCk7cFn-wtfS4Q9dv_SWBAXvQWXl7J6iwKdyYDwdUDHqfGs7AWEwRHxNJvhD5JXIsxJiVjUZyLN2ifrDK7tqb-V4HAqcjk9Wg
+Title306=Coldplay - Fix You
+Length306=295
+File307=https://cs9-4v4.vkuseraudio.net/p15/18fee4fb9113bf.mp3?extra=EH9reBwrV81DHxZrMt2QmRabytnVxga2kaBNT9b9voo5K5IqXjwxbyyZW5uKIDhUSJWFHhg2liexvKEP23U2akLzegw_5zcND5i0Z2qP-6rjOpDd4IHmmZZ5k21DGfXuZx3uEqQyMvBN9b8
+Title307=Coldplay - For you
+Length307=344
+File308=https://psv4.vkuseraudio.net/c4265/u14824371/audios/abecf566b928.mp3?extra=11rPcqkvQ1-q3pAmeJ8iLg3zIMIMBXR9MpZ70I_QiWvO6W9ymuM0AzKdo7dosIUmlQ2-xIXhv_lsJ3yMt7KiYAZIUFskv_b-7tj6atrBte0zd50LRf-qdiXmEcmWzxghlonjBmViOP7Peu0
+Title308=Coldplay - Low
+Length308=332
+File309=https://psv4.vkuseraudio.net/c510/u12271391/audios/208ec0880fcc.mp3?extra=uNa9Zv9edNSCsYBXZxFh_2EltxejDQQBDqZUzTRTAl2IVg3CjXy2RzdSKOTw5PeLAdMzKsRMG02NkoAWanwIUzcBIB74s_pmRaSNLCdFqfSfrL5FyPf9qPCE16Koqq0JS-w4jrorTxYg2ig
+Title309=Coldplay - The Hardest Part
+Length309=267
+File310=https://cs9-13v4.vkuseraudio.net/p21/4cfd8acb9eff5b.mp3?extra=iez-Ye0zvZfZTPL3GaMrJJfXnLOD-cpvCAsg9OjW46maz7aKN3TWq-yOiq0f-cwB3iiz8t6YdR2KmKxyiVmQUIz7_aAfsteuNqLmhMunoohodONEiSWXLiO-diF1IJ_MV9lXwBmZpm59x4E
+Title310=Coldplay - Lost!
+Length310=235
+File311=https://cs9-1v4.vkuseraudio.net/p3/50279d74322fcb.mp3?extra=rmV8IFSRFouRfULML8a0-7w0fwGzXr9D1hb42eNgiyk0v8JyK4HQrQQufI9Q8qOFB6TbWuUJnJS_RcsA6sPOhPq7f7MEN4VsizlJKXw63Grlbf_Ze1tYX1gYhFXiig3uvJtdUgfjRgKDcNY
+Title311=Coldplay - Shiver
+Length311=298
+File312=https://cs9-4v4.vkuseraudio.net/p19/47fde6d4986bde.mp3?extra=pMHhiVS1jG1f3F7zhZsghQ6x6qX-SBH15PQtnK3Gaui0AAtjAH3RJsB9YOE0Xme4G-HktBHSp8D0IAc0WSdwzLrD4saPiMng7oEpLjgS-EGUceZn7U6LDfTF1XgXna6dw-6KrI7wNKy5hk0
+Title312=Coldplay - Trouble
+Length312=270
+File313=https://cs9-6v4.vkuseraudio.net/p17/e705dd6fc200a4.mp3?extra=VUkSAIds3WhKZXDR_xVxdWSjkGTCYCNH3SjwmhhGzteez52LD3ssu4tgBufyGISxKDraFLb5xbeu9uWQukFjmSc9_VvXo-J3M5NIoSYuxxGl0W-03MVyTT6euLUqL-zOG4YmPwP4fnN2qdw
+Title313=Coldplay - Till Kingdom Come
+Length313=250
+File314=https://cs9-6v4.vkuseraudio.net/p12/c9548785564c08.mp3?extra=2ozJWEZFJyeA93vjaKX-g5drwpVlB7PXHNjiILVMnHptnVvKzi3-oWNKzo6AU_Px63GJR0PeeUr0ajqGfSFHtxyz-0p0w6wlUARVk8_u1PjPnq1sS_ZIB_s_Xw9HIX7J8SLNw9cVVMFPfFY
+Title314=Coldplay - Politik
+Length314=318
+File315=https://cs9-8v4.vkuseraudio.net/p9/9e0bedae5d8614.mp3?extra=8Y8ucWJnF3LaVDIP5FEv8wtncVOGA99wSVYgKg8_Pv-AR1iQaXFv3DR39F_JHyCOMWq2XbvEs-lCewh1OVV0tLMTPtVzsJMguQD5IZdgjMDG_y2uteeg37kJQG-bJyAWDLYY7xeMZEJmQSk
+Title315=Coldplay - Parachutes
+Length315=46
+File316=https://psv4.vkuseraudio.net/c1111/u7056483/audios/6a420ac9eda0.mp3?extra=5RL6XQd53rWMfDztoVRjHbjUYY-om3xLwwjylbxqxWBbRSMmeeZ74ZCn4WppUxO4-fOj1OYCe5WDqM7BhVIEYvwRnT3l6uYhJvYLaG7z8cZBD8IG46QaFG-fHfKn8ISR9nTgZbbKk5sljNQ
+Title316=Coldplay - The World Turned Upside Down
+Length316=269
+File317=https://cs9-2v4.vkuseraudio.net/p24/daa80148b8f9e4.mp3?extra=TXt5djxeW63N0b3XntP8NbPYfbIrFRv_EeHv-BIp6peTg5MaVlP0XhT3RgUWTwCtMcd1JFOG-z1d0-kERvRsXYwyf6331g8UXyKzMtUBdQK51BzbaKFqBZejyI69btlWfAjWIdEh43TfnQg
+Title317=Coldplay - Major Minus
+Length317=208
+File318=https://cs9-6v4.vkuseraudio.net/p6/c8721e5279f60f.mp3?extra=T5tHFyjPPurRL93I7lr8QPj1-AVocQ6n1rHd_ujEKxN_-ubUcWW3d4xPGo9bDuHPtzBx1B3zK5iflkNPWEO8JqG4x2w1gaN82nWYfj5KO6Y_ThUg5vDrQCGCTwB-n3MA4JGd2KmZC1MaFvk
+Title318=Korn - Liar
+Length318=254
+File319=https://cs9-6v4.vkuseraudio.net/p7/3304e01ede2d25.mp3?extra=zPe-e5zkojY-m3kwgk1RBaW5zWmjXayJCoEv7bPKPr5MEamdDHid9kvFx7Erwy1Nn3JYBMLonFvIu0yJX2AZofM7R2WbWsJiz1p8Bs4dV4VkvipMdf0XWy3NqRz7scK6vm2TI0zWLySYzlA
+Title319=Kasabian - Fire
+Length319=253
+File320=https://cs9-6v4.vkuseraudio.net/p9/94ac5140578f20.mp3?extra=uxA0U0yZhT6zoqJwpwLKKJUBkOdldqJ8LcPh3K64R5DJ4j53HOj7TJlJPa9FCorqBbVuuXO6wE0Zqg60Wme_gGvnjf4qakSUR1ih6LKHv2wSZFGc_gF0Il-xMhLPAQCOsFF87WZHKLejklQ
+Title320=К3▲HŦ&Oslash;3Ы&Sigma;  П&Sigma;&dagger;LN - словно ветер в степи (&Oslash;ST&Lambda;И&Sigma;ТSЯ &Theta;ĐIИ)
+Length320=213
+File321=https://cs9-18v4.vkuseraudio.net/p11/b80ec07c16030a.mp3?extra=8welt-U10cjsOZOv6D_ZQ5NKAml_LgJl3vMCjITUbMOvRACp6eaq3XvjtX8vM62OCcODwZ3hwnIlX9Mz-Bg9fHX1Ww9Pb9hW_r7NuQv6FNIuS1S_i8kWn4ItSW8chazqHvgds12pPy_ohWo
+Title321=Imagine Dragons - Battle Cry
+Length321=273
+File322=https://cs9-12v4.vkuseraudio.net/p11/b15fcc236fcf1d.mp3?extra=NwjpEs4Se5qjhM2g7iNLKZzzUEP1Mqss1o5NrHdedVX_fROvbVesdE6TJerc52kpysV5ULSlxuwPEEVUjIU6dfhb1H5j_ptnryv310jCC-BfOdooi2dZS8H0lIeIDogCTqo8D3w2OAqrCqA
+Title322=Shawn Mendes - Say something
+Length322=244
+File323=https://psv4.vkuseraudio.net/c536512/u27195257/audios/5f78ad654465.mp3?extra=DwRmt6TDWsLzcsJD-cub1n0kEBQJeUsEmd_fVdPSYjn1luraYI_vrqffJl4kGB_Ypj3gVdHyk7QcZ8OW7gE88wPxB9v2ixgk7P3ekB2VQuUfuqcAQneCheY5JVBd-E9uK4jwasCWhfkOSQE
+Title323=Until the Ribbon Breaks - Addicted to Love
+Length323=218
+File324=
+Title324=Stream of Passion - Passion
+Length324=320
+File325=https://cs9-19v4.vkuseraudio.net/p6/289c8777a85c1e.mp3?extra=LJHCZQDL9dgPy3Fvl43xBt5GLTgpU85T4wlmkTEqwXPpHy07ZpC6_7Kz3f5qBpxyFaRqmxzPLi1W8CscRE-6wpy5cm0PJp-VwjL1TiR3kJDX305o8ESyi62q87-CEw8pViWCKGmx8qDBKcs
+Title325=Daft Punk - Digital Love
+Length325=261
+File326=https://psv4.vkuseraudio.net/c536108/u167876158/audios/88443e83c948.mp3?extra=LMguZOtncENRNk2bOQT5hu-mww_LIBqJ1GpEcf0fyBp07aMCzm1pf3He6bJXl-RwSxtJc7CybCbfNC-ixiIoEjk33--kzqP1Fc3Tq6SIHUwM2jWZPbvhPLCk6iiep03pUOOhCheMocyYHeA
+Title326=Shawn Mendes - Hallelujah
+Length326=257
+File327=
+Title327=Disturbed - I&#039;m Alive
+Length327=282
+File328=https://psv4.vkuseraudio.net/c536619/u25807667/audios/333a01bf9011.mp3?extra=uKYn2KT6vkZ0y0Q6fHRkLmsO359TfzYJdq_C2kaFeEUAU3YCu8uzq5fckslAuCZ4SNnbVPBvAg-ZzcrLGnAROMa6PgVVJUuAYHtYlTeNpZUNf3whfO4-KYmsQRyAOw8WA7G2vD3w82uvXAY
+Title328=Troye Sivan - Heartbreak Girl
+Length328=134
+File329=https://cs9-5v4.vkuseraudio.net/p11/2fc331dc97a36c.mp3?extra=hlVDDsTMNC_uN7QfwKgOYlP62bx00YQqLaSpOUyH0Y7i7FNVT6WNTskjxpD0fqYgaRS4HtSDs2UTHVtcWmKYw9wIR5bn6XmMq-x1Mm2FJYqyyZgOW0G3tzmEwIr-SE9kxDOOO2Ul04XEYiU
+Title329=The Bee Gees - Stayin&#039; Alive
+Length329=287
+File330=https://cs9-2v4.vkuseraudio.net/p20/64940372536802.mp3?extra=ldocx26xhmpk4BnxBW3qogORf1fqRJoiCd_VCV2WHsMYG-zbLsFYm1zGOfH2938Ypelcn_GYwmf_Rp8HIsVllm9wnUQS-25O1VPPNjCqFeerxT2ADbsjVnBqBS1MvWJpdnLSd_lhes_Ar_c
+Title330=Disturbed - Inside The Fire
+Length330=231
+File331=https://cs9-12v4.vkuseraudio.net/p4/716c1896821419.mp3?extra=IDanj6FkqdWky0bJWbDxjloN4kq35dJ65ONm4SsyM3e4854Ld8bEZHlbsAFERAvplQBJ_9JgsEpHhLpr2kCW_QtNBVcO16KHIFWq27C_OnOg4iTfCXu3Y6v8T7x-UlRZeOhYR1oJGu6R3KE
+Title331=Korn - Kiss
+Length331=249
+File332=https://cs9-14v4.vkuseraudio.net/p24/6d3cf42006ac12.mp3?extra=rxutFXkDZ3__r1oSHqKlScIdrTAhTGujiWCRZ3qfENYYROjyEPNJ5uovqzIlS4qNynAqcBlJFId6G72761u_TtjrwH4p3y29pA354Od0UEQPIFHjKIVDXDl53di_5Aa_Vd4zwRtPpbY5bZo
+Title332=AFI - The Sinking Night
+Length332=138
+File333=https://cs9-8v4.vkuseraudio.net/p20/efe99755776e1a.mp3?extra=c8a9ZOzg_gMja-TcKXt-mNC83k5Y0ujOnKBJO1FcwDpMDiwlGqq4g6Lf3-slS-JLXnXO3Tg2F2az9ZFznPLE5maAilVUXJSsti_CUZBsIp_OJo515KadGnHSpne7gJCbVU9FBnB2Lmd03-w
+Title333=Pegboard Nerds - Hero ft. Elizaveta
+Length333=278
+File334=https://psv4.vkuseraudio.net/c1324/u1721365/audios/2b2f55e2aa16.mp3?extra=tat4b50V-79z-lsZ1oKTGZcDo5Go3SNBcbxfBod_JOz0-P37RBLv4tQVDi4xJR7zy3QB44kMN3lrKr7eb1DYLLtu0U3XOQgM40Y-E0Z_6mioEiI8y6zSSJ5mxOn2wTlUp0Zaow5Uw5dJGpU
+Title334=AFI - Summer Shudder
+Length334=187
+File335=https://psv4.vkuseraudio.net/c1754/u25592910/audios/1c9f6eef64ce.mp3?extra=G3PDR8snAbeauWI8dUqaE8rpaGHNiziOwUxO4j2__M8MLG1wSYq_yoG4zZTvCIfUWi_9sA558uO5oTHYpN_X5VvgrG2ghvKLnZA30Rk3YI6xRLC9lkCbDYf0rSDOl7KLfi5yaDrdHHzu59k
+Title335=Daft Punk - Around the world
+Length335=1859
+File336=https://cs9-11v4.vkuseraudio.net/p15/e459eca288b2e5.mp3?extra=IaBA5S6ref98NY7nTjOHstweqPpi-l9cNwxRBih35KlmWjg5odl8MXd9kBFnwiA_BJEVnsJMqQcDY8TYh4IiakOINpSv3j6tle50AUzyog0e7-tdg3swEDustjMtgZKHQ7yxlLzaTEaRe1c
+Title336=Daft Punk - Robot rock
+Length336=288
+File337=https://cs9-12v4.vkuseraudio.net/p19/f4c373f0e7d809.mp3?extra=W0n-Dpe_O8nJe_j5Sd4CBBePlh75Bx_kKOOrurCuxd63ammjica87erchGCvfNpuULjkKygpbWvLRfNI4rxbfSthnOozNvcOEJh0xs0cL8JDEWM-SFJsvig5UPXNiM4GftVsO1ipHYGaKwg
+Title337=Daft Punk - One more time
+Length337=320
+File338=https://psv4.vkuseraudio.net/c1043/u01376/audios/2c3210b631cd.mp3?extra=E3TUr-u7nADkeKe1Rse8S1nVEXMeivTNFHnVd62kMlbGVf-7_zBgAJglGu3sPv7lFz0sIwlUHuoBjI2kNW5qVRDRIgXkokLnbbWd2Do33g3wZ7fwAuwHg--RkCxoTWQHtBDvHR-TC-9Cx9I
+Title338=The White Stripes - I Just Don&#039;t Know What To Do With Myself
+Length338=166
+File339=https://psv4.vkuseraudio.net/c4645/u27718965/audios/81e1a5ab3280.mp3?extra=fLyZnpTSfsCZ2k09kwBVbX6qTrpnRTXh4YtOhZoXqGw180AqXHc_sQSVnu31BUshKRGVjSGSDWvfgXUBYx65unuckLmtTV4ePDMtruSu9AGRwIZDBnnvjHlE57CftP-kLAfwg_D86CBMaNs
+Title339=Kasabian - L.S.F. (Lost Soul Forever)
+Length339=197
+File340=https://psv4.vkuseraudio.net/c536505/u65631177/audios/620e0242b742.mp3?extra=BFLLaSQuxnstxyYJPa_CWjwGw7yLOcTE_wgw5dZ7lt0ytONmeGusqJ2OmumF8hRZnXdHJ88UD0BVrPjjcxx2ZXadMYmwGJFgb8xJVokpDWpMgiflPtFJ92R7OP8ACsl85TkgQcc5IX0BS1g
+Title340=Low - Last Night I Dreamt That Somebody Loved Me
+Length340=232
+File341=https://cs9-6v4.vkuseraudio.net/p15/01be45cc22ead1.mp3?extra=nLvdyvkCniwJ1Wdols_6HzLiys8wFnIrWzk8zwo3Jxpt-o341JsWbjeDSvjPslM6RGTYaXzA20escTJssgXOyP2oP2f4IXUcbRA2TarDJC7fmIsaRmckajmdl_Ddh__Cl1jqJxTjOs3SXsQ
+Title341=AFI - Too Shy To Scream
+Length341=175
+File342=https://psv4.vkuseraudio.net/c536422/u65631177/audios/1130a2e9ffdb.mp3?extra=frSLsxl3_DzI6UfM_lY2sA7Sra6NMWGJW1QPw1vTx4ENRON1CQJEZnjgVMQwsalqtCUPp06vxBCyf8ooRd85NsNXJQPz_VHlW7A0tEuHbWSSEFky5QK2ocuvtFsjtCa49LD9YAPIEoSThhA
+Title342=Linkin Park - Guilty All The Same (Acoustic Remix)
+Length342=222
+File343=
+Title343=The Beatles - Good Night
+Length343=191
+File344=https://cs9-5v4.vkuseraudio.net/p17/f175bffa5855f6.mp3?extra=wHYEwC2d88mXKA-UmynFP7eaHFl_ATy5LLTdzqejFRUvMeKuis2eKAUdJprwnVZEPnp_2r7E0SRdOYvNzJ9VH3yCIBH8ZVjVX8myRSzvF5Bq-q5hf1Ajjxbs5J_283gaRknjUmvrjTPthz4
+Title344=Linkin Park - Wastelands
+Length344=196
+File345=https://cs9-3v4.vkuseraudio.net/p12/ab9e48f48b0ca2.mp3?extra=Ju9hrYJTwiCBqxTPPOtWEVD8PTQ9f1Qk2z6-TcejCxt6caKEYIQQCB3m2rBsmZzCyzNOirGh4PrbuckIe0S8JKNfbwu-vTMSHHBcN7rxa3x2MZp033TKiNO5-dGn4OxCPcDvD7skHllM86Q
+Title345=Eels - I Need Some Sleep
+Length345=149
+File346=https://cs9-8v4.vkuseraudio.net/p9/d53e04e8ef3c70.mp3?extra=kS_-yBhYMqQK5Gbvv_L3FvgXh5DweyJoOr75hPGJEy3vbe1pDZ3cNYgdMHM1Pr1e5COdR6MJB1Wf28a4QcFt2I3LVjMkep4O0J5q2eD4RpRdLsJY5tR1M-MB7qSrFWOod3J4_giCwjgY60w
+Title346=AFI - Kiss and control
+Length346=258
+File347=https://psv4.vkuseraudio.net/c4242/u3396150/audios/c42dcb959a19.mp3?extra=Q60lALDkdR1_QymAnfQ6zz4c-xm_S2W1a6pe4Mmx64hDCWtP_PKVO77_z2_IXi2amRgPtWCGRIddIULB59l4qW6U6qtgVdpizSjb1zQWYw7vQhk5CQiJwtuu2hmkG-0bcLhjC7YIG6DcttQ
+Title347=Eels - I like birds
+Length347=155
+File348=https://cs9-11v4.vkuseraudio.net/p13/51c4aa76ab6a40.mp3?extra=8GjmNKdt1upG4IPqhjJEG3YN2jq-h-Wn8tEdt4u_l-O52zqr9BccVyaU2WgZYMEkglng74I9jP5Js7NsrBaNHCrG7s7vnJ9ADitONpeAwYGwYuwNiPF6dDQVLykeCaFPKTNiSFKVyl9FfuM
+Title348=AFI - The Conductor
+Length348=221
+File349=https://psv4.vkuseraudio.net/c1545/u13156247/audios/bb41a6221fab.mp3?extra=wCqCqKd7V5k-kgc3KI-_wsljP7YgSqpnwFiVZdsX9zifbkdkVRsDxER-3YB1Iwg02hYu6_u-d_nW3Gf5qXUk3_e5X76XphmJbhdpmHnYqO-cbgblUXP2UMNE2fSABsBqNK8L9ZRjpSqcwAY
+Title349=AFI - Silver And Cold
+Length349=251
+File350=https://psv4.vkuseraudio.net/c4269/u37535540/audios/89c00c461833.mp3?extra=kJ41Ui86jJhQ9xjTGi8tvYNXhBFuMc6Hh7aPYJL9dUONSIiDCJk6EMg4F9dVjFkc_NAxm-y7w5IC7GA1thbyrNY-X7dG45baH4vgpGeaFWgc_plwQ2MzQFesFyRcSJcwJ3yra4fIxogYzbg
+Title350=Eels - Fresh Blood
+Length350=264
+File351=https://psv4.vkuseraudio.net/c4238/u17695686/audios/8397535423f6.mp3?extra=srsUzOGDw3O4aYpZZcp7X5VDRL6wmdX1KoIPp3QeYQZZ8CqKGnT0uMaxKowlJ3KT2Gbj_bqLw_P1eZNKFpZdA8g68Gv1qJnWxj9x4f_TqrQ_9R406-er4SaRxnpBSLBMSTCQ_bjAbj-Fwh4
+Title351=AFI - Miss Murder
+Length351=200
+File352=https://psv4.vkuseraudio.net/c536213/u2082681/audios/98dc1a0876f8.mp3?extra=Niuw_y2r_wYTVL8Hv9xKaF_njJU39xYNmA12kPgkcc7GTSe9yiwZVWs6yaxB6w30ZM8AFNYlAaLF8Y-vzGLwuE5A6qZ8PEdFnTXGoRL0xxX97YwEPIi0jZX33-YWiBu-L8oJtOPIC8bvTYE
+Title352=AFI - I Hope You Suffer
+Length352=278
+File353=https://cs9-14v4.vkuseraudio.net/p18/16d6efec93823e.mp3?extra=bWxsOyJ03nT4wktHqA20C6GoIXPNSU1m_2nU4w9BLrGDa6lPMNYgp_UM8u4fc391FBa-mL1smRoJrpJvOc4n0-wi9tPKcgbyT6Ygr_vY49OuKrsa6UPQFRHbD6b0Sk4scBwXTVnq-NdDnf4
+Title353=Combichrist - Red
+Length353=258
+File354=https://cs9-3v4.vkuseraudio.net/p18/c03831c0af290d.mp3?extra=LbH4vGHrs1Smy3d8y_LTAdEWSHifS8-GrCNnxNAYadKAz6cLzPCIC8xyEVNmi0l1ZOMC92QufVkExPO9Rb8g1ZS89mBrYk9iR00iBuH0cHrbVdDT2b3LeWf42q3IMxI-dExPflja-bEadlc
+Title354=AFI - Okay, I Feel Better Now
+Length354=271
+File355=https://cs9-11v4.vkuseraudio.net/p9/c19dbb7491e3b1.mp3?extra=fMJQjikLEjpiUD380OWXdhomrWZ55Z-LsXEEDqWW7dqvwsrHjUvb6IcbanUfixK5da6WOkSn2b1untjaBZImiC6m1pG-HRh35DNRiOFW3UmsEQZVLIJJINvsUsLkvZdGfCCYNZAH4RJlh-g
+Title355=Combichrist - Never Surrender
+Length355=290
+File356=https://psv4.vkuseraudio.net/c5035/u18358205/audios/9dc975107378.mp3?extra=99RdNvPiKaEwWxFfXODr9YKCY5-7x5CCbNhWSFcTabTZsiMWRwUR_M6g7Jn4vOeRrQnhU8roCWWU8ffdD_PfsqL3lPHW2oNzq3lQfK5EiKYb-7uBU6Jo0ogpvvd8KWiw-vaxA6m6_sVzqBY
+Title356=Combichrist - This Is Gonna Hurt
+Length356=236
+File357=https://cs9-1v4.vkuseraudio.net/p21/bbea5dd893974a.mp3?extra=j5XvcvG397IIzqdjHyZIwQC1ie4VlvCww-NGNEQIVoJFKR6k90k_TTDa24Um7U10CftExB4vy2OfTIjcZqCiZi0Uk70DPbhF-Yl09spqOsJ5hOrKu0dnyGal3d0Fag2hFdFFc6RuN2BU2vc
+Title357=Combichrist - Throat Full Of Glass
+Length357=287
+File358=https://cs9-11v4.vkuseraudio.net/p17/128928a4f7f66e.mp3?extra=XYwlFN-MdlaOPd-h5RFwravvgjDX-_MWFIHblSuD1nrt-N0hdR5juW7rFtByDlK8RwEJFB-zLPjLZbzJW7e65O9F69o5kHCgrwvPgiVPCCuHaHtznZQktJHmUGxgV3jf4qmyuIYnceSuSO4
+Title358=Suffergram - Suffer Bitch
+Length358=269
+File359=https://cs9-8v4.vkuseraudio.net/p11/370447f5ebeb89.mp3?extra=fFPnd4-4s3MObNzKRjr_fMdhIL5yPFqqZNVSe8X3w5PU20pKiZmj-wEj_dR71v_-ARk6IS_91y4zmCy-RrNc4PyePgca9EGvp_eRlDoSvBwLwlb5HfIoOi27W-stxJxSuwNCQtrcvns8070
+Title359=Eels - Flyswatter
+Length359=200
+File360=https://psv4.vkuseraudio.net/c4593/u44072017/audios/92ad79f24ac6.mp3?extra=JdBDK9trbIBXFoKpcv8UHVSRM18hyzYt-mm_GYfaYM18qbw2NzFrcbkbx9WBLv-sC-Fqrb1GGw7KhW6IErxMzeQm-SpVtpYa_CF6SN5BJwU3Z7hojD_ickfLG97iia4ZdEf-JA6WQMlfe3I
+Title360=Eels - Lone Wolf
+Length360=167
+File361=https://cs9-12v4.vkuseraudio.net/p7/d204bd8ecd0eac.mp3?extra=vzMru_HgJEqXZersokvmPia63Ga2JH7qmJ1JCJJlVWLCIg-nyALMEx_4NWS6PXQwfwDYyVsHWVHSNSHNRszd5Pjll5-YTBvAwmyF4PsbKqUETTtDKOqwUqkifTKnbiEbdkrF0CyBNsD7qY4
+Title361=Archive - Fuck U
+Length361=311
+File362=https://cs9-14v4.vkuseraudio.net/p14/fe525a6b41b994.mp3?extra=lmw3ckovy_41B1VoMPLBStTFq5y-IdBZ0EAqN1ly1R-CbIdT391PTRCqTd8OSgtygpDDAkLhLBPHL3K0DwzORhkJeEw07Y2E-N8LHoDP0jYWZFpMA1pMjZYRaP18yqESzOWaj_4r-Rjh1mY
+Title362=System Of A Down - Question!
+Length362=200
+File363=https://cs9-2v4.vkuseraudio.net/p23/f347239832357b.mp3?extra=O5sN7jnQfSkkgbpsa1eqXUOG6OxIP8ppx7ROdjJfg__D9q3wJjwCR1YGDK-sASvTNmAp63EQqLAaQnbk873zBUHphbnH5STS1r-oCxC1uJkcZy_SVz6wq98SltIbdBT0OVVbxhL_vhDNUjo
+Title363=Serj Tankian - Saving Us
+Length363=281
+File364=https://cs9-2v4.vkuseraudio.net/p19/5c59306d16f09c.mp3?extra=7S2Y8yIVqFC0SLIJrnk2dCeziV75Is5GEmOXLV7AhAI4yZygD56yRPlBAhC2IeAXoVHdtUgm9VK9lMFVpWkVNy7CIDX08Rofa9Wc9Iv6K48IXlcXtJPmaUn6lcrN7a4Dj71TVuN034Z_m2E
+Title364=Nirvana - Territorial pissing
+Length364=146
+File365=
+Title365=Aloe Blacc - Wake Me Up
+Length365=225
+File366=https://cs9-1v4.vkuseraudio.net/p22/eb732878cc1953.mp3?extra=uSZaEqHWZkO33BjNdZ0hUnqg8CSqe9CsHjrljbaeJ9Eu41tnTApNk6dB4FvaqnK8WANFLwQOkd8gCxKc6VU9860sRVn00Ef0xbZZAgQkDBBIVUiLCirwLJv3xF-zKa75qmYWFPM52mE5AqA
+Title366=The Subways - She Sun
+Length366=200
+File367=https://cs9-13v4.vkuseraudio.net/p15/d78602d66bb2f0.mp3?extra=hjQV9RyPxdHtJY3gj6dmM__U0T8Dg_hPHQ3Ff4kSf8sCrdAOZtlgMhWHskFB1RUZ8kbAAgKRHMfAeOPb0ggCleLNHFCYT4Oo8DSxKK7BbOYJEYPAsBgo23n7bwEv2_oNgZ2JNxh2Xq65zZQ
+Title367=Nirvana - Breed
+Length367=183
+File368=https://cs9-12v4.vkuseraudio.net/p12/5795fff19fd488.mp3?extra=BXJRNqTVs9beFMYAjLCws--WA6dIMpeuaXf5ZY4UNWlTNF2rWEZMgeed7kZFAETZuBMwamc2gPb9ZHLGxJ1drW5BQhL8z02oYQa4VQkMH9z4RE4C_ceEPGC1YYLcPTKQGNybk3tv-Rg0W6E
+Title368=Nirvana - Milk It
+Length368=234
+File369=https://psv4.vkuseraudio.net/c5063/u4932634/audios/f691972edfb8.mp3?extra=BgrFk-8S2AJwE44otm5b7vn19LdUCzbk5-OQiuJSOujcJsGpaEyYkEY2n3EkxGyPNYJrFf1K8jN2MYXkCR9r2Q7yJRquZb620cw9YXsprA1Dv9gSbfPjfaugxJz0Nr0tOKQuyQstVWjb4KQ
+Title369=Nirvana - Molly&#039;s Lips
+Length369=110
+File370=https://cs9-4v4.vkuseraudio.net/p14/9219f1b592dc92.mp3?extra=UdJJN-VLEiusG3cc8eDN0jsR9THx9XLULTchFRrkoq0MLfGTGwGj-pIjjbL0-v23agy11mvbPqTdqMhstk5GnhagoC5qKQoibaMz_p-m8Yqt3zsSMLYYIbEHShEnWh22uo2QVwqf1aDNeMo
+Title370=Nirvana - Polly
+Length370=176
+File371=https://cs9-6v4.vkuseraudio.net/p13/d51fb26aa89ac4.mp3?extra=xLy1WzXFbzsD5v3bP_EZsoVlYNfXgDa_DxY_H2Ef7GDGS1ZDgmrCDM1uZ67RD3Oj8RuszOZeFO4RYQYSwDY-26H3Z2NY6vqzM9IqHEfUhaK8Pqi6LZKKXcolBiV14ZjjcsOZzK9vBb2HRvQ
+Title371=Nirvana - Aneurysm
+Length371=274
+File372=https://cs9-5v4.vkuseraudio.net/p20/2eb15f39249ba1.mp3?extra=jRHDElEXN9G7npuVRj_InRw90XynN65jn9HjQhmR0tWpRNMMeje11kIn3knbF6Vj8Qz-OFE1Z3XgzuAr0RadSFSIB4ikz9rEqCu8Zqnn_Z7pmoHMY71xOeiMBVKxSkkfcoY598arkhuIJLU
+Title372=My Chemical Romance - Demolition Lovers
+Length372=366
+File373=https://psv4.vkuseraudio.net/c4902/u77881667/audios/4e9c3d4fa845.mp3?extra=eCOjqKUPUdIKYZYEZspdQ1u0YjgkiBHOaADhyVGJ-kK0koKNlqtn9O0Kpc-zlz0A9WQP2z0aZMMK5hyKlRDVsXlnQ4m8CJAXnfaSzRk-ecNzFTLpT40LIj_zauE4DsTOzmHt6YMWzP4CfhY
+Title373=Linkin Park - Leve of the rest
+Length373=198
+File374=https://cs9-12v4.vkuseraudio.net/p24/74f64ea0b8fa97.mp3?extra=I0NlqWFTAKT0Ptnpbqfj9G8MwU7snTFRAopBgGOvxRZdliPcbWxvqO8q4IfrKtIJhq8S-r6qWqHb32Vv3gaukZP_e0T5OqtOK9peSE2z_YgLSiWb1ttcBkluQxks18JPno0ToPrHU1nMOX4
+Title374=Red Hot Chili Peppers - Look Around
+Length374=208
+File375=https://cs9-2v4.vkuseraudio.net/p9/1c39ecd55ac04a.mp3?extra=3LS3OGiCiJ0oluRrQGRk6WYqZJ6xy9m4WEtKcFKgsbwtKcZ_em4OFFwfOwZcnUQ1jpBhcoybQ2pC-Y6o16z6Yoz5KgwQ-h-vr6j4UGSriBD5DOa2ERJKJCd7PiiCbJJZ4CoeoHbc3zHhiwg
+Title375=Low - Words
+Length375=350
+File376=https://cs9-6v4.vkuseraudio.net/p11/b48c286c431846.mp3?extra=IK96tQOl9fTykb63WIwqOIy7hPKdrVQih64oIw02VwmCiNGqqVi3c5G3YX3nnYp2gVpv1tGVfRGPDbSSkw2SRsK5D_hq8hb7l1aipgWM2oF-hW1WJknCwJAEy-dOaQCyyX8E_XY1df5vGHI
+Title376=Of Monsters and Men - Little Talks
+Length376=245
+File377=https://cs9-1v4.vkuseraudio.net/p21/6f5f332a35e6ad.mp3?extra=T7HReByi37U5Svf4K1kPlMWZWz3yiYpodz26oxyMNt1A5A8dR8EjM95Aw9t16a7jYXf29_V6niAQpIV9XLUkus-EeHmZNO2DUrzBKdkYG-LYYNNpTDyeGUEJBjCO47w8tkyghI2bs7pNMKc
+Title377=Nirvana - Where Did You Sleep Last Night
+Length377=302
+File378=https://cs9-1v4.vkuseraudio.net/p6/1b415475009adc.mp3?extra=6xW3gSmgU346J1jmSXuJkMRnxPB-3Du1kq74bOyKGd_EPIpIt9fcktU7gsAawWhfSXuD20rBiIMUVsbySdB7JKGLs4EljkzKOe2_AOQIA8cnX0cQj3W6vmWhQooOH1smkiYMyeQEOHclEBY
+Title378=Epic Score - I Still Have a Soul
+Length378=128
+File379=https://cs9-4v4.vkuseraudio.net/p15/73e5bd9792ef04.mp3?extra=XoXjpzwUMEaCuSJj8m2s7RMA-7NK1XJLOEgZbvM554j4cz0UP_bseWibw75FkvP_1hmnXVDbE2dZo0NmKwUsxnGT1wq4fDpkUuw8malEACQA1UcY07OaMyE8edJ9obFOstwvGso8NQaw4j4
+Title379=sorrow - my love
+Length379=245
+File380=https://psv4.vkuseraudio.net/c536304/u65631177/audios/daac78269d21.mp3?extra=d62IEcG3J6U8kb0fyvGTYlvC9WZgtKqqmjNGZoak7Rw6HwTHHD-MJ5gc08JQmzskz63hmxf5OXhIeAChtQuppVyPoTivbZqUlTQ6KLdzMv-wkGspFxB0rw095iV9nsXwUiGiYraoK0zMGTk
+Title380=Low - Time is the Diamond
+Length380=330
+File381=https://psv4.vkuseraudio.net/c4821/u1962941/audios/99e2926c9ee2.mp3?extra=eSbehKfNxOVyouq22HImC0vwzZ7QlkrDUDkzyb8Nq_lUse4rAWughAmqr-uRCLW8EArJdHEnt2jqi_gilRd8e9mva6vlznojXdaMRTjgWsoT1opV-a3Aev1Iu802t38Y9Z61B8ibnszdHCQ
+Title381=Low - Whore
+Length381=263
+File382=https://psv4.vkuseraudio.net/c5031/u4501671/audios/ef712145ab94.mp3?extra=UDEnIEuV4Ci8UfsIDJQPCetFs73RPJGj3pvzCAfw8lpeOetRmvxUIUevPsjGS0g2XlaAeon45C1QAfq7KvAZGsz2cl8ThfrO7xz-mUYF2loVt832PJCAv1bWTuCwLPTCzyLf6Wk8TT3aa-A
+Title382=The Killers - For Reasons Unknown
+Length382=212
+File383=https://cs9-12v4.vkuseraudio.net/p3/c65585aaeddd0a.mp3?extra=ZGHs-kM5dSm-WmKh2mX_X3VnYMczY67YonImmpTb5kiN3Go7PVnJ0Vx4SJhoUEndzS0bynJeRAx9TVfjA7ZUFi6ubW-Z5kdqEbS_RKkn0ujMkE2LbHoTBund47eQ7Rsh-zSS-o52xWhjTew
+Title383=The Killers - My List
+Length383=248
+File384=https://psv4.vkuseraudio.net/c5079/u26559903/audios/854c6028cfeb.mp3?extra=8HqGUPx2UyGUOdpreoZSIOJG_FYZ6MbEMypSZd06cWmHXY9vlZXXS5BqHrkDjijpdk3CtXdrzKIFl4BuhkqxT2vGOvkIUYi_nVcFzLkO2XFCAtAE8_pDKD9FxhVfHVSRJGzOmkejTe9elJ8
+Title384=Arctic Monkeys - Cornerstone
+Length384=197
+File385=https://cs9-2v4.vkuseraudio.net/p11/588640fda87c74.mp3?extra=pYcPhXe2Q_ZImTHGr7DYHALMeZNlm3o7aJxSqlDktD-7KkpQiIwS2eKc4ImUfuxXL0zu5UpnqztRmXRjfO4XxaGFC0kbOHxhlvS1IOWiIF6ES-mDmoWvPZdBs21vP21wyf7k1bpqswiPcsI
+Title385=Nirvana - Sappy
+Length385=206
+File386=
+Title386=The Beatles - Eleanor Rigby
+Length386=124
+File387=https://cs9-2v4.vkuseraudio.net/p17/5ca7032c6e9099.mp3?extra=btAAsi6ZghU3RDXATRRhoRR_mxzlAfPKtNHZLj4XkoaLkVu1Zz9v7NNOlYQhQ1KGzQSIqkP_7iVfnOG8zrK7KQp8Czgj9DkI1Bg3Kfaa79x7EcVzkvEiV4hgV0jDe1ssnwkkEWiqqxOWnPg
+Title387=The Beatles - Blackbird
+Length387=138
+File388=https://cs9-2v4.vkuseraudio.net/p9/6045d24f6346b9.mp3?extra=D0O1utRyCqf7ELsKZFXHi92SmgCPnEiS5A7axXn6dSFyaoVsnm68stoMLvLddB5pdjt_73bKomVwjbTQw9zV3Xokiqy0gVge5z1ecI-FFSHx03ita36qtJbBrqylIXhUv2IuGrT_SNjBtpI
+Title388=The Beatles - I Want To Hold Your Hand
+Length388=145
+File389=https://cs9-8v4.vkuseraudio.net/p5/9838551ce331be.mp3?extra=4uYsve0EZHU-WypCOwt9drgPMLO7ARVrSeItpoiBpLNdpD9yLagUOl8UV4DJnIGBHkYenWqHw4uiXUOYhqubT4qpyw7mvtaqx_Lp-dBIjnkUPxUupekGz2_gwQTLBrjHiGz1v0_SsU1uZmM
+Title389=Mushmellow - Falling
+Length389=206
+File390=https://cs9-3v4.vkuseraudio.net/p19/4363e00edb3594.mp3?extra=agQNdBJBl3NO8JJ-IKmWgYqvV6ueyMJY8ykn4mg42CA7gD10GcJyWbGuXtfhvGl7dzoz347LTH0vEFVR2wMkq59ZAtWQQAXYzukDqln3Lpdx7xmELR19t4gKxQm1E0fvQIOJBwFMpzBfq9U
+Title390=Infected Mushroom - Breaking the Habit (Linkin Park cover)
+Length390=199
+File391=https://cs9-4v4.vkuseraudio.net/p9/bf2fdcac76ed0c.mp3?extra=UuYVQL0KBE71ZOYkf6Jp0lAaSVq-EDdQ4ziQNV_pj8kYNDWagoo0EprbsUP2YEgD1AN5DUddVoeoYjOTurppKvCWKuVZzM5a9tmS-QhHKBGb4qvaXub73yC8kJWUBujTTqop4vJo0nB1zUA
+Title391=Metallica - Nothing else matter
+Length391=390
+File392=https://cs9-3v4.vkuseraudio.net/p9/0132319d784c69.mp3?extra=KK6UyHJPYSzoPqWbqJPixle3g2ycfhV8COvgmZZyCeTAKBE3YVM0aEQlccLKYDawFGXUtPyNpHYb3S82yTyPcmTfN1IKDmdiDxqOCHeuq6sjCUMc9T7bFq4IphGXKwoy5E5hd55q8jTa_0E
+Title392=Arctic Monkeys - 505
+Length392=253
+File393=https://cs9-5v4.vkuseraudio.net/p19/35f0e5099994d1.mp3?extra=fFfLPEJYBS7kidQMWunJS5ejx6UNjp7NIwgJ4xldtTGqfQ2lteS89G4nb5nUSdccU2BHBZxwBAJdmyfQe--M6o2eIa-Mb2if1nITyqANCwKr1sdtohMy-Ucy7LTwv4crlJuqPFAqzFqrXfQ
+Title393=Сплин - Пой мне еще
+Length393=237
+File394=https://cs9-17v4.vkuseraudio.net/p3/9b650efdc91bee.mp3?extra=Crx5PcU2NNjARIzk74Dw2qRtBFwy1l9enAs4XEjR8nTzU9yP5l4qqUj-LZCAHVxbAEtcSb5AgEuqvn5tYcvzTvQkEajbb04V4iYzL1smljB2RfpQ8NFlW_dLbSvrTIyiOS0FlW60-TvmszM
+Title394=Сплин - Письмо (И. Бродский)
+Length394=149
+File395=https://cs9-3v4.vkuseraudio.net/p18/7d1d3de7dcd764.mp3?extra=MdAFCZFkgl93ZGwpNaqAQSL7bDrpWUZVDxAaEKQNY3U0B21PQ3gmHwfv5W5OGGezqVEQehnktHp97nBWAgViThJ3bmucuN1vpd2Xi-C4uJIIJaoL9z1hN7VLWYVYWRkiAgEERHI2e15yDnw
+Title395=Cinema Bizarre - My Obsession
+Length395=239
+File396=https://cs9-1v4.vkuseraudio.net/p19/5ebfc0e871d60d.mp3?extra=-n8q7lW9NKCgj5DlwcqB1iXdwsglMNW1MvUDOJyg0qBygJLv5Hn_GckLRmaF3fNt2Qt6ECmCHb3lwFaHcK4xEL4-u02Eai1xkpJdXb4eim_poHTv3ML2wVXAMGHpbRQI6ZDBADq7lWMh4Ls
+Title396=Sick Puppies - Survive
+Length396=192
+File397=https://cs9-1v4.vkuseraudio.net/p4/643a3e16e7d87b.mp3?extra=CX1hIc21B1sliKVZmEbik5uAdUxg4o5QQ1SQPiD6ifQonAo8afyN1aGsEEtCX-kEKJvFPng5vc7m1XAa36CFAwmN3YsPTyKipfoyL5dhUe3blaAIq_P8ETvpPm4JvX7Y0gUUkVGfMHSVhMA
+Title397=Mushmellow - Loser
+Length397=247
+File398=https://cs9-3v4.vkuseraudio.net/p11/8f7be2138c3b6d.mp3?extra=W39kEMUzbtkGpyaIf5SkcehxD9hxTUXGgxWPEVrFao37df3Cu8zpo-5eIvZ9Cj5_KfH9CvzAkoJ_nt-gGQbm8ye_ZfZdtw0iHLkZSXR1IbvZ_0v04QhVGA8A2HKA_poWwOwTaC6CZag6iwg
+Title398=Mushmellow - The Way You Look At Me
+Length398=199
+File399=https://cs9-3v4.vkuseraudio.net/p2/bd4d45c60ecf6e.mp3?extra=XtLgL8tpk1W4tqpuYUKbH2Fqj3Mt2IWSGRTsTR7g8ERH4LF4eUpU_Hjrq9PkPpXh3B16vBcF5JCkc28teTpLRACITrX0k1j5UxLiJ6p4vAa-6yGgbRp5NVQMKhSoegQnpS6smTWMQ9GwUcI
+Title399=John Murphy - Bass Theme (OST Lock, Stock and Two Smoking Barrels)
+Length399=184
+File400=https://psv4.vkuseraudio.net/c5070/u16320762/audios/1ff988a3544f.mp3?extra=pYLAIRaueA6Cpx9bBzgVWbHCcvAh--D7v4Wf_DJlPIjestGHxXG_yJjayZjzURQpp4taHU1_0Nv4aivWJZF68dBWhDpoTx-nP_LLZPJuRyWO8JTMRkEZVW8rcisDw8qf5TE4Vj4JaZTSxtI
+Title400=Apocalyptica - Nothin Else Matters
+Length400=287
+File401=https://cs9-12v4.vkuseraudio.net/p3/cf937cbe3478ee.mp3?extra=5idEAzA78Ni5xD0XDALvXzNeUqr-0rdwYR36XSYzT7bKoNcdbGrjrweEXx6aG4AVTwth92oc2L56KrTHtSYTyrN3wsopHsJpi_N-q9mUFppg6jJqSaBOlhJpOeKVZD5jbrDBuk0Elx8ppms
+Title401=Apocalyptica - Life Burns
+Length401=186
+File402=https://psv4.vkuseraudio.net/c4192/u3114475/audios/add6d889d48e.mp3?extra=VMuf404c1OO0Uei79TV1gH61jOgm5GGpmzrOTFMKhKFnOPfKp7z_lrkrI9IH4yBdYkjbcxQdXBJ7dUuKg4f9Td9ortpu_UZgO2chZFmaI3Rikto57fpgjfd-wPBUV3G5emGTY7KrnrqPuaU
+Title402=Apocalyptica - M.B.
+Length402=240
+File403=https://cs9-19v4.vkuseraudio.net/p13/90c5ba4dd2ff6c.mp3?extra=8SlMxCvztYtYhPU-Lt1znpMfIQHc1dOvNuTu-MnyL6SmbhvkgURndUUfy_JgAAEi7iyH36__RHXtCu3Jo0U050pjk_H8GV-CzyP85mXuNu_u51mNPHvpHLJ4X4OUNAo5qjQomf3mgzljRZ4
+Title403=Green Day - Wake Me Up When September Ends
+Length403=285
+File404=https://cs9-3v4.vkuseraudio.net/p24/9a4fee82737382.mp3?extra=hCnxAWnfcOV0G_-m5wDxAUAuw6uvluAfeLp4Nnrp_NYm-XtxhI0tJEZ4TRRtfEBoKClh0tEDZo3BrjCNvFOBkT4inrWulBkzsNI6q5lNHZ9-W5IcQqAXKRsly5dhRtPH1b6V63qv5RyCyGE
+Title404=Apocalyptica - Bittersweet
+Length404=266
+File405=https://cs9-8v4.vkuseraudio.net/p9/49325eb2634cd8.mp3?extra=ph-Io95Z04wo16tuRGgJAWhf2KhMArNC0bid3qnSCYeb-51YdTskgsyyDkeS642Eg-tRIWweWbt3kPPBk7NdakgR897xQLsXYtK6EfDqGjVnK7ic45q_54ZHxzRz1SUus32dUk1F4osVCH8
+Title405=Apocalyptica - I Dont Care
+Length405=238
+File406=https://cs9-11v4.vkuseraudio.net/p14/512e00552967a4.mp3?extra=n4WcgdgHkJIbzqwrV2rwNH86EfUBqG1GT0WDntpYvOeNeK2cxYggJaVWg-YSZtq0xaD4fs-9nNv4LXaX8Zns9FzHJSglXs43vjuU_9pPDoRz3iWWWZbifdA3ApigHwQDlh4CNWLJmRMuXPQ
+Title406=Apocalyptica - End Of Me (feat. Gavin Rossdale)
+Length406=208
+File407=https://cs9-1v4.vkuseraudio.net/p14/5c299c1bc04951.mp3?extra=9WDIsX3DRaGlkMkBLKQayGM-pL1Pwrv7GeXPi5R5AbJG5CqMEzJVM14cuErDVXMfIebo3PwcK5H0SH4TLzE3bk3QI2NPYmsYM3xbKTD4AY_vY3p-gHKuXfWrT1LLX4Ob9BOO4Rzmt-MIA7k
+Title407=Ozzy Osborne - I Just Want You
+Length407=296
+File408=
+Title408=Oasis - Wonderwall
+Length408=262
+File409=https://cs9-3v4.vkuseraudio.net/p11/b3dd664ea59dc9.mp3?extra=JxluMHRR3Ki0b86EEQhteRbjg04bemUkavSqb2biOjaE2ldensxsG7o8dIfoZ_B0yBoH-umiHACEExjs49fNS1n_v5DS_ey-4AbzPorcoU2T7B4lRWzncaxKiCgb2csJCRT-lsm3qAC6XQ0
+Title409=Three Days Grace - Let It Die
+Length409=199
+File410=https://cs9-6v4.vkuseraudio.net/p9/1990d1447dd7b0.mp3?extra=8aSrR9EE4u_j4EfpSRHI5m3M51vLYORL7_i5WlzhbdcEJH-bB059kfv1zREj-gRJVQVYyVbQyB2uTlF5ItCH7sp6-ziku6aU7ZA_6dPyvVXu17ov3ooHolJh3k0VM4VpDFAU4gOjvqp5kKg
+Title410=Disturbed - Down With The Sickness
+Length410=278
+File411=https://psv4.vkuseraudio.net/c6195/u17793470/audios/18b2af983e06.mp3?extra=k9UKsYD1JLpsfdW29rw1bxkOejDJOYjPGz6apz-nD_I1WSmBOS8AgfhL791EDlaID_t7DyoWlCiVW8KGJV9Lrg_Quhic75QFizOWhdsk4xxTje1nIaosE9FtTojajPYvH5fIdaKKqPGjpWs
+Title411=Sick Puppies - What Are You Thinking
+Length411=194
+File412=https://cs9-7v4.vkuseraudio.net/p11/10618b5e3579ae.mp3?extra=wjSa_cHw6T2z9wssHqFJXkawpJYMA6pUaypd-rDGEIDhxfiQflKbe22QR5NudVfFRBn1LJGBACNeI3NI1-MJAqTJqXkQjK9TIozxe5BPvze0DEI_7z-VGVGfpUckeCi92ezHdIH0vaaEu34
+Title412=Sick Puppies - Maybe
+Length412=209
+File413=https://psv4.vkuseraudio.net/c6164/u17793470/audios/9b1ee450a5e5.mp3?extra=P_WjaxFYuh-r09o7AjdJIZ-4gDPtTwwSMBgcBXKGvW5fqJVC_DakxwjNTJ0qFmeDQtEKCgJOsMZxH--ic1H5cwyTRB02GO1N3z-LHdRREz8AEspz8z8YPcobLQ1VkX8aOpT9pRjw8h2iQKQ
+Title413=Sick Puppies - No Mercy
+Length413=216
+File414=
+Title414=Three Days Grace - Scared
+Length414=193
+File415=https://psv4.vkuseraudio.net/c521501/u168323895/audios/37858f44cee6.mp3?extra=PSGimTwCOmqAGu4mXhBPKPGIHoXN16eiWZhtuwRhPKlShrNen3t0J8si8wiPwZ-MIC5rIkf7em2IVr3brCZmZP0FWDEBMf1w81byq7B1ijRjyas5UEsbUqU69YzB4ka3EA-xcwdodUN6mD0
+Title415=Сплин - Волна
+Length415=208
+File416=https://cs9-14v4.vkuseraudio.net/p17/859af205226658.mp3?extra=Q_kHl6_J5BZGYkuFZ9jYzkWBOLbE5ArUm2iJpq89YArGv469rfDL-o2qgzWKGFS3sIJCan1YTR4WfsmOGe1WAmpSvSkCTn_y1GIY75L2D2IHOCN8Z4B16Uygua__dhIEwKaZTsF6a5X9v9M
+Title416=Papa Roach - Even If I Could
+Length416=196
+File417=https://cs9-12v4.vkuseraudio.net/p13/e2e40e18dfd4de.mp3?extra=irAI01J8CHPvmq4bXfJwtGMh8PvV65SXZQrY2TyYWZwdkPFDj1IYb9se6RgWYbYdxYTjvzk_TgOZGpWsEiNQVWeBygPxmhWSq1yRuSdtj5ofwLfdlDnvd8wnPFMYB4WtFQYJhyj88KHzv3Q
+Title417=Papa Roach - Be Free
+Length417=197
+File418=https://cs9-4v4.vkuseraudio.net/p1/3718fe8489ec7f.mp3?extra=AthqpeYv00OFyBt29Bb0DNxZ1iPcCvdQtOKMPCKsayByox7dpyk6jc8A4ld30YfWGJzCx2o0lhvFmLdR4drBACoLZXZKT4b1dw_SqGdz7ENTW68Kux0_hycHsC70VpN7DlOEA95_uJQVC4U
+Title418=Papa Roach - Scars
+Length418=208
+File419=https://psv4.vkuseraudio.net/c1083/u3478563/audios/3e5e4167f819.mp3?extra=f1vy20z1x15zo0EmT1AQE-B5cZYnCx-F8o5aNdMHwFb5vKl0RKGzpnvVNU6QgWpMKoPAkl9pNp9tp1W_unyP4RgOiGj_mEzkgLZAqxiSzpe1CwfyOPdtHkItkzEDx6tseGpXiUUOB---0Bg
+Title419=Micheal Andrews feat Gary Jules - Mad world
+Length419=183
+File420=https://cs9-18v4.vkuseraudio.net/p7/d92d4be21f1169.mp3?extra=pxQsZXO43bnF3ehX04VDwcRxOFLrv9JtFh_PxOB4Dffbsh9Ki5C8kGHUuUaCPKx4DQWqd8hzkkOg5cMmfiI8tsvZzHEGWu4vbCbMOVTDgKQv1qxy2KRmsLD_gyY2i3QI3E8OTg53Wj7Z87E
+Title420=System of a Down - Radio/Video
+Length420=249
+File421=https://psv4.vkuseraudio.net/c536604/u17793470/audios/009619260d59.mp3?extra=eFnb2koGk3AfetwHZc-Dtcdky_62B-MsraK5ikBnoUMF6XWZ2vsJ80nrKX4s55g0Un58bUJAVDpDha4nIp6YZ7n0Uq9Nkwnjldwk_Hdr_6mBoWb2yTmgWCbRKCIcaGV3jqeff0oqgIlD7jg
+Title421=Sick Puppies - Die To Save You
+Length421=233
+File422=https://cs9-6v4.vkuseraudio.net/p22/fdd74dcd89dec1.mp3?extra=tDniEQUnDb-IrKBOJtOb0ijtWk0oMWjLDZNK7z3PivwIhkzdNfuws8g-1_2vJ_lDrF6gPwblAVBND9dIPC1f7SRzpAttbO4Ns_ojFTJ4kIUTVzIjuWjzJjFlVXC5S7BL-53ECHFzWVmCBjU
+Title422=Breaking Benjamin - Rain
+Length422=205
+File423=
+Title423=Breaking Benjamin - Diary of Jane
+Length423=203
+File424=https://cs9-14v4.vkuseraudio.net/p24/c30ccb4b35b0af.mp3?extra=cSUgoTHkHV2X5Zr2o20oCeII5lqJIJalaUP15pJrpHX5LqSiFTYgqr6AD_t0GdpGzbdgY50jF7C29sTQuLm4Smqve4BHDk2dmrid3g8a8zOIU6EcYWL3SRYqyUivXP_KNTkN4fv0RosPxNc
+Title424=Sick Puppies - You&#039;re Going Down (Acoustic Version)
+Length424=249
+File425=https://cs9-8v4.vkuseraudio.net/p19/7a0318b3ab1333.mp3?extra=nL4Oeia9ZVn2YuguSIganW-lqMzQl8zHVxBnntjojH_B6nBCtUqpr93uS-QyKeWrhxaNkI1MGNraGMGvG1gpgBq5ejazArSBOhwwWMnTJiV0bZDOpLWIZsrEtWG-8jiQMiZd4EiFzmIiLy0
+Title425=Sick Puppies - Telling Lies
+Length425=263
+File426=https://cs9-18v4.vkuseraudio.net/p7/39201f8f16567c.mp3?extra=GInuMhf_7S7-uRCMjd7FfzXaSP-MAvROGI31nA0gxNigvJC2q0GXKWMCa6s5dTCCddnHLQn2e9YjYR-ojnC4FErF83b8a_pRm8jxAVYivjUeMpaJ3L3SP8-NJs2abYWXNqfnLsJxu0p9FOM
+Title426=Sick Puppies - My World
+Length426=239
+File427=
+Title427=Disturbed - Decadence
+Length427=197
+File428=https://cs9-12v4.vkuseraudio.net/p1/788c325cc3ebc8.mp3?extra=ffzWPRKCkNwkD7hymMzxIxYHfwI_hMK1p_CWSMT-kwSmFY98Lx3qr270Scr_YlF9VY1f1BCdVfnCo_Y60XUEAH2iKo_ieNDJoUJuuBrYf2vpsoJEEtOuOch1-f824MoVT7YdG8VMlMCtDNg
+Title428=Sick Puppies - Dead Space
+Length428=192
+File429=https://cs9-6v4.vkuseraudio.net/p20/56c55daa9337be.mp3?extra=rue9bzZ_EK11q0MELZBmN_VB1I5JNPQBW811nRHtqfy44y8MDU691ad7oYtQaI4VHQTy6WiRfmy8_iOgAwZdqgRapuCUUM-jB-VSE-ehn07Ck-8_vEO7keHspPVMmOMpbNk8trxQqK73uto
+Title429=Breaking Benjamin - So Cold
+Length429=273
+File430=https://cs9-4v4.vkuseraudio.net/p15/a56a432cfc010b.mp3?extra=c-e5WNaG93wustF7VOndnsLzZC33dd60dzT2fELW8dlHQoYkU7VwPbCrIvsm_yiZDIVeLHZRusxo3O9Cve5aCj_qdi9vxrNCqh5hTRBiz98xvT0tC9yM282Ps-syO4o8Suua9FxF0cSjtp8
+Title430=Nick Cave and the Bad Seeds - O Children
+Length430=409
+File431=https://cs9-6v4.vkuseraudio.net/p1/7b54e15ae434b4.mp3?extra=Fa3FP8PfCa1l_hpogW3NGzf8a2O5M0qE4Cet9TVnoPJ2uvzA1mozsB89-rtstypMXCTOhKuTX3uKZnc6V9it82Yk47hWKHv4NckCi_bfhX7Hp4MfNV74oxqFHhB1nL7IFVu_HlcV5oLFYhE
+Title431=Placebo - Protect Me From What I Want
+Length431=195
+File432=https://psv4.vkuseraudio.net/c4544/u57354062/audios/3c94032d8cfb.mp3?extra=9HvdM-WC9lFtdhhLM4Aa6UKTCNATBwu4SsYU5-JvtFhXkzPgOk1BOW7B9-u5ORFt41WfdKpUD-VJg1A3wfL8WedqcsU4n2qUkwFTaA8gYt5qyacDiCDOkpkqvFcMfDxyHSChVTV9z4ewUZw
+Title432=System of a down - Atwa
+Length432=178
+File433=https://cs9-6v4.vkuseraudio.net/p22/0b03b8119c70b5.mp3?extra=MWk3h9VH7aJuxB5Z5ajoBVjAc8VnEQhPdPfPOjnkq9J7fuMUK4rAAF37CqGTxhnB-fepeOrtn8uTdg5kRpjah8WA3jGSXSWXXK8NhOaI4lCz5TgrDRj7Tkvn243GYnFwSfT9HiA6ZbQsCl0
+Title433=Godspeed You! Black Emperor - The Dead Flag Blues
+Length433=988
+File434=https://cs9-1v4.vkuseraudio.net/p2/dc8e154a3b7fee.mp3?extra=BFl0A7y_5-ZMQTNMpl05QPidtv0aKpCN-dABBEj-wyYbEcLBqqdHWHiDJD3myvaUUm_H4pzYxtpCXDQxiiLZXZtJ69FSXsaQL54Kr4HgDTbrFc7SGyOzBtXSJLOLNR8_6Cp0vCVqU1f66dI
+Title434=Godspeed You! Black Emperor - Storm
+Length434=1352
+File435=
+Title435=Green Day - Holiday
+Length435=232
+File436=https://psv4.vkuseraudio.net/c1336/u4172177/audios/6b4a9b33cf2b.mp3?extra=1Ad1bJiRsgVbeygebuTsZE1VIwcKgUWuFhc4TfwVBtwpGQzPGNt_Cvj0ssASVZkXY-DRCqix6YnhE7txc9k7fzYXk_6Bb5bX_ob_jEwF8VBmUWQJMGGs3rilTZHcle5BehSXgrAfm-OgI8M
+Title436=Lostprophets - Rooftops (Acoustic)
+Length436=217
+File437=https://psv4.vkuseraudio.net/c4969/u20534335/audios/b2e427f3e68e.mp3?extra=twRT2nzTvb23I0IfMYARCc9y9GtNLLT9H4LHTSYfLVUdrdKPglu-XiD8K2nPQriz7NhuIdhjwGptkZ3BromBl1IXBM4xZjivDxavb8s21k6dyMiUbd-eFC4PtlOKSvgGIYXiYklMM0oz6hg
+Title437=Lostprophets - Always All Ways (Apologies, Glances And Messed Up Chances)
+Length437=265
+File438=
+Title438=Avenged Sevenfold - Nightmare
+Length438=376
+File439=https://cs9-11v4.vkuseraudio.net/p13/dba957d9f7b3d7.mp3?extra=E-wKy6X28Gaakz1FOS83KNgmaEf-yid6F5o74QRm9VgJQoPOOPrjoDpo7Ete8iKXtdlpfV-vrj3V3lsP3dNmKvBL7zVT5gSKSJK3sygV3yiXZrUZ3i_HZeGw3D_U5au8y12_ufsls-9aag4
+Title439=Lostprophets - Start Something
+Length439=206
+File440=https://cs9-2v4.vkuseraudio.net/p22/242f3cdcbd3d4d.mp3?extra=in3n730pZnqosbDgiSeZ1nWjJpoRYepkAXM28ggBdxQ1uTc7Eu-6TaCaXc84uDasjdxoN4qAQuG3Yfax6f0vD0vJYYM4ffKPI4sWbBrnXq-CDszgm0MsEHRziDwOG6W00oFeRA84rXAfI4k
+Title440=Lostprophets - Cry Me A River
+Length440=299
+File441=https://cs9-11v4.vkuseraudio.net/p6/f5b79cf6455ef9.mp3?extra=jtb54-0rg-ESeDN9t35Dffqxj53p_ZiVIpZ-2Cb3zZ-rzg_5XWJ-_DOd9pXjE365YTQsMSZh341ZjnAkQHFaTQQPyXMH6czgsu8hCfqMI4LsvDMZ3X9FlV0VNwdgiFII9E39hkSASlA_qbI
+Title441=Lostprophets - Better Off Dead
+Length441=220
+File442=
+Title442=Lostprophets - Hello Again
+Length442=296
+File443=https://cs9-3v4.vkuseraudio.net/p22/48ab98c0ea2613.mp3?extra=u6W1AzJNn6_AQDq8_Dhi-lMm7BUYeT-LVKSnaCHo9CnQ0WdTpjGzXepTEMrT_EjEdF3nFNjy5v3-hZrma_JzYMMw88mZFEqgKdUSNlozFDP7T6AL7fjZkrHEpfEvl1J5SCrPGPZdBlHvedQ
+Title443=Lostprophets - 4:AM Forever
+Length443=267
+File444=https://cs9-6v4.vkuseraudio.net/p8/e2200cd823041d.mp3?extra=0uV6XeEHdtjI0A3eU_KrM74eZ1xJYBIAGLZllqGFRQwH4GqDnVD4CbO5gm41DSV_Dg6wGZwHSoLjcqoff4WAUtkPy4qs0EV7FMVgR2urh0qd0jvIu0HluIh8L-uxX6xsgDGSpc_Hp2uIp38
+Title444=System of a Down - Hypnotize
+Length444=189
+File445=https://cs9-14v4.vkuseraudio.net/p22/7dbd10bae65702.mp3?extra=zeBRn-e1SlQvGsnLYUi6I_zxF6tthcY69xTUTWedYDVJwOcuUqnWIRYbk5TOTs57_gLvgq-dfHS8pryOE_oqgrPUOeQU5W8wO-OnP95HrgY6AIgS5Rk41nD69sLAvzZUfVKQR6Uccsupkr4
+Title445=System Of A Down - Sugar (Сахар)
+Length445=153
+File446=
+Title446=System of a Down - Whoring Streets
+Length446=181
+File447=https://cs9-17v4.vkuseraudio.net/p22/7f63f03b468195.mp3?extra=EmraUHAO84gADTrqXPXw2IuBk5NhyIMHbsTxDscKI64lJkCV6HjzOPuEN2K8lbMyJ7Bgd_AkQKFvJKES3pa3yfu5JKkI5kY22PWg2tUXS4_DeKBPpnyIPLvCbNBbh9hkW2R2GlniOLqW0pM
+Title447=System of A Down - Fuck the System
+Length447=134
+File448=https://cs9-17v4.vkuseraudio.net/p22/bba749bab86203.mp3?extra=z67l9usAaU4AtMLNAFXIbGMU7CnZdUTQr51kWdzjSwdVF44ZzQaDBQ-6v_gSz7FT2ZQUM9QDgm2-NQSyViWjnq9YfR4vUJ9WO6CxEvmBdoWciaWAn1B7SsJNVayjhncNljmB1C9fmj-KKrI
+Title448=System Of A Down - Sky Is Over
+Length448=177
+File449=https://cs9-6v4.vkuseraudio.net/p15/ac1c64f5e6ba0d.mp3?extra=SFRrO7KdF-d7OEUE1x1u8n98CRpUsuVKUS6HfBR6i7ykJYJf4lMcdV8ioGnqs9gc-7DI0lF_UYciQ7eg1AWIcq3wuC32vxBIQD-uaEoMqZM101Hni76ENY68H9LArNC8_n7XZpLFG69OgmM
+Title449=System Of A Down - Chop Suey
+Length449=210
+File450=https://cs9-4v4.vkuseraudio.net/p18/f04052e3dde348.mp3?extra=_RxueFCudo3hg_E1-x4J720mJ4z-AhedhPcAUa8UpjuQsoT_zTF7vhaSsoJL45GU8rsMgyuvwVy3TAPVGPmJrTqv3NMJVrA-kXc3IVPWDFWQLEQ63BngWXcla0_mioSuKdlKR83UfdEuPKg
+Title450=Metallica - Turn the page
+Length450=366
+File451=https://cs9-2v4.vkuseraudio.net/p4/71734db697530c.mp3?extra=hKh5TDEjl01WvsEIiwGRPLXgFAU-foFJdHaZKUPi8xDzYhdA-5EfVuwg99GygyjChMzIKf8XCdyDeQ2NZ74ZNJN4eQm2ACcxjjGgK6SskH3YL0ax4MdhcAh8hiThyoqNYLIilyYPVmmKIM8
+Title451=Metallica - Die, Die My Darling
+Length451=148
+File452=https://cs9-1v4.vkuseraudio.net/p13/39e18a0c8e39b3.mp3?extra=bOklSBniDmltP69VOJj0PvH1AbGogYW-RleaEEeIX8zeXNICkT4Fp7js0L-z49fhh7dNMczp1N7DnCL5tZ2GOthHmF29AqwW_Lp9SaDOWzmZJo_fkT8ekxMHkkgGqpzU-xgE4BnARj1uYuY
+Title452=Ella Fitzgerald &amp; Louis Armstrong - April In Paris
+Length452=395
+File453=https://cs9-2v4.vkuseraudio.net/p20/889f9d0654eeeb.mp3?extra=qa6ZnDjDtYWfJbZGOyheXcLNe6du3-mn5oTH6L4MxFfbsuhdMB26MMEWdysUcSyxOWp2ImZZb1K8ciz6ZMzap1Sdh-NhqtFgPAPvOGOxPh1Ebkyqa6IauqJfUHxllhuUHotc9KBpWz2jveg
+Title453=Louis Armstrong - Let My People Go
+Length453=220
+File454=https://cs9-2v4.vkuseraudio.net/p8/3b67dccbd17214.mp3?extra=lLYHq8EfNl2rlxg05VsLEzo2OCFxbmPApJ_msIA5kaFRj-WHDf3AUax9kgHEbd2Zvqd_MDSUC2jetoE4-a_FPpPIDFDlWPo3iV9SEc91BN0Up5Hqzgkjb6YM3FdhEqBd9GzncQTew0IyXgY
+Title454=Louis Armstrong - What a Wonderful World
+Length454=140
+File455=https://psv4.vkuseraudio.net/c4695/u23244786/audios/2f8927b47e41.mp3?extra=IGxkSc-hh6HwvGZy_DzAKAUThIuMHPHUpJmopOc75xYeR9hDjchPLuJEKhtokl2sMBOdhQIgSymO0Rdgw4pQHmDm7fuKb_Qdfk0RYe--kkZnkLrjd86qV7rLuJ6ieO6Y7clf0Mf0WmH8Jtg
+Title455=Placebo &amp; Chris Corner - Heaven Is Inside You
+Length455=236
+File456=https://cs9-1v4.vkuseraudio.net/p21/6c699a50054ba7.mp3?extra=osSQ73AmKPyk4_0zuk0b-uJIHj5aXgx_hfbgxfGTJGHGAUbjmuCN5lRcm2BsABnsKK6_mrZM8DYkSGzxp1-i9IC4rygjq9Ftv1OnGqJWApEAvpQAmKz8qKDPNnbBBMMTlgKYOqXg_cx5rPc
+Title456=Сплин - Новые люди
+Length456=224
+File457=
+Title457=Сплин - Прочь из моей головы
+Length457=199
+File458=https://cs9-6v4.vkuseraudio.net/p8/fb1acfcfae6a77.mp3?extra=dK-j_2tTS4J7SX_RbabHTJc9h3iQR43FkZdsezoIF4rzymoCnFk904yRSOI2R9_mrcHC2xaQfRogryTcTFJ-G7UYSgdjts8HeeTiAiEhIakG0R2r4X28RhpwsSQsaLIdktn_9UhvwAkDEdw
+Title458=Сплин/Би-2 - Она
+Length458=295
+File459=https://cs9-4v4.vkuseraudio.net/p8/b9d4a8809a7ac0.mp3?extra=ZPFsJcPYrLClKRx1VJA04kpOs9z_IKiwLTZdvRrP0urk41tBzuDx16PPJlh9dwI03tT0hEjTcTA_KCMrapAb2K5RSkV_Q4pnS5tZniGqqehCDJDPuLAZMzS8VecWOcytFdPkpjb_n4rHotQ
+Title459=Сплин - Чудак
+Length459=149
+File460=https://cs9-6v4.vkuseraudio.net/p7/c4c26abcbb9234.mp3?extra=FPfu1CyryfQvrUShn6BfxJRz7St34PYs8NoJQG2db8ia1UB5mZ3GUSj2hmEjCEtTwuBTtLXnshdSqdSCre0KTZeRwdW0T0IHaRsjNCY9tkmTV3rlq3SeZ8_nK7cH_gNEIbcoJ_R68k_yrXE
+Title460=СПЛИН - Тебе это снится
+Length460=299
+File461=https://cs9-14v4.vkuseraudio.net/p21/6ee0e44e14ef9c.mp3?extra=1dlF7fIvxIfukPboT7MDQRXfSs9t2ProPKXL5mlm_OV73DP_ktp8oAlBFyGSYoirD2SwKQoLHzURRCHMVZhP7pxWemQvH36OP6RblEKcDI89gZ2cmebLyAt_-KiprqZ44kgsCfF-p6mmYX8
+Title461=Habbias - Я вырастил Грибы
+Length461=193
+File462=https://cs9-4v4.vkuseraudio.net/p7/12abc50b6a5fba.mp3?extra=la9pT6WriUPf1BHUCZHs6Z_gejhPQ89T1KAaTdLUN0SRYVZVmjruLDIEAA-jdueFcHNJ5JL-5kzjmizdIgzAZ6PvC4N_glR-lEv69lauLqy-eTdLSEqKAbiQ-EJU_wdRGyS7VQmBOD7GlMA
+Title462=Сплин - Весь Этот Бред
+Length462=186
+File463=https://psv4.vkuseraudio.net/c5030/u3902671/audios/e3f39899b018.mp3?extra=6UEjehN95EzbxwW8cT2cN7t_1tRyzQDowqg7PHptmMdWgB6_1Fc33QV353gxyUoMGbDJcfuGklVaHjiV8-1dmK7-XlnbUL0Xp72e9-1vJ9-hS-df0btEMt5jznHIUL6FaaL9m83mFkH0_3U
+Title463=John Lennon - Woman Is The Nigger Of The World
+Length463=316
+File464=https://psv4.vkuseraudio.net/c4595/u59541045/audios/c75b56b59927.mp3?extra=vuG4tCQ5bKWtptmNCMztN9Ft0fgXMrJN44CrngqdlGTcJQt1cjh7UdDmzBB_TTd-0G8JowWD2ERGlzIgsxnjHuG5CxuHQllEZH6N5pivawFqygAOhkxCJOSHIyDNYK2A--MF9nEQTmuisdY
+Title464=Fall Out Boy - Dance, Dance
+Length464=180
+File465=https://cs9-8v4.vkuseraudio.net/p4/d2b562cf7df83d.mp3?extra=NJmxIArb0KZgsPgeiM88tp0dP2kMGHcT5_0ezO8mmcxzf1yFrANI_W_X3w0a3Y5uxGfHhc5SgZKR4agoFSalz1q_ZiAXlBT3EA76u8_jaI_iEClYhkDw4smgGhffQOa-WMrrne4kHtsani0
+Title465=Arctic Monkeys - No Buses
+Length465=197
+File466=https://cs9-14v4.vkuseraudio.net/p16/795d9ec8dee28a.mp3?extra=D6sc-5xlvOec6oQ8x6GWcNBLXoKuycm0jSnq3rIgsEjHjEk16-44Ur_2MEDTqwDDLp3O4OJSUYJpWSYocA9QSJsFdxshxZyJ6ef3KWdpXkF8U0jWGiGXbFewDJVXZF2C7rPplEqQsPCEw6k
+Title466=Arctic Monkeys - Love Is A Laserquest
+Length466=191
+File467=https://psv4.vkuseraudio.net/c1708/u20383979/audios/e21f463c5c8d.mp3?extra=Upp5X_Uz7RSHU0QVf9iPhDYdv6d9PiWtK37d6xszl-aF_63ehGmFqMydOAf-nTAeQX5emz455IDhblRBm1vL8do64LDRMEL8QBqvyqQBlxW1oZ9l5ENoZ-W9OGzRDlYBntWaewFTHym2Sos
+Title467=Linkin Park - Little Boxes (Weeds Theme)
+Length467=51
+File468=https://cs9-7v4.vkuseraudio.net/p8/ac0de0d45d8c22.mp3?extra=LzuHJC4v7PBDU4SHgF74D6cgXjn9pyNGAZSmczD7rgsTAWI8AyMOkaIh0arqMd3hGq3Q7b2MKzvRvL1MADEw9Hp8ACGV5ruKVKDYxODe-Cgii6x25DMJTBM_KqNs5SC3o44fI_CsckMoDqE
+Title468=Dead By Sunrise - Morning After
+Length468=254
+File469=https://cs9-1v4.vkuseraudio.net/p2/0ada8d994a9f50.mp3?extra=TL4XdQTBD5n_PZSa1AOR4pgT4LH08jNlr9Ph4ZVHHKzLK0rPyFn1TwX1miWuoTySML2Aybp-gnbRXH0bMQvgZ1KiQe__bwvRhCeiZGX8xvYGbjOWb8K327vfWZhNcB8Em6CFn50jmfaknD0
+Title469=Blue October - Say It
+Length469=215
+File470=https://cs9-8v4.vkuseraudio.net/p4/cfe9465353bd68.mp3?extra=uCwyICjuOhvcQ3kmus2hROxCc-c-t3kDqcEtlXv9Dphqz4hPF4UbIncubWJHqhSqy0pDBQ31nAqXFzFzYrfIiRTDf4a_JEiRr6T8T1jm7weia2GPnKB9Dwtx_KK3axo-jkpdeZC--KdDIYw
+Title470=Red Hot Chili Peppers - Hard To Concentrate
+Length470=242
+File471=https://cs9-11v4.vkuseraudio.net/p8/7afc2453e86aff.mp3?extra=Sp3Sqsoc9gOJLKQgBQmxcnoks-Ke8ejPp6J3HpduVbZxeN91N9s5KD9IjGZj7SjkTXQosJqWW2keRfqjCJvL6nq30gU62RNhvS6RfAKMifP5jCF-EgOwdQ5aZBTi1BeGwQEzEPOJmRO-mSI
+Title471=Animal ДжаZ - Smells Like Teen Spirit (Nirvana cover)
+Length471=267
+File472=https://cs9-3v4.vkuseraudio.net/p23/30b4a5930277d5.mp3?extra=pu5NVuofHAT5A4Jc3gKXmxyzwb60bMKKZkADD6XaFDlmbSmzweK5QITkGKcylHx6EdH-CUgrl14Kp_u-d2dmHjarwZoqfFI9JGAKQN7DYTMTomUdPqPc31jruNHNWItfXVh1Pm9AEdnI1OY
+Title472=Animal Джаz - Ответ нет!
+Length472=329
+File473=https://cs9-5v4.vkuseraudio.net/p1/e168a7b35a4f67.mp3?extra=J347WnHvmFA0Pw9OjkLeIsXZcWB4QhLdR6UXSngsGY7Xd8NF_z8KGjz1IuhcehMKIBoxPOvHJKVoapVTBx9GLDoxqlgK9tfBrMhuZ1cnNgVo4A8pR9wvvsZ8EhBEf_w_K0gXG_UyNDDd8-o
+Title473=Animal ДжаZ - Как дым (Пианино версия-студийка)
+Length473=273
+File474=https://cs9-2v4.vkuseraudio.net/p15/f2e43715591228.mp3?extra=PqHXJQgFUlqxVrgSpFP90eOWflqsAIu3k4ujVZ9aO9DqniAnA7gEIKPna1AhLjRTIaF7drs_p_HQyR8KRHsT4ohkmeHf-mncs_NVLaRXetKmXpWM6rDm1XK7C-Z5F48h--21CdHtckHDCeY
+Title474=Animal Джаz - Реквием
+Length474=195
+File475=https://cs9-3v4.vkuseraudio.net/p9/e075ea80f6f833.mp3?extra=PuJz8m6sqCZDmqX-MDGGYnE4nmMtnfTboqvI07Fvq9n3eIPLi7oBv9jX47rdOx5MlPJ0ArcxyTLt5Q2sRlhk4qSiqbY1Z1l3vOxHCgCituaDTpe7XNGGHD23bFIbTsKCjkkHWtouzFn6zJg
+Title475=Animal ДжаZ - Мы
+Length475=191
+File476=https://cs9-12v4.vkuseraudio.net/p15/ae7d281d756582.mp3?extra=qrL6IsBQ_DFDdgj4mTnXPt7KIQUoJxqlxyPs3wn_wgLbx17HMugCMNjVRH7HguZzyjLCyOMxWs9b0WTrYRp6_CCBT2r335KZYfzkGWq-fK4AhWSgklFjDXSoSoPy5g6krDSVDO8Fcl2ENtU
+Title476=Animal ДжаZ - Сколько Тебя
+Length476=270
+File477=https://cs9-4v4.vkuseraudio.net/p15/6441dbc6642404.mp3?extra=u1l7fUU8uG0aksgwHH_lM8PfzskBhiCfTcaITyp4q3Aj9HUTcqbwWLrGgGkA3izpmRxPl0PIhqhVsx296xHmNfZl6ywgGZnShtmtUwVru_f30Vj4CS81F7d5wJ9hR28K0wSwfWhJxnczZzI
+Title477=Sum 41 - Some Say (Acoustic)
+Length477=222
+File478=https://cs9-5v4.vkuseraudio.net/p22/dd23df3a3ae569.mp3?extra=AXmIbSL6fjVAkCiGLBVLfOYD-4thVQ1he2OlkE9brYjFRtyD-6Jj4oWjGs9WgJvdeOJUPFaVLsA6m9CWlAHg7T9Co5Q1-JkFVbJAmweor_o93Mmx0vX0eH9Pnq0GQiRq0dkq42pW7Vl2Fzg
+Title478=Michael Buble - Save The Last Dance For Me
+Length478=218
+File479=https://psv4.vkuseraudio.net/c4755/u19421929/audios/20c5d866c940.mp3?extra=QkfWExvKcmejgCmVlZesQ1QPQo756Whmqq6xbJhEPVo5LYOiB7VUHmb52dHFDTReXJbwq7uoy48xyugXX4E354uY12BArJoeVlcttCFkz9kOl5ER7i3t-WTykgeiNAWwETJm-PJDUG8uEcg
+Title479=Thousand Foot Krutch - Absolute
+Length479=196
+File480=https://cs9-2v4.vkuseraudio.net/p15/fae9a36df9f50e.mp3?extra=lJXrR6TLQO6brnQYyXIvDxB1rmLm4Tq97f_Z6cIVYw6phTmasskYHJGWMXE9HxzdW_7rwaH9ELHLoqd2WEmEcIy4fGJ_cLb0QU65JTvkG7o6zGi7-nqu_4G5y9YoPHXnHnrEMTv2UrBVbrM
+Title480=Shiro Sagisu - Here to Stay
+Length480=180
+File481=https://cs9-4v4.vkuseraudio.net/p8/fa614d7d72010c.mp3?extra=RDcV8UHePrZcaOnPq6GISXdd2ffEhKKppYXk8wAypZg5-ICJopMRvVyYOrW2aDTF5KblkrM97IZjTgJSbjJc2bd6fhcGAroHkPScO9WzvTKKEARZXw6gOgnwxIOZCoS15WVYinulVwfhwtM
+Title481=Arctic Monkeys - Do I Wanna Know?
+Length481=273
+File482=https://cs9-3v4.vkuseraudio.net/p24/fe006de29ebeed.mp3?extra=tc6Yt74ULNFdzR2qNRbcehZSRJ3esjvBDi6AdbMmISkkEfHtHP3uMA2Nzs1c3euFgO4AEAAkqWhTD2jdlbGyUWf2kjtVIW-MWi3U1gtb3wAgV9sIMkYajXQ0nT8rDg69g8npQrcIMEpYV2g
+Title482=The Subways - Rock and Roll Queen
+Length482=171
+File483=https://cs9-6v4.vkuseraudio.net/p8/7e9a69ac2b2493.mp3?extra=tm4uXLEuDf0Mk3LZLraEdTVwgpEi07KEM4zKleFh7y_bU-4hpauKOmh2cBwExwMU414sQ7niNWr9zJXEzxPp52D64DXHIZXm_WmpsBFkyhvRxgUJ567rcHUw4kL9XddjqN7GGvSnl6xB28o
+Title483=Three Days Grace - Get out alive
+Length483=262
+File484=https://cs9-6v4.vkuseraudio.net/p1/b0e1ef527dad3a.mp3?extra=SLQbLCueJTdyQIUEhs_iAUq4aBcoEZ67GF-R9tJuJMHAP1e9J1YX-WVIOyk5kADUdSOQIvK2ch9SmgAvL4VLLMWvj3eJtw7fxx7_NgWE3es2QtqDy-M4uwpqA3XQofcKZsj9L6cuOP6Llyw
+Title484=Coldplay - The Scientist
+Length484=311
+File485=https://cs9-7v4.vkuseraudio.net/p11/ca755c56cc4715.mp3?extra=7WT60FDjElcmuf4cgOKSrB5KiofIIHB-dcuTi0xVj2LavsErQTAxmQehJ5S0PU6rDTKfeEgqRYARppnqxFBb9ByVroqhWedDZU6yR8o7sa8O7BE7UfRq6i60i84O6rVLID76HOvEsZ7xazw
+Title485=Three Days Grace - The Chain
+Length485=230
+File486=https://cs9-2v4.vkuseraudio.net/p13/aa16b2dc4b74fc.mp3?extra=YtSdZDgTamI_ed8sN_HbKAS8IcM-eOinrCPiQ8y_P3ezx7wdk5qDvWSjnS5zbjKAj2tX_n1dWjNJA0el7YTCuDiZrAuF1rwFvxVt_6VprAd5JyX479S2_zpPuW_E8O1w8qCrePNgmwjsqJU
+Title486=Godspeed You! Black Emperor - Rockets Fall On Rocket Falls
+Length486=1236
+File487=https://psv4.vkuseraudio.net/c6283/u13316209/audios/7d81b5637c6b.mp3?extra=Yv5mwomPII5WDexDRoNLXajXpC7HG8cTmoElaWXveng293gHdiHaOQKMt22I658U6cX6jh4LtdOvmt6KGNhik4LHQIUMDsEIFTF4_ouUHVW0tZSpFvJ8WpQw-nZ8CZSkq6PBF9KLoLj2Jw4
+Title487=Godspeed You! Black Emperor - We Drift Like Worried Fire
+Length487=1197
+File488=https://cs9-7v4.vkuseraudio.net/p23/15c2d87d036b2c.mp3?extra=KF1YtfcThAxObWHJcZ1zCBeYVJ9Qmb55yyQKPc4p_WOuftVk67DmxTUuQohOdzfTOsWKzsUBhjeifQ4q8KYMKivWgrMGvi696km-i1HzAO_ui39g6zipdjsbYc7bfKaCiT5zTwWxfbdJE54
+Title488=Godspeed you! Black emperor - East Hasting
+Length488=643
+File489=https://cs9-2v4.vkuseraudio.net/p23/74d4da6d181ccf.mp3?extra=6hvPkvE6TBW1Zu-dcfoklNCVl9-DYhnfF1-GyPvxgmhPEIFOuIQzfQNWWZc_F7ei6oJ8Ukfb66gv-8EegVnPl3n7v6_00p-tqT_qrj7Z17m1d1pMT2sr2VnRL1sAS9KGGL2ZGDWMh1ebcd0
+Title489=My Darkest Days - Still Worth Fighting For
+Length489=196
+File490=
+Title490=The Pixies - Where Is My Mind
+Length490=232
+File491=https://psv4.vkuseraudio.net/c521514/u1352209/audios/ab19950e5049.mp3?extra=YCpWdufOMPbrcahssQ7meZguvmW143M4kyubRIUG_QD44hy19li2lJf7_9q3E_RbsjZARyAcyp1P5SAy8KYPmWforV5VOJdJ64UqiQ1YF4hUvpA79Xsx4avS3zbG2U5D1Q_L8pc6AWHrBTM
+Title491=Kodaline - The Answer
+Length491=220
+File492=https://cs9-6v4.vkuseraudio.net/p3/0bda72f001948c.mp3?extra=jZnrLJVVbZBulr-pErmy7CkgdQbB3FLRxZHL5qQXnxa62AdxuIK1RDPiyISGGST49eczt0_iU5-wStm0YHNFc0KIfwCj3WJoyXYV1SbnA1814mSlU6oWvy7FI8XKsCqRvRv0Atj7A_m6k-A
+Title492=Muse - Feeling Good
+Length492=199
+File493=https://cs9-14v4.vkuseraudio.net/p7/ce5f344f1bc7a6.mp3?extra=fVc5io-h1LHx810Tn5ij_X542gGPfY-Xg0U3qX_vuUNzoiaLxGVMJGioKptUHM4I6Tq3u6M5zDU3myTwv1u9fimsHdHUE5o3LrrYJ3DEfkjvC6DxVmivsP-8js0DAWMmyqF12X4PBdw6oxw
+Title493=Sia - Breath Me
+Length493=274
+File494=
+Title494=Massive Attack - Paradise Circus
+Length494=314
+File495=https://cs9-5v4.vkuseraudio.net/p11/b0a97df123d68d.mp3?extra=c1wcZ3pf0XnVrqtDZ23n_IuMXIO-jjTpNfMGwYplEdr8Su0rq2N1CKS9rofXcdG1mRSoIgtvuJYBtOERsbRDxVj5QzyM9tnPCrMtBLV3r3oSdfGg9J8BeEqaZ2lh14nLksTcuUtvTTN-g7g
+Title495=Led Zeppelin - Stairway to Heaven
+Length495=480
+File496=https://cs9-5v4.vkuseraudio.net/p16/5632ab9565ff1c.mp3?extra=dcsONsdb5v6syrHY12YIm8AwjO7vFqm0kqg3cIar6i0x04KCB6h7q4asE3HdeB5R1UVgALTrDRrl7Sw04rmfchljshXaOlrYbYP8FAkPJj_2xkrExy1so0klAMe1ZV_Hjr0422XdjLZeQBQ
+Title496=Thousand Foot Krutch - Fly On The Wall
+Length496=242
+File497=https://psv4.vkuseraudio.net/c6106/u22040572/audios/6d9b62bee166.mp3?extra=QkoUs-fHVpSnK_N_14aZGqdy-chEWfPtpOHr1bqPNEXQ9SPZ5EcOXwlncpvaJEDxZpSvkcT4q-9H326NnEsEZFL3X9wEy4ySz1T60FtSlXVOS79jVFvoCXGYfptNDounRwMH_fLKyo1goUM
+Title497=Hollywood Undead - Lion
+Length497=235
+File498=https://cs9-6v4.vkuseraudio.net/p19/99a3a80ab5a1d1.mp3?extra=0x_Gn-551LyaJXSG8Hk7O-c0KuyXQmYvykaHhILX24H7sUUIScstmY5GGFbqyL9M_pFhHU0YRrrYCk2K6aMOkSy77eI9nhjrt1ozp2TmYY9s6pVSsDZ7ZlOt5WT528p_2_zXwsMDpEu0JqI
+Title498=Thousand Foot Krutch - E For Extinction
+Length498=232
+File499=https://cs9-2v4.vkuseraudio.net/p24/4e9635df65e72a.mp3?extra=1-VjIlgoWr5fXXugplo14oKJRFLlYvruK0xUVIsNs_lW7Kz4ycd0MOt14U_MH7BofZ0OCKp-ZM6ZFuY-sGulD0PGlXiacEWLrOurHKr3tBhvId5HOuOkRYVRjEBZpWfmqe4XJYZamSjuQ3w
+Title499=Take That - Patience
+Length499=204
+File500=https://psv4.vkuseraudio.net/c4795/u55708150/audios/4fc808fdb6ca.mp3?extra=To9TGWR5dCi6X0q1cz4fqppx7jzdv0pIHrU04kEhxLZBhJK5M_pzhAjj7CZlnIRNIJzSgjDph16JGQV9zb7UZAIaCF9f5-CYsUUdH-Bdf9d1dJnSPfJss1ElUxBB76UJZZnlSzoeb647i9Q
+Title500=My Darkest Days - Save Me
+Length500=221
+File501=https://psv4.vkuseraudio.net/c1750/u6028315/audios/c471f8fb8807.mp3?extra=KV47RrCJb0mSlL3VPdvjnOXcGD93Ulg-HzFdji7YNQm5OgUw2gRgTl0lyKayHItXeSwGqPoQT0lgMaAWvfHeXcpaXaDkDmmlHebTYEvoHIJrvcEvonCkIe6lf7vVz1aYVoOijC9s0b1ihhw
+Title501=Three Days Grace - It&#039;s All Over
+Length501=249
+File502=https://psv4.vkuseraudio.net/c4713/u68039389/audios/ded245a01bb8.mp3?extra=0uZuiTPyGI3Y4MsBH38TjMlwXPUKgXz2lLmwdlv1Bm2ZB6cEDdk6EPeOgaMBPPS1y7xOM9igE1cXVKScbLB7rXz5-qLnwa6uR_JEQ4hDM3ClyqqZuHzrEi-SkIPSux8PVJlHhSNQs9pF2Do
+Title502=Shinedown - Call Me
+Length502=222
+File503=https://cs9-13v4.vkuseraudio.net/p12/f19bb4fdc40816.mp3?extra=FGo952wwvi06yFVupw3_8aX99XTdc7Nac7SOrx-8kGWyhDC83KMsq9AI2CksuZuhTvrd5ENSyKG5UAthdSoPz9DpMZkHPJluG07wOwm0aRRMCnfwN72h4Xa52qSQ9he8b486_lZgdV77k88
+Title503=Sick Puppies - So What I Lied
+Length503=222
+File504=https://psv4.vkuseraudio.net/c4219/u6792435/audios/af175243f831.mp3?extra=nlujfqRgBSpYXF_cUCN9aMc2-1z_W-Of5Z8L4q2xNVongkvJb8A9IDPE4fgOkMx3GJhB1d0oF7P6NLFGMQDh21G9hJ7UGq6U82Qszh2_lceOMxj7v0wFoHvK5sabUISbzCDrN0-qxYiIH0w
+Title504=Low - Breaker
+Length504=173
+File505=https://cs9-5v4.vkuseraudio.net/p17/3585f924b49211.mp3?extra=Bg_hv7Lt4yecglPCMGFFYRb_7S9Tq6HzFww-WWByguo5QIych7qwTc8yygCL-zS3Oz4izsCHlbuHj9d4GDF-zbY2p1Z6-HQInF-ZyOSpII5_oEM8_h8Mg42DoyCiezaCEbe21wwPsRDiQg4
+Title505=Lostprophets - Where We Belong
+Length505=277
+File506=https://psv4.vkuseraudio.net/c6142/u10771995/audios/06c554e2a4d5.mp3?extra=HWp1lQawvDZ6sQFDE-8e7Eh1ZAgtEceHXtbZ0d-NmsY1uyQB4pvZFUB7XeVjE3hYvvtzQcyzUv8lSVzKvdsWeEg2EssvjaIiBYxtUlpvQCtNKNDxHwpX6rpyFMPyDliAAuA3XskNdKGDjws
+Title506=Two Door Cinema Club - Sleep Alone
+Length506=220
+File507=https://cs9-1v4.vkuseraudio.net/p23/7c2825e38ad301.mp3?extra=wfFC2SJBQ0118xGJkFHEb4es7owcIW4BWRcHdRhMwEGy3ixzcoEP2WC0hXH_MerdCX-I5Sk993ZxkIxJEw1yc907-GRkv3goEIdpzLwsEippEHcRARq-bNEwyl04ZUCh8gwcQ8aFav0DCmg
+Title507=Sick Puppies - I Hate You
+Length507=208
+File508=https://cs9-6v4.vkuseraudio.net/p19/d7df81aa257dbe.mp3?extra=D0RoOivozt5IUJCQ4PYvEW9j5XzbDKbDIIGlRMFzXji_s7c8bRwLKZQ9jp5fj-uBp1tTteH_kZnePLJjca5uay3-8C6HdLXYEKu5XKu0-pbafzsTOGORImEQ7jvrOXSqV5cjUvuTC-WTpDE
+Title508=Skillet - Better Than Drugs
+Length508=237
+File509=https://psv4.vkuseraudio.net/c4429/u47817825/audios/2dbfb18a692b.mp3?extra=aISZRlAXs1el3ntbzsGOxWCrMeMvCduC87axGDqL0TcRRsUTyElBipOT_FNPfuK72Ifk_Kzfo45tCtGQNv15ZBWxxVG2bcrrv7b7W19N5eN6X526T-gptEQIgqX1Q4RprGBOHq-Lx4qxXYw
+Title509=Papa Roach - To be loved
+Length509=182
+File510=https://cs9-4v4.vkuseraudio.net/p9/94b10e38b25b5a.mp3?extra=LFz98dPnChgLZL5Ht_UUfDAjAeD6klTzI3XvTjUOUHy-wnzmWufeDynY0z3M_9tTXvrOb-2Q8kU3uSKIqJUeJ4y-CJ8P4zhN5SJRE1E49aRtAsX6xJJv6sQARyzMQAhPzFocDxmDjSRzK8M
+Title510=Three Days Grace - The High Road
+Length510=193
+File511=
+Title511=A Day To Remember - If It Means A Lot To You
+Length511=243
+File512=https://cs9-1v4.vkuseraudio.net/p1/39cbf02ff8154b.mp3?extra=M1OQh2xE9f4CP4ZazBk3ESlItRW_vj3v4djV19oAbWchzLcObHEGJl4zKQvnQCwG7RzN97SsVSG4DAdo5d-sQq2_ERdvBifTzuJiJExCUQE1VO5WDWapzEJgykLbqin31N5VWX2Di8imcEA
+Title512=The Pretty Reckless - My Medicine
+Length512=193
+File513=https://psv4.vkuseraudio.net/c5075/u74982745/audios/d3ff450edafa.mp3?extra=JlVn7EjD--qf38owbUNP78KPppSE0o8PX7_IcGYa4wnxoR2ldfL22-xCE2q8vYb7ZCWwmqrwnKnXyWXkRxkklHcNoU8EkCUHvWCFO96SXNjiy2vGrre_GaD6VM21NsLQ6MhW3ASNG4l1FHo
+Title513=Dead by April - What Can I Say
+Length513=150
+File514=https://cs9-5v4.vkuseraudio.net/p16/4b21481fa1e361.mp3?extra=pKrFY5WtrylEuLLi9HQC_R1VIsUqxw-PsR8tPrrLq2y3nsEiLrMrgOfv5LezsBZtghTOVc_9bFzFNU8Ywsgt0L9DFFAVO7hM9pGa6Z_2wj_WhxiT9-sgdegY9uMDMxQocQGZZbd-geG8jDc
+Title514=Thousand Foot Krutch - I Get Wicked
+Length514=213
+File515=https://cs9-6v4.vkuseraudio.net/p23/5859b137dcb8d4.mp3?extra=fh1BNlpNfzTnN6Hf7yZXLKx27PLJHJOknGsgGnEu0ohvwDAIlsfeCGjX3DklJi_8mrWB5A2T4MFy9DMQKaMmY0Q9KqGXe-Lc5OwtmWRNlPQlJrz6UOSv_qMavdeFcIPjMGGV3FGqBzPaUnI
+Title515=Arctic Monkeys - Fluorescent Adolescent
+Length515=177
+File516=https://cs9-1v4.vkuseraudio.net/p10/9eb230f50e2866.mp3?extra=5nDXHoyn3goohpyKFBQo92s16QVLdw0VyP4AAY71lYp0pES-ISaTPx5dT-Izx_P37Jzba-kPdXDSN56EtXhuLvvANrdFUPJ4pd8sXUkuReNOu5ibWYlXGF92zOjwrIxhVaAr23ZU_8wEAXM
+Title516=My Chemical Romance - Welcome To The Black Parade
+Length516=311
+File517=https://psv4.vkuseraudio.net/c6089/u121075720/audios/9998d61912cc.mp3?extra=Cnrlu6bFZxx1F0dKjtBxhJDBkQMc6Egk9UpN3fRF-TNDq_17ogOMqlW1q_k60s2ALy9Xv7LlcQ3UsnHM1hk0G9CLd6ScRDsMUI2-ph0Kg317nfBDtNSFRI3AwChx36kAEkII5gP6-cA2tDY
+Title517=Three Days Grace - Chalk Outline
+Length517=182
+File518=https://psv4.vkuseraudio.net/c4407/u48168548/audios/b545581b4d52.mp3?extra=1smS0XFK_899-MpGS670DIoaeW3Q799Uduy0a1eL74i00-nT-Oujx8U_4OCkWSr0TPSkdlBFqQIrLDFsLkvfz7l5o0lj-se752Jf3Kh2T8pwhmz5hnyblihJoEF4GR4tok6gAMgroCdKF3A
+Title518=Hollywood Undead - Young
+Length518=196
+File519=https://cs9-6v4.vkuseraudio.net/p9/4d6b6813c7dda4.mp3?extra=E5pTj546hyrurx9QwkFG7MHH3fJ99UdFUOez4g3tFF9njFPmIDuVcyn8Ka5AONw1t3GtnSHc1q6zbSFEP1I7dhAxYoM8T5GfSHXjCZytlcCYqI4jyXaUPq_vnWrCtPctMbI1bfygHzE6JHQ
+Title519=Dead by April - Losing You
+Length519=237
+File520=https://cs9-3v4.vkuseraudio.net/p14/01f5f11d46f4f9.mp3?extra=GHXDbZEvOvXjOrEPssc-hRn6su3XfMTXBghlDj5AwS4pnmrfQYwfxgxiKS9zav7Op5ULwr_r1-fuR01PWeF-Ou9Cxde3_vt4AH4QbTOUN93q837O8P_BC4FprVd8HToeyWAwtrPDI9SvuwQ
+Title520=Papa Roach - Between Angels And Insects
+Length520=234
+File521=https://cs9-1v4.vkuseraudio.net/p22/7962d0e22634bc.mp3?extra=cVV3BiUZ4-ec7ziR6uw1ibTNdzwJyqe00YYU26qanvzFdbFpY3PlSf67Eai4ctlSG2DPnC_1kk1L8ozBYT9ovAVwcZsTPSX-b8z5EXg5_s7QTz5hjoBicImVS-GxjwY1z4vv0nHCmJgy2jM
+Title521=Thousand Foot Krutch - I Climb
+Length521=204
+File522=https://psv4.vkuseraudio.net/c4528/u13838299/audios/c263e198e33c.mp3?extra=VWRLyyZ3EY5npgqvd41rXOdFvON9JIN_Ufx0XA3TLGlJm4dUPgEdwAppDbY-RaXPZBtZAQuk1V3G9tdD1B0-d07ltehfRYPVJH0VZJxPlQPtK-stTdYrJWkU5qYk5zrygM5VGtuNZdkEh0E
+Title522=My Chemical Romance - The Sharpest Lives
+Length522=200
+File523=
+Title523=Three Days Grace - Life Starts Now
+Length523=188
+File524=https://cs9-1v4.vkuseraudio.net/p12/71224d1105674d.mp3?extra=cxS4tE4oaw1LE92PEN7h3AggWxVvDfJI6M-17w8XZwvKQ3u45Ya-WdseXXwp149KXPOvzdhSrCXxyquqxljZ2w9AQ5jTFw2rGgJzsL1iXf-lmW7TS4gmSnZrVifdHesO4aD4O4ikdAneP-c
+Title524=Three Days Grace - Expectations
+Length524=163
+File525=https://cs9-7v4.vkuseraudio.net/p4/b2b3198932307e.mp3?extra=35kuZ3Gmvv_mDnKHT0vxOc_5Gh-rBls9rLGWQo_ouyCiSQ0yh4PcckcrMNyuP15Rpp7WJailZeL76sQPMBEAnsUOHkeZyFZgkaPxlsWAzlwpOqd_I_yPKgMIO_GBhj7H3l1-hANC6vs2_3E
+Title525=My Chemical Romance - My Way Home Is Through You
+Length525=178
+File526=https://psv4.vkuseraudio.net/c4234/u2449621/audios/9a240284827f.mp3?extra=loCzX26ZqdkGTpN2wxv0i2wP8OpXTwMkrO7AQegZWRSRf7mbaD5vFJWoTHz-T5fwFWVM0TlAdXOVyK8ATFufd3aUPAYOWetMRcHy0Jg7iYQMN9cb0HjMb8pmqAimDGr_eR_UEYjxxtEe_54
+Title526=My Chemical Romance - Cancer
+Length526=143
+File527=https://cs9-14v4.vkuseraudio.net/p15/2b4e0657296644.mp3?extra=KQE03ItZra4Gn13jhmFzIsmh0DG3RwBZ1qD-e6YKX-xUHlOAXP_CrZCmWEILhWEeNBbQZSVCJWxdeZuac6OwNUilbPhXicgy79XgHjZPz4aDsHcpCaPSfsW2c-5En8BbN26gOAxPzm-qhY4
+Title527=Kodaline - Talk
+Length527=268
+File528=https://cs9-12v4.vkuseraudio.net/p17/540b7fd7f0f78a.mp3?extra=8ai5z5CAre54feqLcg5SCfYoGeDOqsrsAKDRvuMO3p9pmSGLla8OSNvHX9mR3Pn5wDzlm2AA1MlnpWwGHcqQnJ10itbdMWyMLgiY2IOXEmgSG2L3IZC69AtPzM9LnvHnzkcNFjy7jzm7mFE
+Title528=Kodaline - Way Back When
+Length528=438
+File529=https://cs9-18v4.vkuseraudio.net/p7/95ff227bd8c061.mp3?extra=9aquekMdFNW7ZNB3yH0vxJ0bCiiiUr6H2ycIwsGWzjJ2WF3nL0X0YJReiU1phgTdmO3pZQJQXe2wxmeUdtaHUvYIvIpS4x-gw_dViSv4Ufk4W5JOOlBLQTmzh57ziOJhdLHoc7VcZYhyN64
+Title529=Kodaline - Big Bad World
+Length529=281
+File530=https://cs9-14v4.vkuseraudio.net/p9/90f715b8d8e3cd.mp3?extra=BNnksebxzIF02oYBrk69p7ucO9_gUWJnFC9hK_3qfxtg2MmJtm3yh0y0_aTPWey32e2Ri200CusmHb3onNbN1XKOR4FgKfA-pJ7_ZfDYbsT8wNUErEegeJZaG50JJPL4gVcIK4ouSTrGets
+Title530=Kodaline - Love Like This
+Length530=217
+File531=https://psv4.vkuseraudio.net/c6229/u51894838/audios/0499cd1f7958.mp3?extra=KE-fHz98RorZPup2lvWKoFr5-v0PyKBHfrHNABAKUXyVbPtdjo7MKFXR7VVGNfKEy3odnXuoUCCzbE3rDHlMVuOEczTPLhcoVTmG8z3pbjjdRX87JRfqYG9Z2_En1PPiIs8-q-9GSnzJuqM
+Title531=Kodaline - Perfect World
+Length531=172
+File532=https://cs9-5v4.vkuseraudio.net/p5/603705cea76eb1.mp3?extra=_9BVeWaPHJbl7DonfHw5fWgnjY7hUjYuBwm3AIgJqn9C1x1dbfLHX4cpgpVc-XX642hDZGA_QXz5ehpwsGmHlHXVM3eAmpVOrK6b4PhwKPOF-nsFvo4y-k0l9fzyaUBmd1_jxPFihWryxLY
+Title532=Kodaline - One Day
+Length532=255
+File533=https://psv4.vkuseraudio.net/c521214/u45394304/audios/5daed087cd8d.mp3?extra=9Je5JUZOwunjOKkI8wXEwWGztA261ljv0QqWPdsk9pdMQHgYetQO1xSyZSIUYgDr0Rb7iaRSZJe-cxu656ZAu5i1k4sfM-qNJx_MD_KXUu0nep7UJFO6G3xX5mn-hbcQL5DNEJODBzoJjI4
+Title533=Kodaline - High﻿ Hopes
+Length533=232
+File534=
+Title534=The Beatles - For No One
+Length534=119
+File535=https://cs9-12v4.vkuseraudio.net/p1/4257272f9e88b0.mp3?extra=ZNBXpADJL2VdCLZm9zLVAvve0OAqoE7otdxwrEfMDfVsR_aoamtXj29YqqOjuM5TJJNKuEukPOJsIKUebL0T993wATygMSVG_TaASgxR5F3DUgt_7uCH8BM8iupuOZbIGi0Vou0gasj5DIw
+Title535=Arctic Monkeys - Too Much To Ask
+Length535=128
+File536=https://cs9-5v4.vkuseraudio.net/p22/772429e994ad22.mp3?extra=ghaxLDPV5buOuF7-rL9tcayTZZpOyLC-Z5z5zLRcDStJqN4dqq3QpB7Qz6fkEV54P2s2G1a88Had6GZuhstcAb64KlZ_2SJWcyWr9I99rTRuNnyl_uK3A8jzs3I4IVU0o646Y_EIAqMCr8s
+Title536=Arctic Monkeys - Library Pictures
+Length536=142
+File537=https://cs9-12v4.vkuseraudio.net/p14/6807aa6f58dd68.mp3?extra=cGjYBDBY5TwltbklfRzri0l4gBM-Uhz7WsiDz3SutMuGRQlWzyLxA_tpeBB5WuNqO9Rj74NYJ0hY2hWIfUEgjf7-pMW86kcaajH4aXlTjU8hrfUhceeBSWDLEk8NvGa0HSPMrPTN67R47kE
+Title537=Arctic Monkeys - Baby I&#039;m Yours
+Length537=161
+File538=https://cs9-1v4.vkuseraudio.net/p12/704f70c779c537.mp3?extra=3R4ZEzwe0gT6dIG0P_8QZqLPP9hNq3_asN9aqvAFlKhlzZDL4hTUtGF7hu0FV34k3qGmfeSuEHfDu8vWtyqHJ8jW1mHwE0mDScYQMIoNzVAHGyTbuTCJTHxVcvhqMpqy4CHBstDMUWEGkPA
+Title538=Arctic Monkeys - Mardy Bum
+Length538=175
+File539=https://cs9-4v4.vkuseraudio.net/p9/cc460b6d2ed65e.mp3?extra=3diDsR9s3SQgFORUs5mDtWUHmJYq7xxaaWY_U8cXVfiX8asDc1V1JO7Ki_6JYDUAUM7peKfOt8fp8ouZ_LfjW1uTuGMcE5uJ3nhIkvgkNxFlHdqkO1_b0y7gveK4uoRvV-IWVeIpWDq2wHg
+Title539=Arctic Monkeys - R U Mine?
+Length539=200
+File540=https://cs9-7v4.vkuseraudio.net/p8/1b804618571faf.mp3?extra=o8K3tbBVmN3JRUBIOzDFURhxPdaRPPWSQdba0gUa_THqmK3TNbs41C-OI-rR1UWaTzcIEJGDuiD0HEK2p8_u7kDuq-NG7Rt8uvqUiAol1DIcNNh1wlngXKOlMlrF8F-WSniEtBAAWJyrYcc
+Title540=Arctic Monkeys - When The Sun Goes Down
+Length540=200
+File541=https://cs9-1v4.vkuseraudio.net/p13/8aea437e4b82c9.mp3?extra=K9thZMAiU-fch91joJxnMlww4V8wieNuwWJceTcGwQ_DdFB68cOGbYgmH4i9CK7FO4Xpu42CZi7lgnvM73f3uPw3TeAja4KmnBmBG2eRLbSgQEJBptY33sHlnTPa1Hrfzx_UO1Z3SOjWDBQ
+Title541=Arctic Monkeys - Old Yellow Bricks
+Length541=191
+File542=
+Title542=John Lennon - Imagine
+Length542=185
+File543=https://cs9-19v4.vkuseraudio.net/p6/9f1248e8bad706.mp3?extra=tC68i6eGpEfGJEEDfiyKKpgiSZhiz2CAWPgUxWWK3fDHL68PAsqYDg65z72HcUPzg2sV1RjMx2uxo3chqO85SvdiRGC4RTLpr-ELL_mKxfyJ3jX-pdRxQqLQlsawX0e60_v6j6CeZl2yP1k
+Title543=Breaking Benjamin - Follow
+Length543=197
+File544=https://cs9-4v4.vkuseraudio.net/p18/af326f0213e2af.mp3?extra=lV8DkhoYUSsAwt6Kit0I782zdNJpGrY--uBDYUguLsJ2nxNe5j6x4oaaswfq6nWHg5iqtE_QFC6cFH_INrYSoo8EgOBKxLrOLS-BCTRn03lGXO_fvqKGt_HjgOTSJ7_Umv0rqG5BVxKayxQ
+Title544=Thousand Foot Krutch - Falls Apart
+Length544=215
+File545=
+Title545=Limp bizkit - Behind blue eyes
+Length545=365
+File546=https://cs9-3v4.vkuseraudio.net/p18/ebd36aee9971c6.mp3?extra=qiygglVhHYshLvd9zQa0lh-BOQ4UUgE72IfGaMDhSBeFaHyoZWnF8nP-Dy1VUvHDUyEqvnHXrwUuLEc5ncsb7l11i6ycXQ4pP59RzkgHiCUkTqOC1h0scVjt4z_tnp4Vq3FWIlRnR75tEnw
+Title546=The Killers - Who Let You Go?
+Length546=222
+File547=https://psv4.vkuseraudio.net/c4955/u76048645/audios/1878fb065c95.mp3?extra=hrYE2rjhVN_XDkDrOISoDyX1vIxGoHeTDXexjECKG_0WjXkQg4JFmOpYC7fWn4KCDV_d6TtM-iyKMMc92nTLgpInFsL7DNmWy6C1nVzaHscd8zhVY0LqRpLISDDr_Uau3k4JJDunTtVIDkI
+Title547=The Killers - Human
+Length547=247
+File548=https://cs9-1v4.vkuseraudio.net/p24/63866c6d2b65bf.mp3?extra=Tf1KN8KiS5SOfR6GL63eRc3p7a87ufh4sSmeWycqk5HclMd9sifAUTQa22w89ul2zfFlq4FJ9gs5BileE77-4rMSAWt5Z0ptutd8-k9khbjgplhGNCRJbsNAEMoqotEYl5tsF-5AbngSR8M
+Title548=The Killers - Change Your Mind
+Length548=192
+File549=
+Title549=The Beatles - Happiness is a Warm Gun
+Length549=163
+File550=https://cs9-4v4.vkuseraudio.net/p19/8f6ece5862ad48.mp3?extra=9lyhGVKqIwdO4YmUMADXr3tyKRUD58qF-2LFf04N9S8xSCCfEnn07vOfWuGgfk5YoO0aL0OxQdcpUXDOGeedfusPGuyLyWUOGXitYjIySjCxgCLAn423tcBGIhqRMDpMfd-GWJVi63aj0SA
+Title550=James Blunt - You`re Beautiful
+Length550=213
+File551=https://cs9-1v4.vkuseraudio.net/p16/48f959159b1aa8.mp3?extra=_4JL0rkGbSZ3JyPoqqWSSoHwjCqw2jftm5tUXGSAI_pd88UcRGsOhjFzbg0H8fIlbsCkqhVj6HOgNGeN2g7efZk7u1fnaHkLqRKsULx5Q2_QqE6SBoKJlrAxp4obkL4xfmOEF7LRNef80B8
+Title551=System Of A Down - Lonely Day
+Length551=167
+File552=https://psv4.vkuseraudio.net/c4967/u88523638/audios/3db483b286b3.mp3?extra=i8lBQFZGgyr9Rhh8bZJWgFhxlJPAYGlL0SRvTaKAWH_OMdjuy-u3CEuoJJHNSUJZFok3226sIpZvuv4-18TohWqmw03nl4V18PPTYDNm-MwPm44-BIM87XlstyZAjqCgLN1s35hk2L0Snsk
+Title552=Thousand Foot Krutch - Watching Over Me
+Length552=258
+File553=
+Title553=Three Days Grace - Without You
+Length553=213
+File554=https://psv4.vkuseraudio.net/c521100/u3692756/audios/600d295b9402.mp3?extra=TgNqy-6WYW1lhR4ToaHBQPStlZo7LaMb3brOSN_tqQ_4lJOkfP4reVo2CA3za3LhaEMoOhDevtcMecdPvoA_Bqzb5YG01YPH2j2THzkQLHG4NUytdoDZd-3AGqZFU0E-NuvTgdCmQxc0FkE
+Title554=Low - Amethyst
+Length554=320
+File555=https://psv4.vkuseraudio.net/c4593/u6470447/audios/aee412dae34a.mp3?extra=qI8DAiOrLq0ACy6n6xQydc3dZzIB0QUKDwfoDwqQl9DeIKk9gpa-eSUZpOpTm5ub98Nkq1xKQ84j2BO5R11gczlQHx0rqb3Gf5W-Lo4aEXY18sO010O3QNARMnvJ42J2b-iRPShtl6b2Z5g
+Title555=Low - Point Of Disgust
+Length555=199
+File556=https://psv4.vkuseraudio.net/c521100/u3692756/audios/55643731fa13.mp3?extra=gZVALac8-lkfdreRR6pmQYqSJyAHxCMSmSBPe8N0JJjONz19fjks5HU_Q-vYd0g9g3z3556YeV_ndS8EgASZ_CZLI-yHqXDCHwgb042Vc9ahfoBhrHeQ1vx_c6fyBcKJqOR2htmYmrtyp8A
+Title556=Low - Plastic Cup
+Length556=181
+File557=https://psv4.vkuseraudio.net/c1380/u143202/audios/0b18d6c63213.mp3?extra=UY0hVAr17tMFu3QDPhRtRGSU4Ut8JWY0-Ssw4vE-3UXrfqOVxOG5Jred9b4qzpiFISzCmOG_nQDkgopPNKrESjUtwzQNplf9z3kR9UJNSrio0SCpIgguRb2UHiKC7HHV9DRJUXBhlDbuGmM
+Title557=Low - Point Of The Disgust(Effy)
+Length557=205
+File558=https://cs9-8v4.vkuseraudio.net/p8/2ebac18e733c47.mp3?extra=_HKMbMsvEnKsTrz-pNIrTHchQ5gfJMtEUc693I1GHfVRoS-6hCzasYMWfWg9xwydLFH2nAzgOZBG04iB2BJ1Z3m6A1peXmyu05yXttEdt1_Ya7kx-0VHpe4gy4dV6TOmxZvSlVf6Q3kte90
+Title558=Low - Sunflower
+Length558=278
+File559=https://psv4.vkuseraudio.net/c4848/u1962941/audios/51b1880c0950.mp3?extra=h7BRi0asnTBLCiLiN06N2rgvbZy8isv3eQk10zH5A4yvDJIA0eJigaKJEtr5SJ1U8xsG0S5AlX7TEZF6BuSoZptkEPadYaMi-njgpXrFBPs5_25FyNctmTytccR9z6e65A_QPdt234YL-UI
+Title559=Low - Especially Me
+Length559=329
+File560=https://cs9-4v4.vkuseraudio.net/p22/2ff58afeff399f.mp3?extra=xbYNwDHaRe_ZdV2nHCEX49m2aoE2h1XnLhnfUyncYQxmE-z8uDxuXqzJJ0VIm3gT3ZSh5imv9FoBP3jWxBmZBim7r6LsMHg1cq1IoNte5A2wnLhZb50mkyhlrZJzAmPPfM49355wwHPOnIg
+Title560=My Chemical Romance - Famous Last Words
+Length560=299
+File561=https://cs9-5v4.vkuseraudio.net/p4/552abc25b4361a.mp3?extra=8QydZj6zDNJuL7NEVVeIppuQbVgkbw1HQtKEnTjozui0Mbu5_mGzeV8xzNz2oy9oOa2hNrjNwE8aNm_LbhWdiM1TB-uj1Z1dc7uS4V-Q_Ey1JYyDrPxNqCqaOS8ofi2cwhi_bAS4PGW4fGs
+Title561=Red Hot Chili Peppers - Road Trippin&#039;
+Length561=205
+File562=https://cs9-5v4.vkuseraudio.net/p11/f52bdf1bee4d17.mp3?extra=D95FDULvUGWj09Ji6FydnaDEV4Jufiu7ETg9XFhvcmfl33FJBPujR_vcYBDTi6luLzZfd7Vy7m9IeHgq8elGal1CVU6PAkVBIVZFMFnew1atsPPuyYQq4hC8gm8WKwV-w0Q4hoFmnIC_VMM
+Title562=Red Hot Chili Peppers - Scar Tissue
+Length562=216
+File563=https://cs9-2v4.vkuseraudio.net/p10/f9d5f476d5e673.mp3?extra=VzfRwQq0gEkH3LOi37lwweg4UNC0TSea0O8RFGUXMLCZEeJ_hi19AiEb4UUqdAxEUmctAW5wwYlMYeay1q2bCJlk75kmYzJBcuiA1rXFOpaOXimGFh5OJxjsodrL5Kh279LcOFbea9TMiZ4
+Title563=Red Hot Chili Peppers - Otherside (How long)
+Length563=256
+File564=https://cs9-3v4.vkuseraudio.net/p19/c269e3d2f43d8d.mp3?extra=o_ijXOi0UjuCwxlU7NSfrcNosRmNDHOQOgdnlI3Y0AV0x0zgsMjREmZjyoxFAcGCN3dFk6U-t4NbA7n5IqmWBpGLx3YHLAySOz3Y71WziyN4Ej4VSPBTqvFeO6y4o6xtMUJgHePe8bFHdGo
+Title564=Thousand Foot Krutch - The Part That Hurts The Most (Is Me)
+Length564=239
+File565=https://cs9-4v4.vkuseraudio.net/p6/aa4363cb41dc0f.mp3?extra=fOJ4-We5Th4ed1bK5DgrWad_iPoqRDYhtz6ZH7oIlG_NUxYSVvHJ6cKBegvzIjxbHdm6VOoghthLWL-4RGogpk8wkIvnS9VUwaGO3-cRHxw3YnF69gMPFazomWAWbgIM6nocN6xIk5Jhh1I
+Title565=Bring Me The Horizon - Sleepwalking
+Length565=230
+File566=https://psv4.vkuseraudio.net/c4898/u12326845/audios/c45b665be518.mp3?extra=xEoSvohwchNoSyX79p7wsAwjDu6KcYRmTvfQZjnXxmdMsomgHhY-caCssmMghZ7-av5co-_8JRbl__ZnRu6RfBIMTQGi5-YrUdjBLKWv8WSDSpFFiI3ANs1SkZ4BbNF-bElKz2uhaCM1ssY
+Title566=Lostprophets - For He&#039;s a Jolly Good Felon
+Length566=189
+File567=https://cs9-14v4.vkuseraudio.net/p10/599d7d7f95ae8b.mp3?extra=i5Ea-sq6mHRijkaEmF0XfQwAf4LVs3UGB9wg8NH4HOanhE22mk_a3j3H2xoFhcpT3VC-My-e1IFBZNgKM-O8wJJKQCtyKJjhT9ZE3Nr7x8QfzSI2jvbFdxctVMNaWbT0063-fc7T-cWY58U
+Title567=Red - Already Over
+Length567=262
+File568=https://cs9-3v4.vkuseraudio.net/p14/615e271cc073c4.mp3?extra=haUqPzc9KbT4kYVYOhNhTYjNeQ6ARX7DHN2a3mk1a-n5qjU7bwYiBLZoYJc7npRblXycfjKdkKR3mJ5810DxouqSrxIkmJO1EaJXKKP1yY2REqjjmq4YT_UnPknQVC4eK_rcv8gd9096-9k
+Title568=Three Days Grace - Unbreakable Heart
+Length568=206
+File569=https://cs9-4v4.vkuseraudio.net/p13/9777c557d697ae.mp3?extra=BweRblj8rHdZ9Ymp8tqVQnZXCmZOuWWAPC0xUqgjW3k-zGUk1djaZUpSyaiP11wLwfdOqFpRIlvwZRP80DosRT4z60j7i8ixe7i9TgKFAwwEml4PreZa6w2IExPoX0m3vMtWmS991mbhft8
+Title569=Thousand Foot Krutch - Outta Control
+Length569=207
+File570=
+Title570=Breaking Benjamin - You
+Length570=201
+File571=https://cs9-6v4.vkuseraudio.net/p10/2c9567f51ab5c2.mp3?extra=mBnYMiWXw1MEmiVvXCYZYmJBG6459jDlLG161I5-dBJOn8dTaUnHPXwBbZGFzKgLOqkLF7Xd_eWvwUpSuCvunD-KkEiD76FojEqDACVzYK4Yigg_YOPL9lvH7tk6YwrDHYWOB7HkDRihxsY
+Title571=Three Days Grace - Give Me A Reason
+Length571=243
+File572=https://psv4.vkuseraudio.net/c4522/u4262145/audios/034ad2d083ff.mp3?extra=OIK2Z_hg11Hjj1oYIr-Pbw-KRuik3Jw95MuGWIFh2h4s-0eS2K66X3nfFX4htXZCGQJRsjhTFT0Pq3MkqKuA7r6Af7c2hi0MX239wbN-vyv6kKGRfppzWrGsK7hqhGRp2fvX2zTR1HseP8Q
+Title572=Lostprophets - It&#039;s Not The End Of The World But I Can See It From Here
+Length572=259
+File573=https://cs9-12v4.vkuseraudio.net/p14/b2d0ce97310e29.mp3?extra=9BszIyYFpBsJyc-oAzfgk5PD10LSzEQ0j0Env66S60ICJLZc54uRJF0fTfeB2vPHlDbNqrStk3XQuiOids3vDUkyItSw5p6dD35H-zfzjugccWH9Nbl0i1kS0bLfaDycc_hEQFdW1ZPBJCo
+Title573=Lostprophets - Somedays
+Length573=222
+File574=https://cs9-2v4.vkuseraudio.net/p22/242f3cdcbd3d4d.mp3?extra=in3n730pZnmss7TgjiOY1nWjJpoRYepkAXM28ggBdxQ1uTc7Eu-6TaCaXc84uDasjdxoN4qAQuG3Yfax6f0vD0vJYYM4ffKPI4sWbBrnXq-CDszgm0MsEHRziDwOG6Xgi9ZTRQM5rnZCddo
+Title574=Lostprophets - Cry Me A River
+Length574=299
+File575=https://cs9-8v4.vkuseraudio.net/p14/624bfffa07025d.mp3?extra=ypTxD9U9kJp45M79x50C_AlZPV0Zr7f3cY824H9na_D8zhd5Lm_rIvHwbvHa1pmsQDe3FGk6kajwY7SroLJoFhf8trBKWwR5S6DZJBml2kBEuxiTckmQKd6vUfp48WW49HlThpioh6voTfs
+Title575=Lostprophets - Last Train Home
+Length575=275
+File576=
+Title576=Lostprophets - Sway
+Length576=265
+File577=
+Title577=Lostprophets - Last Summer
+Length577=247
+File578=https://psv4.vkuseraudio.net/c4659/u7737539/audios/274106bf9a25.mp3?extra=6b3rPvNH52BJf4PPJl33NrPvdwOtoyMJutd4DD903bnsKSwtt0Go0BbDYnt68ywPEL0lzPizXYWjDYBFdnh9J6hbYNxiKLd8hsTpsIUm3e01KVILTS1FdwT8OXWbQvlJi-KyeZqhnyJNHP8
+Title578=Lostprophets - Goodbye Tonight
+Length578=234
+File579=
+Title579=Lostprophets - To Hell We Ride
+Length579=220
+File580=https://cs9-13v4.vkuseraudio.net/p16/e229a6b8464a25.mp3?extra=BKOJqRP5mJBn8_KAaLPkupLmL7pl9_Hwhhw0AjWp4r9ya4h1EsKuev2oDKGE_xG9xSH4yhyCjNWTnUkbdkWKvJuK_eV_5vuv8EW-Q9WBobteh5Ez40jkAZkvzaZizBqCqhfojqmgJRT4Y1c
+Title580=Breaking Benjamin - Give Me a Sign (Acoustic)
+Length580=256
+File581=https://psv4.vkuseraudio.net/c4614/u84298245/audios/215fb6f4d7dd.mp3?extra=CeF0D-jwvdfISqdhtBKn9W6NamjfPWFJKu370ABaLk9wsEeNcIGCFhvjZdayHWF41dZmzoegtXV88AvSuKOErClxNYTKJN2c5VB2t3hQsAZFyt2ptFT2SzXLofWm8CWLqFoihYacj__-JP0
+Title581=Breaking Benjamin - I Will Not Bow
+Length581=216
+File582=https://cs9-18v4.vkuseraudio.net/p14/06ff0db125f163.mp3?extra=-LMoKu9X_kfreAQsSjf6FfR-7xh1ZUUaBc9XDmf_5AQkytQPyk7CPg0udUwDjuS8U96dRIbwj3LBniLJJdHcCYHFqygA3Fy2-ElQiU5SpKeofkdjToPHWj16B_BhnF6WPY_GA_KOmyYqMiY
+Title582=Three Days Grace - I Hate Everything About You
+Length582=233
+File583=https://cs9-12v4.vkuseraudio.net/p23/7706c61e8a4469.mp3?extra=UN5sIimmwDpT9ztZrh7SGRgSkppdkbhiBqMt97A0l_DrQrGVTgfuwmFhjZXPLoug1QRalR0TJfgLorUNY7IKpCvlmmfS2J5biFz6DxoYk4YXoXDjszUm5-JR8n8TJQUoqwX1h988F_Vay28
+Title583=Manafest - Impossible (Featuring Trevor McNevan)
+Length583=238
+File584=https://cs9-6v4.vkuseraudio.net/p8/d56fdc0d8f91f4.mp3?extra=flULu90aiwNFDdPwg9BMG0diVUz9jrDJTMXv64I8xV9cFCxq8K1eeaHirwX3GCkVgo5H0eIlytYHL2o3ODDCP99ftQMKsSBCnSC26W9Wdog-Z5fo-_KMR8XwDSJpLPljHSwpf5dkHPeF9lY
+Title584=Red Hot Chili Peppers - Under the Bridge
+Length584=273
+File585=
+Title585=Three Days Grace - World So Cold
+Length585=243
+File586=https://cs9-2v4.vkuseraudio.net/p5/cac63ebe2dd41d.mp3?extra=P2sn-ajlj3UBr2B8jUMDlkLwXSQI4sF1VvHF-hM2Q5jVnmYUBA2vG5L4hnBQMiVWzMoEb8-4DR7n1zZV33A_rrWiuFwaGOblpVwDGtjwqgwpUtBx2x4GzvRLlg6svMh82oipeZ-zHOoNYAI
+Title586=Thousand Foot Krutch - Bring Me to Life
+Length586=219
+File587=https://cs9-12v4.vkuseraudio.net/p15/8cad82d89bef20.mp3?extra=dLiFCVkwuhBmxexeX2zvsAckTtX__q-8pdg04Rc3UtPUCGRNHU_bvRJEm_8uVpfADH6NP1rUYaDjJgcJtyrfFbGSB7_-JHnI_iUWaiWoMdgZ28Nk0BkrhTJLD58uLJC6SRRJ21NT0V8tk6g
+Title587=Thousand Foot Krutch - New Drug
+Length587=163
+File588=https://cs9-12v4.vkuseraudio.net/p20/832828b3b1457a.mp3?extra=DpVO-nG1zyoCJYdPqJ_jJ17UngCk98Cy_5vMgsW90DDvhQwa1hm81G7YXrRc2qnww-og401ywyNaK1lJy9UaDsgK2dyin0lS7nyc4Xag9edyStl1L39ebHy_bV8j8OPL5m3OkBmdQvf3bVo
+Title588=Thousand Foot Krutch - Already Home
+Length588=270
+File589=https://cs9-2v4.vkuseraudio.net/p22/a7443e7cd926b4.mp3?extra=UHK3KnlSrLY3GHdmemIWslVRvNWu1ve3ZNQcTlmziE7htDLeMZ4qKhQf5I-_q-j7O-ksL-3vVNDBWmvRbvtfv_4N_T1gOFbzccjzSCLQlhKHbf0x_Et8bLfuxmNYrdPpbtYb0abzZguMTCA
+Title589=Thousand Foot Krutch - Move
+Length589=206
+File590=https://cs9-6v4.vkuseraudio.net/p12/dcd259987a3c82.mp3?extra=cLgDT1dL5FwJb1vDHw1GVpGJYBZ9NoujWj3gqHqDwjqXUyB7lNAPh9LOsLQ4nL027uqcCdSzX8DoI6AKGyNikUHUQknrkh3Y38f7y4Yfni2Srr0dYO9qIS7OryMOMBdjidJ8P91oaVGnrik
+Title590=Thousand Foot Krutch - Be Somebody
+Length590=222
+File591=https://cs9-6v4.vkuseraudio.net/p18/94b7c42dd8782d.mp3?extra=mlk2hhiq31ywN0cv9XVjxLwYrBjIzmgXbxgiQR5phR4RZ9gTQQ7TkWLsrMAhg9uqY98oj__sLex8hyeuALFLoRJ-1We9XdXExzu3GdmP9TzGTzfZXSgV8bS4FTmCAsgAU8P6TRRoJ5ARTDE
+Title591=Thousand Foot Krutch - Shook
+Length591=205
+File592=https://cs9-1v4.vkuseraudio.net/p3/fb73bfc2acae9f.mp3?extra=GIRI3fErGWds8ESdYY9CxJo17sAbsn9dCRHMdW4jTpD28BnM7EFdVfm1Ce-Y_cRvde8WtdGqOR4d3GtUkTdCedjN8tTsfVoXbIye7RJqYqDV1BraXu0kEHevZXm8SMswcyLGHmeGUcfJQTU
+Title592=Thousand Foot Krutch - Phenomenon
+Length592=179
+File593=https://cs9-2v4.vkuseraudio.net/p5/2d6618b09ee1bd.mp3?extra=jz-iLkmbz0r3xw-dgcgXfzuo9_NtKQ5Kx3KXbKG2O6xPCW53ZkrFTXHy8RzarZXNbAzYjrOVSgyuIx5UoOwd-W5oAB-sMic2GnLP2KTpmU9mwdwBkw7EXKgb1MIx5qwkeniWoP6z1IvOMlg
+Title593=Thousand Foot Krutch - We Are
+Length593=198
+File594=https://cs9-14v4.vkuseraudio.net/p3/b36ac6a710f691.mp3?extra=T2_Q2GF7TPt2JPv7-eznW3kN6cCooXtxTRB0I_jrHAiqTH4hznmznsTUHeflsTcfDvW8Pm3z95Pv1Rp3s7JDBOW4qGaAfGeL-nmxdxq70GHulZVWhZL2qpgPMaO9aVZyUR5Zd0Xi4M04UXo
+Title594=Papa Roach - She Loves Me Not
+Length594=209
+File595=https://psv4.vkuseraudio.net/c6178/u47402845/audios/a3360b780540.mp3?extra=zkiBlfNTOjAstLjybEQRSX1LEOPFT6vvIOO9cmXfhWVqDbvq7SOsEm9m_f1UtAXZl_sxLN0rUBJP3n7GN9pkEw-JF_AbN-hZycHqJ0qx-ChN2y6ayDdZmN-edcm24Bptwu6lYyoTIST02oo
+Title595=Three Days Grace - Broken Glass
+Length595=201
+File596=
+Title596=Three Days Grace - Break
+Length596=193
+File597=
+Title597=Three Days Grace - Lost In You
+Length597=232
+File598=https://cs9-1v4.vkuseraudio.net/p1/dcee85f569d852.mp3?extra=3ZmBqLkhJvx-xfv7HCZlg1xtRrB1AWvgImTyJ-DnTJUGhM7XV7Xz5kOGznrqrSRj1hdIdrq8pt82VLj52c89NBbDPLP6Vj33veMGbzABIR6gztGkEnJxKTglEWo3HF_qc6lIAQwld-q2Yxw
+Title598=Three Days Grace - Animal I Have Become
+Length598=231
+File599=https://cs9-4v4.vkuseraudio.net/p13/60036cb95a884a.mp3?extra=_ROH3CCgjKLpyDJfq6-FD_nL8SKXiUM4QVkTFFttpJBA0oksos4CLT4cofqy7EkRKBdtDls2XdntIjGzoDMv0X1paQwp1Saw7rsqf5P5a61M7jqzeZsbfB0RPYP3QyKY7Ud4WvFh1fzOU4o
+Title599=Three Days Grace - Never Too Late
+Length599=209
+File600=
+Title600=Three Days Grace - Someone Who Cares
+Length600=292
+File601=https://cs9-12v4.vkuseraudio.net/p3/9b89134108bbb5.mp3?extra=QqzOSwrwHMPInNvyykPfNzgJ0oVB2s1wQBZt1-2MB-2Yw8w1pZgnBXiJk94Ekwf2T1VDo7AIp5TN7FMZ9sPgqJElIUfSuIJ9MycMI_NblqXy0atX2lsiLpansn41GRaPOysiVdUIF-GA7sw
+Title601=Three Days Grace - Operate
+Length601=202
+File602=
+Title602=Three Days Grace - Last to Know
+Length602=207
+File603=https://psv4.vkuseraudio.net/c4625/u6583354/audios/e603a071e908.mp3?extra=NItb6EKXmUcGGKLUW1szVFXjkm2Lr6S8m5k-Ggex8C5Vk-981ML0uwLTofmYzYJNat_O1koVnKhUbQQkd7W2zkh_0drg_-xWHv28GLrCrQm0ua4VqB-zrQEtOO_2j_wikjCVhOJMeGVyeAg
+Title603=Papa Roach - I Almost Told You That I Love
+Length603=191
+File604=https://cs9-17v4.vkuseraudio.net/p6/4f39516d95a3b8.mp3?extra=yttilAXCbvC_4_XYgCKMC5y_fshD5qvSXk2Di89LeXhYiDUUuzlVr3N0dS2s3qE6oLNCCSWx1hYyRVySZax-3dfm_2KRXgq97Rkgpk5z7oKnBvvYikSRwhX8v1WGNmWl7sljrH9RJqzGFL8
+Title604=Papa Roach - Done With You
+Length604=171
+File605=https://cs9-6v4.vkuseraudio.net/p6/e3028f5da9f983.mp3?extra=pbN0jdARvlkcyD0pGPOTXzY8ykHxhAhg7hrhjFP2yymFdxN2lsW1b1yt8bZfXeAKY9x1hlMqSKbzz7cvruPaif4IyfBpGoJGIi-TQktCFWhNYdlqhiy0GWLaUUSHx-etzZYWyFRZ0bQd3gU
+Title605=Breaking Benjamin - Without You (Acoustic Version)
+Length605=222
+File606=https://cs9-11v4.vkuseraudio.net/p19/b9db3063d7c607.mp3?extra=wgwwMSxoKG3vEabHSbqfGYa5_rvi5gnt3rWa1nZwvPwaOIXPzQz3Gg0XXJRdRlOyPiSXFxlxcE3jCzDfkZfxo6gkjLybTqyfLM97umgFuRQPIKZGvBXfsOiKOKm4kOkj2TWwb8JAHOEjDg4
+Title606=Skillet - American Noise
+Length606=250
+File607=
+Title607=Pink Floyd - High Hopes
+Length607=512
+File608=https://psv4.vkuseraudio.net/c5006/u618794/audios/0ffbc4e31843.mp3?extra=RdXJ2E3vUsH3ogM2c_GyWVgfQ7hn0WyhiCR2x2cRKE_VuHrrkQg39OtyxjApkzHpGmhIAAI0WR3m30hQVT5_ZMGwKBNVSr64i8y2STP29ZMmdS35sPN3ef-MZ5MFdwoiJvqL02HnndLJj_s
+Title608=Beulah - If We Can Land a Man On the Moon, Surely I Can Win Your Heart
+Length608=197
+File609=https://psv4.vkuseraudio.net/c4592/u13767129/audios/a4ff0ae3c8c1.mp3?extra=8cbdg2hqPQqiXXAJH7M9AuPnfGok4pTQvcH4Hc1tSUIzTmUjNhHWF8vKFr7kZlq1_ZYKCH3jOF99qRw8ekSqqD1RjYr4J5OhAfRrmQIqC3KYtg6D-G3fIYofd1Lq7KiCChcScjZbJL_jBaY
+Title609=Standard Fare - Fifteen
+Length609=194
+File610=
+Title610=Дом Ветров - Кошка И Дракон
+Length610=316
+File611=https://cs9-4v4.vkuseraudio.net/p1/21aebab05b3311.mp3?extra=SyzFbJh5idUvjp-Dm82c9-9hIqTk8QjLAgd2tTqz7fnq460s0DHee5vu8hgHvnSLA_u5iIPdb9JkHURAzvuiJoIjKW-qRo6JsButBzvNX_6fUKVJkdnbmx7FcUJGxGcxiYjaXjdijOCikkA
+Title611=The Pretty Reckless - Just Tonight
+Length611=168
+File612=https://psv4.vkuseraudio.net/c6104/u120503683/audios/94db0f4f44f0.mp3?extra=nTg_pv5RXQHloxGGKmol2BjDQBnPu0I8P1whIxKrKFGIdjW5-9oxYGvAjSLvHltmYp7NZcThetH6q_FjcHA-eoOLPWD6cF-2HRSQmV19GEgElnPN6xRYVLKh9zaTkGtvP9JhpsN2yN-zNWM
+Title612=Pergamum - Classic Metal
+Length612=322
+File613=https://cs9-8v4.vkuseraudio.net/p11/ca76629f72b218.mp3?extra=CNeTt0qtuCSjXGQE1lQgGyn-Qrpo8GMz78kk4VsR0RcSph4TNT5rdMjK96Sk_FWdymSVZ0sUd2iGdus3RwbxJ_Ybor2Nuxi6a4kb7Fg-se-qwiRXSidFbIeRhPw56Fca9of8eyzJXFNc9eA
+Title613=Nirvana - Drain you
+Length613=224
+File614=https://cs9-1v4.vkuseraudio.net/p18/9ceabd3175e000.mp3?extra=7CVSpk9zHBs7OOQmTXoYmgMsAeiCu5Ba13biWgWMOWfg8WCwbAf2_CfrGvP9Q5Gq-o-5fkUeQcPM2ojBgd_aFBEycqnzypEfqpMFtYHgydFTMtqyvEccCWkRw6MJnZcwGADqYzqOAR-DY6Y
+Title614=Иоганн Себастьян Бах - Симфония № 9
+Length614=512
+File615=https://psv4.vkuseraudio.net/c521204/u11123769/audios/d2456694fe03.mp3?extra=THybW_1wtBofnyfAImm-_r3AIrAzxGvg9tqjn0CBdHBtXnEgfeWAp883b6NcMYjfxVARGSuopMC0aMWYMp7lhLJP52hoLX1q_AOt0U2gnRxQmm19T30Kf4ug5HqaM8BKer3d36dni7XQ-HE
+Title615=Fabian Luttenberger - I Know
+Length615=304
+File616=https://cs9-2v4.vkuseraudio.net/p10/a87077d57bdec7.mp3?extra=FkXjYoWIFwo1Vd5vEcd2QpEYQkbQj7-VwhZ1gx17Wl_2NzydVjnBP_9xF3LmURhSxuYNIKgC1oYtaiosgGQg23pVxwxE2XnxYj6FKC5YgP2-pFaksfhzwJ9rumK5-YTZE9lzZWiiajK_gLI
+Title616=Mattafix - Big City Life
+Length616=240
+File617=https://cs9-3v4.vkuseraudio.net/p18/2b46914f9d15bb.mp3?extra=R0q4nJlt_GDcBsh5sK_JnddQCv9Hr6Gfb5iNZUuLftv7aESCKglmPCNyORsEnk1uuxKOHRY7foXhWS_N4VE5Pv4a6P7OEiWoV5b7rVc955G3205GZ5ScqBATRbgbkmZTHCO5RutJXMcTq3U
+Title617=Gorillaz - On Melancholy Hill
+Length617=233
+File618=
+Title618=Linkin Park - Esaul (A Place For My Head Demo)
+Length618=187
+File619=https://cs9-1v4.vkuseraudio.net/p7/47ae1045e7ec70.mp3?extra=oO4i98VpDdNs4lDbWaYdffCfEPEU1Gw5JJQnR78APrpkNDmXTGKyLIs-dGuz4r8xu4U6Xb1RVgxVBLgEUSj3nM_KdMCcnhm-IhGNlMMgkU-8-bblKpnKfFr83_pYeR0XZkcX5Q3juOfa8uk
+Title619=Nirvana - Heart-Shaped Box
+Length619=278
+File620=https://psv4.vkuseraudio.net/c5050/u44594616/audios/74fa9b9278c0.mp3?extra=E_5CPCu0WSr3_6vhcE99KN1Qb3vJbnq9RWZV9owia-1e_L1WdBVkgV0dNnR3oxvJjgqcnOBdzWRyAfizFdlDJz2vdcr9HBIQ6_qKt5jAuQ4-2Sdobw_P1SOp35gMfcLYrimTpFl3M_J0atk
+Title620=Hybrid Theory - She Couldn&#039;t
+Length620=326
+File621=
+Title621=The Eagles - Hotel California
+Length621=390
+File622=https://psv4.vkuseraudio.net/c5100/u31489286/audios/ed02623b58e9.mp3?extra=Lx9IUQpmoswjfgkV5NV6902HOu4HXOTwFAFAZUFq7riXUC5PqxFLUiLtnX_6cFr7aHci4GTd3_HUpq5E5j9p0m_6OKXLKR3wgf1moxVSXjEQuAVkYjpXOggwcXBriEmvtP6KA785Nbg2A6w
+Title622=Xero - Stick&#039;n&#039;Move
+Length622=159
+File623=https://cs9-14v4.vkuseraudio.net/p3/4f17cda35a147f.mp3?extra=_7tljM_wf7NXz4Ii9wfWm0rnGdrzoFX88-EQoxMsmPBBKk5DHPieXfbPSXhLKz_hMOPqtP8DMAIEYyBTCv-Jlfn77g4tp_JOA0pXrER7V88ygeD6uOkvVfNgE3E1zSwg9h3mevUmIRR2bvc
+Title623=Dead By Sunrise - Too Late
+Length623=179
+File624=https://cs9-5v4.vkuseraudio.net/p3/749f4505651c40.mp3?extra=QK0dCbxDtHHWZ6LSumZ37Ors1wI8MnuEN4XA-y_U0rZt8a4okL_GrWkpkxbJIvg40yXp2WgZc5Sudm9nQEyKgkN-hvEeR8JJcjRtmTkXtMI-cmAeQu4ztY7LtXjoKNSf1CM2uP5YceHwpdM
+Title624=Dead By Sunrise - Fire
+Length624=230
+File625=https://cs9-5v4.vkuseraudio.net/p22/88d15397cce78f.mp3?extra=5ZRuCAP1HcVeVfYcPVKxkXfrHYJBMhKzRQw24vfG5nNVvHqvlWqoKbzgRkC7fbOUvyGmGziABIut7X80_G0wu4qVEsarXHbrqHrLRhDokjgCF3yMqO9emO9Y2e3BUH2lRIVhf8oN06PnSTk
+Title625=Dead By Sunrise - Inside Of Me
+Length625=138
+File626=https://cs9-4v4.vkuseraudio.net/p16/25f9df7e6eea49.mp3?extra=X7x7neMYuAhZnSO8tTKVBtdeW9S9nE_77U5VqEEUWXe_viz901sFyVFvrHlY_x9_Hqe1d-aIWfWnoGcxx-uuFNK0Hibo1eY6KCzerRfhTtYR3mIrPa0zpXOsnT_0ToKSRf34ojBqtZOggmo
+Title626=Dead by Sunrise - Let Down
+Length626=237
+File627=https://psv4.vkuseraudio.net/c4644/u24655088/audios/62db7e1f4c04.mp3?extra=LJUiu3BjSfmmKdxG7SaZYnw7K7ltw5n5RnoGyIeLoMF95ItaS_zfdj8fwOHFhYW1ck-RI6G02VYX4P_dUD7QOmnQrqFQJD-kt_GUgspugYDm1z1hocyXsHyfzqcjItQuxlFib8Y8X9o0t14
+Title627=Dead By Sunrise - Crawl Back In
+Length627=182
+File628=https://cs9-5v4.vkuseraudio.net/p14/9c76678eaf1feb.mp3?extra=IUPwfc07EfutR2h5vcNUZulnbWz70tRvmagziI7o37SWJtdjM8DHJ5Ac_VlQ1aSvQ8a0jtCw8S9qT-IkA_0-2_PqGcUpT_hM90o4eh9ni6mS4fM9vxSQU_KssuSyfaIA3hNBXL5wzt-6Bw4
+Title628=Dead By Sunrise - Walking In The Circles
+Length628=283
+File629=https://psv4.vkuseraudio.net/c4379/u10421352/audios/73d42a9b8c61.mp3?extra=dhnqp_QJ1sbSSpp_irnW4ZohSLiSkpaaSwCSbGPH1AQ5_8d7TWJ685xoFX4wouTttBVdq_c2vuUL8lXMtlnQ6FhmJvEGvuBQ9uvZshaa1tjatnkAJ6cG4RntbTQxZGrH8XMVqNaHuOu42QI
+Title629=Dead By Sunrise - Into You (Out Of Ashes, 2009)
+Length629=204
+File630=https://cs9-3v4.vkuseraudio.net/p16/9063ff206bbe44.mp3?extra=qBj7jwryIUhI-LJjrlnhHn6h5qMFJ03qRgwohrn5oHl2hNRyv07q6rcx_p1tpqnYH6KmR1vIkl4ol0w6uLcAehnTH7a9yI6fSn4sjmb7UfTkzrnXrGy7dXIZLLl3T-PZlhKxZL_IHn2jRrc
+Title630=Dead By Sunrise - In The Darkness
+Length630=328
+File631=
+Title631=The Beatles - If I Fell
+Length631=142
+File632=
+Title632=The Beatles - I&#039;ve Just Seen A Face
+Length632=127
+File633=
+Title633=The Beatles - Love Me Do
+Length633=151
+File634=
+Title634=The Beatles - Twist and Shout
+Length634=156
+File635=
+Title635=The Beatles - And I Love Her
+Length635=149
+File636=
+Title636=The Beatles - Help!
+Length636=138
+File637=
+Title637=The Beatles - All My Loving
+Length637=126
+File638=https://cs9-12v4.vkuseraudio.net/p11/b185a72600214e.mp3?extra=1juKpNdrXVooxM1uOgjzx3bD_tLFcl-g4ldiZ4wReuNRoOMyAi0FNqONscFZsbCi00sC3pyUK3ciU5rmhKJrdp9LZ46dq6F4ZoYk8TEFKLuMreTWFwC94t0j4bBaQYUGdHwZKOyLhjyz52o
+Title638=Linkin Park - In Pieces
+Length638=220
+File639=https://cs9-7v4.vkuseraudio.net/p8/c3f45d35fcd067.mp3?extra=K7V2afM8r8UsYuAdXnQRzrXBHLbMlMJhrPysMgQgRJjlDZmvfQdzv3KNRJ0XdIyB6mxmc3GJ1yOdu5X3u8c3czlOo-w_d0kGL9PCCkoLTEmG8k6XSyT-CdrAnA3PsWyIjQ_Gp2nS64rCJnQ
+Title639=Linkin Park - Blackbirds
+Length639=201
+File640=https://psv4.vkuseraudio.net/c5117/u48677845/audios/fa01feaf4e9b.mp3?extra=lxESN-RjTnGZaQwwUW3_400f9vk6h9KEXNs1tj4Rx4EnSu91WsuOLZ60W4B9QuKlofIJ0wGJ_fFozNLyF4oyOHK1HO5cVXZnXyx940akmvp9oBUWoZVZnDNoRVUcA7ZAry81zKUOCEbCIgU
+Title640=Slipknot - Eeyore
+Length640=169
+File641=https://cs9-7v4.vkuseraudio.net/p5/f212bb79b1c83c.mp3?extra=eVQpaoaAd2yQ4lhi96-3PHtYoKf5cSpHDF09tY0SH0CjGnpBTBn9xebskez3Apfk-OdYY9KwzHDZF3AwoHpKxHJC5AHjr_HxeO39zIW3O0q1Bq4M9yIWKFZkD2pWUsSqQrjSk3rNYu1dRQs
+Title641=Linkin Park - Forgotten
+Length641=196
+File642=https://cs9-3v4.vkuseraudio.net/p18/5731c4bdfb625b.mp3?extra=6c1wZ32nRYrvkayZ-ePtZA2r8_CLHlmpTGVeM3oV-LCTtuGU4YRTm7wCGb21ujS0Uoki5iGbcKzsvWROOfuufxSnJaXCdaA-AHjU1YXLObFGnkly_bR6qZqowIfzEJBKm_i2LMpFcnfco8w
+Title642=Michael Buble - Always On My Mind
+Length642=270
+File643=https://cs9-1v4.vkuseraudio.net/p11/c299b58c99e3fb.mp3?extra=85vcGyLnh1NTNBEDyVQd3GzpJ-iqJstaX2lCRTjty-FBXoVesF1E1UpFypq1pMhk28h2irCWO942QQrgHiOmniY7Y1o_R2J5BysT_DhDvEJSZXpL2jLBGdAwqrn5KiIxpdlIBc5pxUAzji4
+Title643=Maroon 5 - Good night
+Length643=241
+File644=https://cs9-6v4.vkuseraudio.net/p21/671b1cb273a238.mp3?extra=GjdYnz5f8auVziX8R4T6ScpS9FAMWjj8uJGPrwayxV6e6Z29paC934QoahRodgm6_3ajHOBZQazvWdJFjrBHJ2S-WArccJgW1IkbJFcyFNm63hpzjZSxGaw92yZ5PVyhysKQ2R09vWpxfUc
+Title644=Maroon 5 - Never Gonna Leave This Bed
+Length644=196
+File645=https://cs9-5v4.vkuseraudio.net/p3/316fc93a1c7c34.mp3?extra=o8yqROEd-k-l3Yd1vkFtBjBJsZfiPubUKiTCwreeeWVEjfyV5DyLRc2QEcuELBsnesafmAdHO4NAaLxI0q9xBGv1py31Wwo8gxiNhbbTFK8ycs9PXPdRGxzC5X35ehljmP18pFLbYliHGhk
+Title645=Maroon 5 - Nothing Lasts Forever
+Length645=187
+File646=https://cs9-7v4.vkuseraudio.net/p6/be146220a28ffc.mp3?extra=ZpGzolpsDrPyGIwZsZNOEqAvRThf-kXtTNYw_YX1rBe80g7a58H5kVOn5_p_TrQNb2C5UPy-kvn9qnZwrKROtsqEqyMQ483gEhFH7kGe1opqBNPFFswM9dDqMj4f_pa6l120lym42K3LCkQ
+Title646=Пётр Налич - Lost And Forgotten
+Length646=166
+File647=
+Title647=Kevin Rudolf - In The City
+Length647=185
+File648=https://psv4.vkuseraudio.net/c1333/u7590674/audios/5d17630447e9.mp3?extra=DK5AGwTKLf8VHh2gj-VvR4jDAIcJHtaFzAxjR8TLcPntl7t1UISzSjpdU62IjfUDrYRFaM1CRY2trEGA8F282yiuskoVYv-kGZ1mMsSo04yEWExUxWwIti5m0aasuPSIJWGueohZmsEitVs
+Title648=Бумбокс - Одна
+Length648=272
+File649=https://cs9-3v4.vkuseraudio.net/p7/01d892c3c66a7f.mp3?extra=Hg0SNQXEi3zeoEbQUdRFUPGW61hPpW7ovTifp1my5S1tow5ATjhxS4FU0ACJ8vZlQqWLlWxiYUutC_RK7zwJVF-GjJE6SF-Ly0PT5EPyZKh2a8VkjfAi2aJjN3BQObzsnEZ2DMPep0afx-A
+Title649=Red Hot Chili Peppers - Venice Queen
+Length649=367
+File650=https://cs9-9v4.vkuseraudio.net/p15/f81e89b2aa27f7.mp3?extra=_bLBPipv-Zqd27gaEFtv-NAsS-78Cr0CxZBHrOLpCCPRWv3suIC4D8GXGaQUSGgksVMKLqFzCuGse9BAUTx-GTGeZLQ2JFzZwG_eiMT7VEBH52nJfJLNGtg6twPIGy2Af2r2uFoMbAYp0Bo
+Title650=Dido - White Flag
+Length650=244
+File651=https://cs9-14v4.vkuseraudio.net/p9/76f7543bea8fce.mp3?extra=wka8GbvK2ZTNfWBeATSlYA9c8f7GISV7DHsY9qq984A5TJ99Y8d0evS6vh0ejqjcQ3CWGugY2rRnSBSgzybT7L1__Qv1N5OM2yHyR-6o_RslPRfwl3Zn0XByF6b9IImWAlflG6BWZ1tl9Oc
+Title651=Queen - Love Of My Life
+Length651=218
+File652=
+Title652=Green Day - Oh Love
+Length652=303
+File653=https://cs9-16v4.vkuseraudio.net/p17/0d6fb66678ab5d.mp3?extra=Wz5WuJB_jWlwxK4EwZp9DbQZuPECvnOsoOiNyAWCTOO4wNFOZ7XMFw4JLGLDRd85dGwtz-LrZjjuQOiOzcLiW2s93YY3PZ_Hz6Gt7kghUSOjWTk2YAj00B42ufgfiPy5M_bH-YGCYU7hWPs
+Title653=Drowning Pool - One Finger And A Fist
+Length653=186
+File654=https://cs9-1v4.vkuseraudio.net/p23/5145c51460b251.mp3?extra=pQkkqGumH5eWUiy8UHoaWLyD02TtLX4ykV-awmSZCsGLz8SSphVpqcIT97uiKS-vQO7XOaX33wnnvXxExqiO4yjYtqU5dCDOQ0oZz6QWDaFuHf54nADSCjohuAlQBjjdyfsbWUaBY_d-rb4
+Title654=Flipsyde - Someday
+Length654=239
+File655=https://cs9-16v4.vkuseraudio.net/p24/eec7a1f922c2db.mp3?extra=1jRJUe8xELKRQFZaBghfVdc_MF8mRSb8tgfZmkyEpzSq2GLUbOmqJsy6OteY3KMDOaSssStfE7vh8Ghf5StTNtVYJQnoIolkF7BcTztWHKnHyd2DDiRkD60hDruajW5WeV9qn-l6nAJR5GY
+Title655=The Cat Empire - The Lost Song
+Length655=200
+File656=https://psv4.vkuseraudio.net/c521423/u87434505/audios/b53e9aee33e5.mp3?extra=dLDM-wA_38OCDRsOz9M-hvuFhIJYmUvwrRVXm_LqrA-FZKlJzamhgrQpqIADas8YmVh_6uVCYlWFtiBnL_5keQecxsKsxdz78Im7F732ND4c4DUhijyHqVYkn9COL7d1veKSeNcIwo_kWbE
+Title656=Linkin Park - In My Remains
+Length656=200
+File657=https://cs9-6v4.vkuseraudio.net/p19/b7e157b52d97e6.mp3?extra=ULrg3T3Uj2cDKJbgGpVtQib5sVm3SUghhkpm2EwiZGeC9nMNtrJbRuSpbs_gXCWQi9788wqGY3m3YlFSy-YDNu864BLoy-wFpiglBB4ocKqlfo0bQtjsvusvMcSIWvSL8n-Ge4GeMJ8mW2c
+Title657=Linkin Park - Roads Untraveled
+Length657=224
+File658=https://cs9-14v4.vkuseraudio.net/p19/3194406c90d4f2.mp3?extra=w9lGE0muWsiSqN-qqst0yJ7WeUlKgOSXYNoXnnSkQKSaZQXwn_BClDO_Bs9ZEGlZRETtwQJap_h3yNIwx2fwOqVH-QvylQaZQZ34AnMFx0ReURQSjq9nYs8oh5OZh5cdY-snWzXesxtur7s
+Title658=John Murphy - Don Abandons Alice (OST &quot;28 дней спустя&quot;)
+Length658=256
+File659=https://cs9-13v4.vkuseraudio.net/p2/78289b2aafe1be.mp3?extra=cfGOesXoWNhcOlKCHiHX3217jQlVQ52aVdJTgvjImJFlfVfxnQU4yxvBeurboIlI6arnwPaGByn-NXvvbTa-bWE2D5mNalkEyfWP__nI0ixljpEGS3WQcKrHUo2NABki3sH3jBF6HZtaFn0
+Title659=Red Hot Chili Peppers - My friends
+Length659=242
+File660=https://cs9-6v4.vkuseraudio.net/p6/f7df471d416b3b.mp3?extra=MPMwie22WKOMQQl3QuMNUIVraqtMxDqsxVDXOnK4EjVU8NVWb4GUUJzmXMHCdpZcldsPILb8L30nqKm8_09hE0McsPp-E_q3v4KBYpFRbMvQ05OlQwpA3CPwaiufS42Y0KKJa2U9Y6ZP3fg
+Title660=Rob Bailey &amp; The Hustle Standard - Hungry
+Length660=266
+File661=
+Title661=Gramatik - While I Was Playin&#039; Fair
+Length661=245
+File662=https://cs9-14v4.vkuseraudio.net/p24/cec10c28c42f25.mp3?extra=Yqb1WKRzYGweans5fh9UAAERDc-eq3N7ST08OU2fYPUs1DazzNNUYhEbEfJvpndad9a9tuIbzs9aoh3-5jJVXmADxu9BCWAxSITl1LIEYrAom5kz_JhuXHMWNysfJQ_iflhuKBKzLajdxPw
+Title662=Foster The People - Call It What You Want
+Length662=240
+File663=https://cs9-3v4.vkuseraudio.net/p17/5bd309c1b59649.mp3?extra=O4T7LAkbNHIzeLq3H3kQa9VoZOuHxNFL9iV8GEtU2-9wKOfLj2_PpWjviAThtyapGHGWRe3BaqJK3kpARlH0-W8q84dgq7mFgBIl3ZF9wNdhwXGFCl-nNKYtInIvvZs5RjIks4F7Pp5wGxw
+Title663=Coldplay - Paradise
+Length663=252
+File664=https://cs9-4v4.vkuseraudio.net/p5/b3c8dd6e2aa7f2.mp3?extra=VZl63qLX9j6b0_I3hP9mS_9So9I3L11vBlqbsgRWJ3k3g4SwlkFu2B91V01hl9r8kKSl8_KgCFxc3h1W8CVuEhjpmG4Y7G0K0plri6Wk8z7coAXIDY-VzxsmDABrL9ZI5ZN7ya3O6PWdy3k
+Title664=Gorillaz - Feel Good Inc.
+Length664=200
+File665=https://cs9-2v4.vkuseraudio.net/p16/90fd7eb484d7d0.mp3?extra=clfn4sFc7E2C3UmSYVaozEDbZ_30rx5i8BD33xGuUDg9W2H806d7h08yZ6Yv_nOB1aXghvd1zQy_y_LouYr8uEiSOw8sUQ--JlKoQn2Ny-AzsGnBq9prA-Px_5OhwSfUfwIZWm26z5asYtk
+Title665=Sub Focus - Coming Closer
+Length665=215
+File666=https://cs9-4v4.vkuseraudio.net/p23/24df62149db7d9.mp3?extra=1-MZal-qivgY-bVz39bbnKmqZSky63J9SUOeRUZ_lquNK3stKmw18zy9h6vWquhEcnTVbC1EACLBKeE42mfNnelHcnhxZKoaxS2BrsJH8B_-QgdtzOBtYt8zPBWLhm_hc1pG5-Q6dtULQKM
+Title666=Fedde Le Grand vs Syntheticsax - Ky Paradise (Biskvit &amp; DimixeR Bootleg 2012) radio cut
+Length666=254
+File667=https://cs9-3v4.vkuseraudio.net/p17/e893eedfe28014.mp3?extra=EUwI5hGdGkpkQ9t_Y6VHJljhipTw0l6CyCpzn--wo2leh51qu0_mFuCwn4M82n5f_wYORP8pP_NlEiA7XB5FlJy_LXgGaREfhYeUiB47NmwznvPFm2bBlCSXhEALGQoedmPYhTBl3AnNPys
+Title667=Calvin Harris feat. Florence Welch - Sweet Nothing
+Length667=204
+File668=https://psv4.vkuseraudio.net/c6110/u31671868/audios/56d057b63f1c.mp3?extra=ZTw2Yjl1dPrsZMuKX_tykhePYsW9kfMXIBs4TXPQaYpocGUbSmQrmqqK6-up25cHM2C9wM1vsFzI4bOohH3shOYt6OgcbEDmixxHXcO5_07RFwuzFoF3oQ4ckJ6QgutFGarXGV0sRk1kAOI
+Title668=Swedish House Mafia feat. John Martin - Don&#039;t You Worry Child (Radio Edit) www.electromusic.org.ua
+Length668=212
+File669=https://psv4.vkuseraudio.net/c4546/u2481730/audios/81fafdce0ea0.mp3?extra=Zn-Rgs48u3r8E2_zVi-t2lmNOTkaUsSvYWvKN99o5_31FoWjqXq9I0qjT0rrJ89FE-zZ98raAvjLOOc5P0EPgKsNSPY74QmlwmALeBLoHUqL8mXhZI_U3yF5Mc7mEDSUk6U1O28GkqhyC5w
+Title669=The Amplifetes - It&#039;s My Life
+Length669=236
+File670=https://psv4.vkuseraudio.net/c5003/u44653/audios/489cfb1e68b4.mp3?extra=jEsXnbfbwoq7ISJgbMbqy0fM3WXBxP-N-s8z5avgIRQhFzrNeKIjD-gFeIVujzDMUbse0ugRe2Bkcvqq_WhNcygIUZSTyPH4tm25rvCKdLIu_fgRHpTJZK5CqDAiZ8efVidJTJ3fV9X8DO4
+Title670=The Amplifetes - Fokker
+Length670=242
+File671=https://cs9-8v4.vkuseraudio.net/p21/717598b2996c8d.mp3?extra=X5HNaWuUq1aPAp7efKDpWY8XmH_WmtY4iLfAM33tb7fqQEC374FK9vSVA4652DYPs7zAwOMeuX5wsj97EFxLpHAVzoqG9F24hjb21mD1gb-WM9h-le84LK6B9vp9Bb2KK827SwoloIYaCH8
+Title671=The Amplifetes - When the Music Died.
+Length671=243
+File672=https://cs9-8v4.vkuseraudio.net/p15/b8a7e8c87b7bdc.mp3?extra=cTiEmmbIY6Xq5G7EFhAsqL9rWHdqKwvaOaIFxCOyffVL1mxUGHj2M9SNPNAg7oaLcd6e4pQmTiktQnCMZHrdNKbzQBxgQhBu33NTA-03Oy7BrrnGkaqgilucLSNn2U39-lVH2Pu-F_rIhgs
+Title672=The Amplifetes - Blinded By The Moonlight
+Length672=206
+File673=https://psv4.vkuseraudio.net/c4826/u9737082/audios/610d8be21aee.mp3?extra=0YikZVDPcbdGhivLjz6iNEkyaagyvtBCCMzB2TEiijzP0Oda9eyjC71B9sxmZBMtR6_MKIDX4gBx6RjgjX6rMwWt79sz22QtcH7R2pG7jdw6sWQGhtc0V4bdNwkNf_Aa4gBvQFOk2JdD_fc
+Title673=The Amplifetes - Somebody New
+Length673=216
+File674=https://cs9-3v4.vkuseraudio.net/p19/746948d69a4d4d.mp3?extra=QGRrWFwO-JJYUKqOB6TcSCuoALxE7Dyzlo0-WOPsikTiG-wSb1sHQiZqvsxkV8YERRe-ad28lSO99jKriE1b5RKoZGCD83WOFDTc3xwdR58tdg1KgLAldPk0iP4GAfeM2ZMhBOh49yrxYsU
+Title674=Gramatik - Hit That Jive (Original Mix)
+Length674=203
+File675=https://psv4.vkuseraudio.net/c521109/u89435383/audios/df6339cd2ae3.mp3?extra=AloqVPZvQiwLv28N1AtIo6GStjxF36A6YtIIRj542-hsNv6CuMQFImCcCEmgYOIm5zOw8NVBtaK81Ubo3zmwtR5wTmawYyjMekKz5kjL6GZe3ijm9T84N5J9AzVWyjIiR7jKYisYHYwhu3U
+Title675=Radio Killer - Calling You (Extended Mix)
+Length675=319
+File676=https://cs9-12v4.vkuseraudio.net/p7/007c72a455ee47.mp3?extra=BJrfk3-p2u7HUn5m5ZwUxS4HOAeqJhKkwUqpXdmdoWo9-gpBM-rWYLS-OsE0mNnBucs0SY7MqduvujTWfoZqgQyJYwvqOA8bPmpf0juaM-zfFdb1c0RtzCvuPUJvs4SwNcDxtSB6sLI0NrE
+Title676=Chromabox - Little Ants
+Length676=178
+File677=https://cs9-4v4.vkuseraudio.net/p5/d4a4591e147b5c.mp3?extra=ZPDpK5h52C2hU-lztSsBo_pXXZuMQacbMhQRCp5H3g_vz9VWFess5x_ywikAkvqB_iwAo8Og8y66kxUFrl5QAfx_HtGctJlPUl4TJh3UEWw_FaY4LfsTko2iTDna75riFQGWcZ3TgIkB9fg
+Title677=Element Eighty - Broken Promises
+Length677=196
+File678=https://psv4.vkuseraudio.net/c5687/u3125342/audios/c15be702465b.mp3?extra=PmAKfM_jRgx2At-vPT7E5LHHs-m8xRLDCqRqNlTlzWHR6zLdLIbKDLuFjiwv9zpGV0FZ0zQBJB0GdD27PH6O1wGdeDda0l27HcwZArdH83WD8ho34iWGQganctTJxKByA-flUKamF4Q2kGw
+Title678=Dada Life - Rolling  Stone T-Shirt (Paramond &amp; Michael White Remix)
+Length678=315
+File679=https://cs9-4v4.vkuseraudio.net/p15/709dfc59e4474b.mp3?extra=7E0cqHE3CbR7BGtxPoiyklAuV1sK0nyfRE0B5O4QaBlAySi7EAlH-cOxNaOAIx1XOmB14y_lJ1VJM7AGV-osP3Nk7JziJpxcl-9XuN-jsWpYnV-4MskeyVctdJP0pUVFqefK4qCYM_ZDrng
+Title679=Youth Group - Forever Young
+Length679=270
+File680=https://cs9-11v4.vkuseraudio.net/p20/8b0e70cf7b4515.mp3?extra=X_ITI2F9YuDjwBSoDrMIunV6nz8xXZ7uK6IglQBxGOklitNeIWxN7GNF4C-zgSLJ5NnLoDKwaolq2ObKtHU6Ya4_fKW4a8eMoFbGMVf_LGOHuB_61hK4ojZPHnefqdqfPkHJ2i_ehikaNZU
+Title680=Atlas Plug - Truth Be Known
+Length680=285
+File681=https://cs9-12v4.vkuseraudio.net/p12/373c5f7eb0f371.mp3?extra=VP_W5IcPNdbfdjg929INbGMdcsxIaDDmbmrmWn1Iv1iurgzuHTLcgOoqv0fVRa2Q6QM3ighSipIhvZtM6quTu9YKTrYYOr1VugmRE9Prc_SYgMUk5nqmZGq4xx_DbgEAlXg5HAdK0HM7e54
+Title681=Savant - Dancer in the Dark 2
+Length681=194
+File682=https://cs9-3v4.vkuseraudio.net/p14/6f24cbc42230b1.mp3?extra=Bb3TPrYmasrQEBFwAgeDTLuc5h0p2jswqRnDFMHY9OTo3s1E3txlgiB-Ffo5ejKwoL_1VwfClWZL9Xjnd-TVAswCt6709oCbt2HD4zHktUReGV6-zuc9l79sp1V8_GRGsb3nKDBJLljUR30
+Title682=Audio Bullys - Only Man
+Length682=200
+File683=
+Title683=Mr. Lab - Anyway
+Length683=217
+File684=https://psv4.vkuseraudio.net/c4788/u3669543/audios/6f50091f0ee5.mp3?extra=MIUVwr7HlMlt85rU75xn9DTNvkRxQvjTqBcTr2NlKEs23eH50fehkkRoYAyhQ65kcd2Perx06bucK9-oRTlOlOkGKZeCniH7f7jCah-3oY4Ujb0rqT2fcNyvu4atii2qETunEIUH6fZeYls
+Title684=IKKI vs The Zombie kids - R u gonna go My way
+Length684=132
+File685=https://psv4.vkuseraudio.net/c5102/u14953032/audios/9ac137bf2cc9.mp3?extra=VngAaGCBISQVAjVjf-d8oc3arS18vx-9vFtQxUFLrX6XH7_p1hKwn-NGApx_kPT3ScJLWcmpFl7yi2ZS1vIzW4Tgy374BVPkq3UjuQvUFInXdPybsKYKTXh8NU2Y2M6NFLtT1u6ijyKEQMA
+Title685=The Zombie Kids - Roulette
+Length685=235
+File686=https://psv4.vkuseraudio.net/c5102/u14953032/audios/80bf8f82cbee.mp3?extra=OZbXM_WgPctA5lmI2VxAmtWRMx5qNfVfzDtzKLlJmMDRDUfvEy-XJkNwFrQt0n7ae1iT1ftnRhmD54EmTA3VW6qShzzOawcy_NM1qwT5X353njhkfi-a-OxLfFf6rQ0vyIZS-OE0Js-GF0U
+Title686=The Zombie Kids - Jack Hammer 05 (Original Mix)
+Length686=154
+File687=https://psv4.vkuseraudio.net/c4687/u11979550/audios/44fc77c8c20d.mp3?extra=3bU64cM80Ca0Pfow8og0yZBkddiKelLipZ33Vn5HMaaE__OTwvYngbtKxrwjGYttpoiGSzzQKkDoTX0_F1ay1FwUm0twgASmxxv1oPMBYJ9r8sPku2CxX3nS4g3IkGxYd9Wr7m4DT3LJDaQ
+Title687=The Zombie Kids - Drums of Death
+Length687=207
+File688=https://cs9-1v4.vkuseraudio.net/p7/c556b08fcebcec.mp3?extra=oALnV_ibqNxm5ke3XqLLagqVNtyYTG29Y9APynkNwVaQkAfFJGpxWXHp7iVbiQCWnrgxSVbNg0Yzy6HSF9sQeU_if9Q0k-SgYyOB14Af5wRBXDiCf74hMcjMCmQeUI0HPcal4MpeTfHLgT8
+Title688=The Zombie Kids - Face
+Length688=226
+File689=https://psv4.vkuseraudio.net/c4799/u7690325/audios/0717710df030.mp3?extra=91nTxHmLr-itVBfe8qihg0z3nNej-Es0AsVqLnYEgNW-lNBpKFDxy16eCJoKbQ9AKSN80qp8jYDanpnGp3SWWo9Z9U5TDKZ0_PdHVST-M4vYFVyKqz6l6S18X4bdTE4pe6QmRUkd3ucHbuE
+Title689=The Zombie Kids - Blow Money Fast (Redial Remix)
+Length689=296
+File690=https://psv4.vkuseraudio.net/c5102/u14953032/audios/495066cc0c16.mp3?extra=kzUbUSDhs6QU8CkUgbeT5SHtTGZb4PYeTaBWGpyv-bK8wc3WDhrAJMKAQZn8lJCl4TN_73wqTt2csjbHthS0tjWHADPk4kFvUjF8raIHuvk5kdvW0GPqoFK4lZBE2Fd8_MakDossgttlFWc
+Title690=The Zombie Kids feat Moi - L&#039;Ecole
+Length690=209
+File691=
+Title691=Sneaky Soundsystem - UFO (Skrubz Dubstep Remix)
+Length691=445
+File692=https://cs9-8v4.vkuseraudio.net/p8/12d7e7639bcdf9.mp3?extra=4byhkz_Q-a6Vl2EV3G23viH4bAD6dZK8PwQ3OmLHlxlt26U26VWv7Sd_pz6KBCauVx_Tqrjw4_sXS9QXfhuBJ20NZlZ1DNS3Hs1jfrWzg5f6EiRI-6FTV-B4FBmURLb7LDuxf-Pq3msNfKI
+Title692=Gorillaz - Clint Eastwood
+Length692=340
+File693=https://psv4.vkuseraudio.net/c4214/u3998071/audios/6e04d6df53eb.mp3?extra=cIexx08jDnMOhA5j_OYsovRiMddbWB3TmKVboXesWXuYu8upfjJnKtowGJEGB4c0kgux-IKnG8jb8uMjhk0fsUkzXLO219hjp9A41PhoH8LgnaDaG_OznrPbv8-O9jR6JCvgsCvSzKybLFA
+Title693=Outlandish - Look Into My Eyes
+Length693=244
+File694=https://psv4.vkuseraudio.net/c4678/u22090661/audios/03b9725ecbbf.mp3?extra=QHPVwGUHmH6CzqF_kxozS9JS5t07TT5nlmFCHgZNTMWqO2iCkIp_mpkPYQtwhHktkM-vA-MI5ucQYE_yc66Tvi9GNWgU38pEhxQTKHXB8U17rkyDuueIthZmLJzvwrffHfMU_mw-H490jiA
+Title694=All Time Low - That Girl
+Length694=211
+File695=https://cs9-8v4.vkuseraudio.net/p22/f4dad8c4944b99.mp3?extra=yUVbjwFowv5Zkv-0194l8DvLexc1C8FzVQjPIaNxgh7DxquaNS7fIXT32DCGqCHegDCIQsRXwTkCxIhNQ9Wn3wf05U8H7FqAGOPT69qumVo2sOLZyiQUSRivgwIwGy3YxIdfIlhUzvBCwug
+Title695=Red Hot Chilli Pepers - Scar Tissue
+Length695=219
+File696=https://psv4.vkuseraudio.net/c4965/u13002901/audios/801c1265b4e6.mp3?extra=9PrTSXISLb-lnrtsLWegBWqDJbQ3vRhA8xRWrzMbYaxyiK04eqAtqVKKHpKRlwruSaKHCtWFoQuDC1AejTlxvezis16Ov_yDw0r-RuTJB5JDBx3tUPh3b6fVW-yWGF-XhlmrhTPx4Uxrd50
+Title696=All Time Low - Return The Favor
+Length696=221
+File697=https://psv4.vkuseraudio.net/c4258/u16008639/audios/a67031d7d949.mp3?extra=sFmWIOsNpCjs7tOfRKsS_TMO_2jHIDsgApGx76X2FFqFWOhYvoTUcDjLUr91wS2Wf8I_fhJQTLj84FoLRQYSzhDDB5z0ygevYpat1OCAjQDLo92i14vwG4oB2NG5shlY015VxBtUeALVbd0
+Title697=Red Hot Chilli Pepers - Can&#039;t stop
+Length697=269
+File698=https://psv4.vkuseraudio.net/c4222/u14272583/audios/dd3266d42eb5.mp3?extra=l_WlEKI_3N5--gZCSIfEHQXZaiemEn9DQNzlLFqvSm4fmJpVvkyJ1xMrncMXWQO2_9Nfd8Yl9SL-E219LG3lq_1rkUoMQjbYcEfZSepg8M3w4LCNR3n7IWvlGS3ZRRS2st8gA_OdyTJoFPU
+Title698=Red Hot Chilli Pepers - Snow
+Length698=334
+File699=https://psv4.vkuseraudio.net/c4890/u30546745/audios/fe76796d75c1.mp3?extra=4EQVRfA8bCu2ZXgjTTh_Qk-1MSQ2C4hEKJselJal4AmpVRMRIvzX0LWuCURhrmPwkEw3nWjA4CuiBwm9HyAGLXk368B8GizVnKpIFpW1EGFQbgVwoBvx_RmqVJrtve1E31aOImsO_FqWOJ0
+Title699=Vanilla Sky - Not Your Friend
+Length699=192
+File700=https://psv4.vkuseraudio.net/c1029/u1096150/audios/50e76e87e6ae.mp3?extra=8NXtOGxUwLTPYw0_iB0n1AM1qgpd2pW2cpYDdRUTp8M1SYlx20Awens7xeXuKxakLl30pVqMbSkIGIIY_Cjahe4w2Nso-ExSqOLLaQoHKXUcwBFMn4mMy903wrTXtuCEH9WF_5Z0RH3MtOk
+Title700=Red Hot Chilli Pepers - Dani California
+Length700=286
+File701=https://psv4.vkuseraudio.net/c4724/u45980208/audios/e26dacfc9ca7.mp3?extra=xml7kqbjeGPEq32NvqQ1qrXC3LCCczYrfe1aHEkrNjBeXQBVm3lxFIdIJxLTYktEmAVNkJrRQvx0pE7qjkyUJS1ytiDuszqiJLYDuqn4Vj-epwWxeUvY9ghpw5paMmA_dA8jEVfZJhwtA_g
+Title701=Lou Bega - I Got A Girl
+Length701=194
+File702=https://cs9-7v4.vkuseraudio.net/p13/1d8b1c0f416231.mp3?extra=iOFh4cFIuaE8JkatM3XJ7cDrgwXlDfUy_bAtTE-XpfTdS1oxeM8sAUSqYdPcy4ynrtFEIHf8-uNL7IQ0Eq37ajP_TiZjLq2Os-sb8o9AIM1kEvYy-EHFcTa6NOTgmE-ty7Kn1X0UkzVaLJw
+Title702=Pakito - Living On Video
+Length702=196
+File703=https://psv4.vkuseraudio.net/c5384/u141356801/audios/1a171e431c2a.mp3?extra=XE2f-8eHzU6dYMXYLe0FCgazFUsa95FX0RUuXt5_ix1-k7atfBfKS2ihHmrFRZ0YCaXLK31CTPdHPXXHtc7cmgxPvPAR1vQxOQ9_EU8BdKAq08gM7_tepd5T8Yilpz8S4Sd7NLKJkxD5scY
+Title703=Feed Me - One Click Headshot
+Length703=287
+File704=https://psv4.vkuseraudio.net/c4515/u24144917/audios/e810152c259c.mp3?extra=JRKnEO30zSS1Hz-kZZw1rWeFd8WoemViwuH_pR9oyHr9aykk0hhfMeZN7DKwglI7Wt-hQB37w9Wfqo_f_ft74QAZybZP9whFJjjSEq7-0u7m2DAWugiFR8pSz-o_zHcP5uRFSatUeNAmJg4
+Title704=Hot Hot Heat # Exclusive Arts - My Best Friend
+Length704=173
+File705=https://psv4.vkuseraudio.net/c4644/u12733591/audios/20a7092e37c2.mp3?extra=MPybhkAV3F6WSVg57ahS0zxmo5aH_G49fVuWPf9x3L05689HSJtJRU8SaWYUqJWii__gv6ZyjK-4ROROmN1EKijCm8P6jgdHPc0synEsikz1emsnzFsNymgtD9pQFt4hkmwWvNnkUOqkGBc
+Title705=LBCK - Start
+Length705=208
+File706=https://psv4.vkuseraudio.net/c4246/u12324079/audios/dcecb32cc559.mp3?extra=Xpi4gqtqrn61-66btUZJUbMNK3zaAlaXT-CF0KJYpjocBxIRkwuRlWd1OoBVvbJGR9JxYRSeI7V3uxiwr8tBGF5eSP_QQOXE-GchT_FRFOOUy78c92XZLUNyvDmWt7AQnBUuLHVaF-XMI3U
+Title706=Killers - All we Human
+Length706=247
+File707=https://cs9-17v4.vkuseraudio.net/p3/e3e20dc01da4dd.mp3?extra=9nCkjeMtoOJp_Ou2hZsyBoD9SDuorueIDgx_YA0p3TNqhH0E8V8FyfwrgzkfjhIszLw4I-CJ4kXQVQ38t3EHg2XzZUuBnZRNUPpVS5lgXocOa-3t8Rha2vkGO-ruMIsKBEt2cZgUCFhi-ek
+Title707=Serj Tankian - Lie Lie Lie
+Length707=213
+File708=https://cs9-15v4.vkuseraudio.net/p18/27da6213b3affe.mp3?extra=dF2JSKOZNF360VumA8e8Yb1UQ2TKvDQ-U39zkMz-zvB-PBSBh9Clf700jEkrh5v5rXwjR4LVnjViQoVCfJspExFqbYkQXB42ivhm-oIFgY-vdSZV_BoP7ogeAKLXpGUdgFxs9Dk9XtiVgGA
+Title708=Pete and The Pirates - Mr. Understanding
+Length708=194
+File709=https://cs9-7v4.vkuseraudio.net/p13/c76fb4ad720e7f.mp3?extra=yybsZmW1aFOXlhMTII4Q6c4ns3vbXDluQEGynEPAf4sFW3mGjG1mU9PuzhQhbu7AqVE2C_e0tR7RU62na4nyBAQ6RBwhldt_RVB3hPJLD8DpDOSPTyDh78BWOTorRqhkW-4IVsNzGmIFvtU
+Title709=The Prodigy - Girls
+Length709=247
+File710=
+Title710=The Prodigy - Omen
+Length710=216
+File711=https://psv4.vkuseraudio.net/c4269/u6818724/audios/b92a4d29f3cc.mp3?extra=XN-nvW5mdJPy_LpUBQvi0mfz7fVsbR5OdSgWtnYGqZwZvxV1pYxbS7gyU6BbI9z_GnlGvxx1gHtRIdpZFI6COxoAsjTleXLHkhubbw9J8qoT9XtqgHDgcuI40yN7cb2uq2cUt071t2SwjQI
+Title711=The Prodigy - Take Me To The Hospital
+Length711=220
+File712=https://psv4.vkuseraudio.net/c1340/u1509022/audios/4cce3977f491.mp3?extra=mJCctovBi3aOxhDCtZ11Cqk0SSP4PxPxwC_orJXov0DjbGlaKiZ6IzHHxS6di3autQ1UhfrUjDtipb9cfN27yEY97zW6oOos92fGmLljgqur66T5q96S7b3D572fsAAJcAd7C5H36-F9hNg
+Title712=Sophie Tucker &amp; Ted Lewis - Some of these days
+Length712=174
+NumberOfEntries=712
+Version=2

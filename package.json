@@ -1,0 +1,22 @@
+{
+  "name": "vkify",
+  "version": "1.0.0",
+  "description": "Imports your VK playlist int Spotify",
+  "main": "index.js",
+  "author": "Vadym Zhufiak <vzhufk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "playlist-parser": "^0.0.12",
+    "sleep": "^5.1.1",
+    "spotify-web-api-node": "^3.1.1"
+  },
+  "scripts": {
+    "start": "nodemon --experimental-modules index.mjs"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
